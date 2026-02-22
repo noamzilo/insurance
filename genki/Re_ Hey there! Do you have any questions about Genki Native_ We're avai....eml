@@ -1,0 +1,423 @@
+Delivered-To: noamsalomonski@gmail.com
+Received: by 2002:ab4:a424:0:b0:2c5:4003:8fe2 with SMTP id en4csp1355425ecb;
+        Fri, 20 Feb 2026 01:36:20 -0800 (PST)
+X-Received: by 2002:a05:690e:d48:b0:64a:e61f:a6f4 with SMTP id 956f58d0204a3-64c555622d4mr5423762d50.19.1771580179943;
+        Fri, 20 Feb 2026 01:36:19 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1771580179; cv=none;
+        d=google.com; s=arc-20240605;
+        b=bDgG0hvngTk/D0+bxtAvdj0Wwha2sBgncalOltCEth05ObwbDLpn+ArxiC01H1U6vc
+         9fbrctHofvjWa2qDFxYHWLzLIALl8IpYC0SGXlnNilhIF4WI4pKKLs0n3oCcTdzZJ7Fn
+         QRboc/FhOLrADrpAqylssE5p+6rj6bUQQy49YN7y+/rWfEAq1RGPgcFsiBLfBnHRnS4G
+         Pn2KML7Kna2vVT/hZxkgkT6K8zM+phlFiX4viZQZVyNkbYt/m16bbmqRB0+4QKqiY5qw
+         qkkEUIxatyv4ERybkwZkHMlX/d/Xz4Die5MGV8vCKhE5RDYhFoNWBDfsDEKQKstclu0A
+         G9Qg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+        h=in-reply-to:message-id:from:subject:date:references:reply-to
+         :mime-version:to:dkim-signature;
+        bh=BsNjqrP8/pZOOxzrXI2FtLA7Man9D4KHTRcUVZlnnSE=;
+        fh=UC6zT5Z/7TfzM5HX9JXSdYWz/XVJcLgG9+hZ7IXaFzA=;
+        b=VYzcQhpYrDnCRLx/nvAKCkgG6jQyd7jy6H8OhazVUj0UW+boFIfBk6OaOn2dt1eHhK
+         1hKskfysdX1ZlSlKPRMgfNBpmpnnAdNZeWeFq7lqafmt2gSveilchTaf/HJIogIsMVjF
+         rF6aPe0beUwYMgVi52xoMGj1YXm76C0Kwcyx+iQvOIFXDsPqmco9cNajcypYNcUWesmB
+         4TyZLcDdft+VQsMRECKL9vcNXo2m9mHYr+z+YFAm0HtSDylVxHHNYNO458nuise3D7ya
+         gWLtrF3+KW0MQ7Ltzjj7s+d5IMQbyZUgnEQUV3ev7bKZu4LHySwuw0n9OB3+41ie2FB9
+         99hw==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@genki.world header.s=intercom header.b=nnifhTHM;
+       spf=pass (google.com: domain of bounces+215473145250350@outbound.intercom.genki.world designates 192.174.84.114 as permitted sender) smtp.mailfrom=bounces+215473145250350@outbound.intercom.genki.world;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=genki.world
+Return-Path: <bounces+215473145250350@outbound.intercom.genki.world>
+Received: from mta-174-84-114.intercom.com.sparkpostmail.com (mta-174-84-114.intercom.com.sparkpostmail.com. [192.174.84.114])
+        by mx.google.com with ESMTPS id 956f58d0204a3-64c28496c7dsi12934156d50.193.2026.02.20.01.36.19
+        for <noamsalomonski@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 20 Feb 2026 01:36:19 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounces+215473145250350@outbound.intercom.genki.world designates 192.174.84.114 as permitted sender) client-ip=192.174.84.114;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@genki.world header.s=intercom header.b=nnifhTHM;
+       spf=pass (google.com: domain of bounces+215473145250350@outbound.intercom.genki.world designates 192.174.84.114 as permitted sender) smtp.mailfrom=bounces+215473145250350@outbound.intercom.genki.world;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=genki.world
+Return-Path: <bounces+215473145250350@outbound.intercom.genki.world>
+X-MSFBL: 5CnNqy8fzue2AX0/Pr2aLg+a4n/7BKpHYH+U/z/QyjU=|eyJzdWJhY2NvdW50X2l
+	kIjoiMzE0NzUxIiwiY3VzdG9tZXJfaWQiOiIxIiwibWVzc2FnZV9pZCI6IjY5OTc
+	xMjJiOTg2OTYyZGE1N2MyIiwidGVuYW50X2lkIjoiaW50ZXJjb20iLCJyIjoibm9
+	hbXNhbG9tb25za2lAZ21haWwuY29tIn0=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=genki.world;
+	s=intercom; t=1771580178; i=@genki.world;
+	bh=BsNjqrP8/pZOOxzrXI2FtLA7Man9D4KHTRcUVZlnnSE=;
+	h=To:Content-Type:Date:Subject:From:Message-ID:From:To:Cc:Subject;
+	b=nnifhTHMedCGoP7nZPu9EDNhwGpO6MRz6e8c8Ye0jzd8uIy4qLEdYL+SsftfAnTEe
+	 sU7rxEJS7kQeKqUv2WYddgQX7N1KSdf49rtYmzuUqESnXmF01MTX4nTXXm3alFR5Q3
+	 znqh2lgN0ySUrRxsxOCegpyueKiROY4e8Ak/FDcE=
+Received: from [10.90.7.69] ([10.90.7.69])
+	by i-04aa6c48bcc368637.mta2vrest.sd.prd.sparkpost (ecelerity 5.2.0.75117 r(msys-ecelerity:tags/5.2.0.1)) with REST
+	id 2C/7D-32408-21B28996; Fri, 20 Feb 2026 09:36:18 +0000
+To: noamsalomonski@gmail.com
+Content-Type: multipart/alternative; boundary="_----HZAl62/77dYO2o3rYCIBcA===_DB/7D-32408-21B28996"
+MIME-Version: 1.0
+Reply-To: Ricardo from Genki <help@genki.world>
+References: <c2122b869001f198d59c3380923a03d5708245e3@intercom> 0ff92618-dad4f20c-1771446434-215473145250350-1941960@outbound.intercom.genki.world 6d3f1ea2-08ba7ee3-1771442926-215473145250350-1941960@outbound.intercom.genki.world bac4779f-05a283b0-1771437765-215473145250350-1941960@outbound.intercom.genki.world c5ab135a-7f61422b-1771387327-215473145250350-1941960@outbound.intercom.genki.world 08d2bba3-fded27b0-1771386940-215473145250350-1941960@outbound.intercom.genki.world
+Date: Fri, 20 Feb 2026 09:36:18 +0000
+Subject: Re: Hey there! Do you have any questions about Genki Native? We're avai...
+X-Intercom-Comment-Id: 39916719329
+X-Intercom-Notification-Reason: chat_notification
+X-Intercom-Bin: proven_users
+From: "Ricardo from Genki" <help@genki.world>
+Message-ID: <a383e21f-8908dcb1-1771580178-215473145250350-1941960@outbound.intercom.genki.world>
+X-Report-Abuse: Please report spam or abuse to abuse@intercom.io
+X-Intercom-App-Id: ao21yknr
+In-Reply-To: 0ff92618-dad4f20c-1771446434-215473145250350-1941960@outbound.intercom.genki.world
+X-Auto-Response-Suppress: OOF, AutoReply
+X-Mailgun-Variables: {"app_id":"ao21yknr","conversation_id":"215473145250350","intercom_message_id":42181861,"user_id":"6995327c448bbbc9f7707ba1"}
+
+--_----HZAl62/77dYO2o3rYCIBcA===_DB/7D-32408-21B28996
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi there, Just checking back in. If you would like to proceed with Genki Na=
+tive, you can use this link to sign up. If you have any questions before mo=
+ving forward, reply here, and I will help. =0D=0A =0D=0A Stay healthy =F0=
+=9F=8C=B1 Ricardo
+--_----HZAl62/77dYO2o3rYCIBcA===_DB/7D-32408-21B28996
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/htm=
+l4/strict.dtd">=0D=0A<html style=3D"background-color: #fff;">=0D=0A<head>=
+=0D=0A<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Ty=
+pe">=0D=0A<meta name=3D"viewport" content=3D"width=3Ddevice-width">=0D=0A<m=
+eta name=3D"format-detection" content=3D"telephone=3Dno">=0D=0A<!-- Resets =
+-->=0D=0A=0D=0A<style type=3D"text/css" data-premailer=3D"ignore">=0D=0A  #=
+outlook a{=0D=0A    padding: 0;=0D=0A  }=0D=0A  body{=0D=0A    -webkit-text=
+-size-adjust: none;=0D=0A    -ms-text-size-adjust: none;=0D=0A    font-weig=
+ht: 400;=0D=0A  }=0D=0A  .ReadMsgBody{=0D=0A    width: 100%;=0D=0A  }=0D=0A=
+  .ExternalClass{=0D=0A    width: 100%;=0D=0A  }=0D=0A  img {=0D=0A    bord=
+er: 0;=0D=0A    max-width: 100%;=0D=0A    height: auto;=0D=0A    outline: n=
+one;=0D=0A    display: inline-block;=0D=0A    margin: 0;=0D=0A    padding: =
+0;=0D=0A    text-decoration: none;=0D=0A    line-height: 100%;=0D=0A  }=0D=
+=0A  #backgroundTable{=0D=0A    height: 100% !important;=0D=0A    margin: 0=
+;=0D=0A    padding: 0;=0D=0A    width: 100% !important;=0D=0A  }=0D=0A</sty=
+le>=0D=0A<!-- Main styles -->=0D=0A=0D=0A<style type=3D"text/css">=0D=0A  /=
+**=0D=0A   * Generic=0D=0A   */=0D=0A=0D=0A  html {=0D=0A    background-col=
+or: #fff;=0D=0A  }=0D=0A=0D=0A  .main {=0D=0A    font-family: Helvetica, Ar=
+ial, sans-serif;=0D=0A    letter-spacing: 0;=0D=0A    width: 100%;=0D=0A  }=
+=0D=0A=0D=0A  table {=0D=0A    border-spacing: 0;=0D=0A    border-collapse:=
+ separate;=0D=0A    table-layout: fixed;=0D=0A  }=0D=0A=0D=0A  td {=0D=0A  =
+  padding: 0;=0D=0A    font-family: Helvetica, Arial, sans-serif;=0D=0A  }=
+=0D=0A=0D=0A  a {=0D=0A    border: none;=0D=0A    outline: none !important;=
+=0D=0A  }=0D=0A=0D=0A=0D=0A  /**=0D=0A   * Content=0D=0A   */=0D=0A=0D=0A  =
+=2Econtent-td {=0D=0A    line-height: 20px;=0D=0A    font-size: 14px;=0D=0A=
+  }=0D=0A=0D=0A  .content-td .article-card,=0D=0A  .content-td .intercom-in=
+terblocks-link-content-container {=0D=0A    max-width: 500px;=0D=0A    bord=
+er: 1px solid #e0e0e0;=0D=0A    border-radius: 2px;=0D=0A    padding: 0;=0D=
+=0A    margin-bottom: 15px;=0D=0A  }=0D=0A=0D=0A  .content-td .article-card=
+ .intercom-interblocks-link-content-container {=0D=0A    border: none;=0D=
+=0A  }=0D=0A=0D=0A  .content-td .messenger-card table {=0D=0A    border: no=
+ne;=0D=0A  }=0D=0A=0D=0A  .events {=0D=0A    background-color: #F5F5F5;=0D=
+=0A    border-collapse: separate;=0D=0A    border-spacing: 10px;=0D=0A    t=
+able-layout: fixed;=0D=0A    border-radius: 5px;=0D=0A    border: 1px solid=
+ #E5E5E5;=0D=0A    padding: 0px 15px 0px 15px;=0D=0A  }=0D=0A=0D=0A  .conte=
+nt-td .ratings td,=0D=0A  .content-td .fin-reply-options-old td,=0D=0A  .co=
+ntent-td .messenger-card td {=0D=0A    border: 0;=0D=0A    padding: 0;=0D=
+=0A  }=0D=0A=0D=0A  .content-td .fin-reply-options td {=0D=0A    border: no=
+ne;=0D=0A    padding: 0;=0D=0A  }=0D=0A=0D=0A  .content-td .messenger-card =
+td {=0D=0A    text-align: center;=0D=0A  }=0D=0A=0D=0A  .content-td .messen=
+ger-card td p {=0D=0A    font-size: 14px;=0D=0A    color: #6e7a89;=0D=0A   =
+ text-align: center;=0D=0A  }=0D=0A=0D=0A=0D=0A  .rating-link {=0D=0A    ma=
+x-width: 27px;=0D=0A    min-height: 27px;=0D=0A  }=0D=0A=0D=0A  .content-td=
+ > :first-child {=0D=0A    margin-top: 0;=0D=0A    padding-top: 0;=0D=0A  }=
+=0D=0A=0D=0A  .content-td h1 {=0D=0A    font-size: 1.3em;=0D=0A    font-wei=
+ght: bold;=0D=0A    line-height: 25px;=0D=0A    margin-top: 20px;=0D=0A    =
+margin-bottom: 5px;=0D=0A  }=0D=0A=0D=0A  .content-td h1 + h2 {=0D=0A    ma=
+rgin-top: 0 !important;=0D=0A  }=0D=0A=0D=0A  .content-td h2 + h1 {=0D=0A  =
+  margin-top: 0 !important;=0D=0A  }=0D=0A=0D=0A  .content-td h2 {=0D=0A   =
+ font-size: 1.1em;=0D=0A    font-weight: bold;=0D=0A    margin: 20px 0 5px;=
+=0D=0A  }=0D=0A=0D=0A  .content-td h3 ,=0D=0A  .content-td h4 ,=0D=0A  .con=
+tent-td h5 {=0D=0A    font-size: 13px;=0D=0A    font-weight: bold;=0D=0A   =
+ margin-bottom: 5px;=0D=0A  }=0D=0A=0D=0A  .content-td p {=0D=0A    margin:=
+ 0 0 15px 0;=0D=0A  }=0D=0A=0D=0A  .content-td p.no-margin {=0D=0A    margi=
+n: 0;=0D=0A    min-height: 15px;=0D=0A  }=0D=0A=0D=0A  .content-td p img,=
+=0D=0A  .content-td h1 img,=0D=0A  .content-td h2 img,=0D=0A  .content-td l=
+i img,=0D=0A  .content-td .intercom-h2b-button img {=0D=0A    margin: 0;=0D=
+=0A    padding: 0;=0D=0A    vertical-align: top;=0D=0A  }=0D=0A=0D=0A  .con=
+tent-td a {=0D=0A    color: #1251ba;=0D=0A    text-decoration: underline;=
+=0D=0A  }=0D=0A=0D=0A  .content-td .messenger-card .link {=0D=0A    margin-=
+bottom: 25px;=0D=0A  }=0D=0A=0D=0A  .content-td strong {=0D=0A    color: #6=
+06060;=0D=0A  }=0D=0A=0D=0A  .content-td ol,=0D=0A  .content-td ul {=0D=0A =
+   margin: 0 0 20px 40px;=0D=0A    padding: 0;=0D=0A    list-style: disc;=
+=0D=0A  }=0D=0A=0D=0A  .content-td ol {=0D=0A    list-style: decimal;=0D=0A=
+  }=0D=0A=0D=0A  .content-td ol li,=0D=0A  .content-td ul li {=0D=0A    mar=
+gin: 5px 0;=0D=0A  }=0D=0A=0D=0A  .content-td blockquote {=0D=0A    padding=
+: 10px 0;=0D=0A    margin: 10px 0;=0D=0A    font-style: italic;=0D=0A  }=0D=
+=0A=0D=0A  .content-td blockquote a {=0D=0A    color: #8C8C8C;=0D=0A  }=0D=
+=0A=0D=0A  .content-td img {=0D=0A    max-width: 100%;=0D=0A    margin: 15p=
+x 0 15px;=0D=0A  }=0D=0A=0D=0A  .content-td .intercom-container {=0D=0A    =
+margin-bottom: 16px;=0D=0A  }=0D=0A=0D=0A  .content-td hr {=0D=0A    border=
+: none;=0D=0A    border-top: 1px solid #DDD;=0D=0A    border-bottom: 0;=0D=
+=0A    margin: 20px 0;=0D=0A  }=0D=0A=0D=0A  .content-td table th {=0D=0A  =
+  font-weight: bold;=0D=0A    background: #F6F6F6;=0D=0A  }=0D=0A=0D=0A  .c=
+ontent-td table td,=0D=0A  .content-td table th {=0D=0A    padding: 7px 10p=
+x;=0D=0A    border: 1px solid #DADADA;=0D=0A    text-align: left;=0D=0A    =
+vertical-align: top;=0D=0A  }=0D=0A=0D=0A  .content-td table {=0D=0A    mar=
+gin-bottom: 20px;=0D=0A    border-collapse: collapse;=0D=0A    border-spaci=
+ng: 0;=0D=0A  }=0D=0A=0D=0A  .content-td table.intercom-container.intercom-=
+align-center {=0D=0A    margin-left: auto;=0D=0A    margin-right: auto;=0D=
+=0A  }=0D=0A=0D=0A  .content-td table.intercom-container td {=0D=0A    bord=
+er: none;=0D=0A    padding: 0;=0D=0A    margin: 0;=0D=0A  }=0D=0A=0D=0A  .c=
+ontent-td a.reply-in-messenger-button {=0D=0A    background-color: #286efa;=
+=0D=0A    color: white;=0D=0A    padding: 6px 25px;=0D=0A    margin: 0px 0 =
+16px 0;=0D=0A    border-radius: 20px;=0D=0A    text-decoration: none;=0D=0A=
+    display: inline-block;=0D=0A    font-size: 12px;=0D=0A  }=0D=0A=0D=0A  =
+=2Econtent-td p.reply-in-messenger-message {=0D=0A    color: #8c8c8c;=0D=0A=
+    font-size: 12px;=0D=0A    margin: 0;=0D=0A  }=0D=0A=0D=0A  table.rating=
+s,=0D=0A  .content-td .messenger-card {=0D=0A      border-collapse: separat=
+e;=0D=0A      border-spacing: 0;=0D=0A      table-layout: fixed;=0D=0A     =
+ border-radius: 5px;=0D=0A      border: 1px solid #dadfe3;=0D=0A      margi=
+n-bottom: 0;=0D=0A  }=0D=0A=0D=0A  table.fin-reply-options {=0D=0A      bor=
+der-collapse: separate;=0D=0A      border-spacing: 0;=0D=0A      table-layo=
+ut: fixed;=0D=0A      margin: 0;=0D=0A  }=0D=0A=0D=0A  td .fin-reply-button=
+ {=0D=0A      color: #0A2C93;=0D=0A      text-decoration: none;=0D=0A      =
+border: 1px solid #FFFFFF !important;=0D=0A      border-radius: 40px;=0D=0A=
+      background-color: #E7ECFE;=0D=0A      padding: 8px 16px;=0D=0A      d=
+isplay: block;=0D=0A      margin-right: 10px;=0D=0A  }=0D=0A=0D=0A  td .fin=
+-reply-button-layout-updated {=0D=0A      color: #0A2C93;=0D=0A      text-d=
+ecoration: none;=0D=0A      border-radius: 40px;=0D=0A      background-colo=
+r: #E7ECFE;=0D=0A      padding: 8px 16px;=0D=0A      display: block;=0D=0A =
+ }=0D=0A=0D=0A  td .fin-reply-button:hover {=0D=0A    background-color: #D3=
+DCFF !important;=0D=0A  }=0D=0A=0D=0A  .content-td table.ratings {=0D=0A   =
+   width: 260px;=0D=0A      padding: 16px 0;=0D=0A  }=0D=0A=0D=0A  table.ra=
+tings {=0D=0A      padding: 16px 0;=0D=0A  }=0D=0A=0D=0A  .content-td .rati=
+ngs table img {=0D=0A      margin: 0;=0D=0A  }=0D=0A=0D=0A  .align_top {=0D=
+=0A    vertical-align: top;=0D=0A  }=0D=0A=0D=0A  .align_center {=0D=0A    =
+  margin: 0 auto;=0D=0A  }=0D=0A=0D=0A  /**=0D=0A   * Footer=0D=0A   */=0D=
+=0A   .smiley {=0D=0A     padding: 4px;=0D=0A   }=0D=0A   .feedback_item:fi=
+rst-child .smiley {=0D=0A     padding-left: 0;=0D=0A   }=0D=0A  .divider {=
+=0D=0A    border: none;=0D=0A    height: 1px;=0D=0A    color: #f0f0f0;=0D=
+=0A    background-color: #f0f0f0;=0D=0A    margin: 0;=0D=0A  }=0D=0A  .feed=
+back-text {=0D=0A    margin-bottom: 0.3em;=0D=0A    margin-top: 0;=0D=0A  }=
+=0D=0A  .deemphasized_text {=0D=0A    color: #8c8c8c;=0D=0A  }=0D=0A  .sent=
+_to_text {=0D=0A    font-weight: bold;=0D=0A  }=0D=0A  .dark_text {=0D=0A  =
+  color: #222;=0D=0A  }=0D=0A  .light_text {=0D=0A    color: #999;=0D=0A  }=
+=0D=0A  .align_middle {=0D=0A    vertical-align: middle !important;=0D=0A  =
+}=0D=0A=0D=0A  .history .history_content {=0D=0A    font-style: normal;=0D=
+=0A    padding-top: 1px;=0D=0A    border-left: 1px #ccc solid;=0D=0A    mar=
+gin: 0 0 0 .8ex;=0D=0A    padding-left: 1ex;=0D=0A  }=0D=0A  .history .hist=
+ory_content > *:last-child {=0D=0A    margin-bottom: 0;=0D=0A  }=0D=0A  .po=
+wered_by_badge {=0D=0A    font-size: 14px;=0D=0A  }=0D=0A  .powered_by_link=
+ {=0D=0A    color: #8c8c8c;=0D=0A    font-weight: bold;=0D=0A    text-decor=
+ation: none;=0D=0A  }=0D=0A=0D=0A  /**=0D=0A    * Email signature=0D=0A    =
+*/=0D=0A  .email_signature .container {=0D=0A      margin-inline-start: 0;=
+=0D=0A  }=0D=0A  .email_signature th {=0D=0A      font-weight: normal;=0D=
+=0A  }=0D=0A  .email_signature p,=0D=0A  .email_signature h1,=0D=0A  .email=
+_signature h2 {=0D=0A      margin: 0;=0D=0A      padding: 0;=0D=0A      tex=
+t-align: start;=0D=0A  }=0D=0A=0D=0A  .history {=0D=0A    color: #500050;=
+=0D=0A  }=0D=0A=0D=0A  /**=0D=0A   * Ticket with attributes=0D=0A   */=0D=
+=0A=0D=0A  .ticket_card {=0D=0A    border: 1px solid #E1E1E1;=0D=0A    bord=
+er-radius: 8px;=0D=0A    width: 100%;=0D=0A    max-width: 570px;=0D=0A    w=
+ord-wrap: break-word;=0D=0A  }=0D=0A=0D=0A  .ticket_card .app_logo {=0D=0A =
+     width: 100%;=0D=0A      padding: 18px 40px;=0D=0A      border-bottom: =
+1px solid #E1E1E1;=0D=0A  }=0D=0A=0D=0A  .ticket_card .app_logo img {=0D=0A=
+      height: 26px !important;=0D=0A      max-height: 26px !important;=0D=
+=0A      max-width: 100%;=0D=0A  }=0D=0A=0D=0A  .ticket_card .body {=0D=0A =
+     padding: 28px 40px;=0D=0A      font-size: 14px;=0D=0A      font-weight=
+: 400;=0D=0A      line-height: 16px;=0D=0A      width: 100%;=0D=0A  }=0D=0A=
+=0D=0A  .collapsed_ticket_card .title,=0D=0A  .ticket_card .title {=0D=0A  =
+    font-size: 18px;=0D=0A      font-weight: 700;=0D=0A      line-height: 2=
+4px;=0D=0A  }=0D=0A=0D=0A  .ticket_card .ticket_state_description {=0D=0A  =
+    font-size: 16px;=0D=0A      line-height: 20px;=0D=0A      padding-botto=
+m: 24px;=0D=0A  }=0D=0A=0D=0A  .ticket_card .ticket_state_step {=0D=0A     =
+ border-radius: 8px;=0D=0A      height: 4px;=0D=0A      margin-bottom: 8px;=
+=0D=0A  }=0D=0A=0D=0A  .ticket_card .ticket_state_submitted {=0D=0A      ba=
+ckground-color: #334bfa;=0D=0A      border-color: #334bfa;=0D=0A  }=0D=0A=
+=0D=0A  .ticket_card .ticket_state_in_progress {=0D=0A      background-colo=
+r: #b24d00;=0D=0A      border-color: #b24d00;=0D=0A  }=0D=0A=0D=0A  .ticket=
+_card .ticket_state_waiting_on_customer {=0D=0A      background-color: #db0=
+629;=0D=0A      border-color: #db0629;=0D=0A  }=0D=0A=0D=0A  .ticket_card .=
+ticket_state_resolved {=0D=0A      background-color: #0f7134;=0D=0A      bo=
+rder-color: #0f7134;=0D=0A  }=0D=0A=0D=0A  .ticket_card .ticket_custom_stat=
+e_submitted {=0D=0A      background-color: #334bfa;=0D=0A      border-color=
+: #334bfa;=0D=0A  }=0D=0A=0D=0A  .ticket_card .ticket_custom_state_in_progr=
+ess {=0D=0A      background-color: #334bfa;=0D=0A      border-color: #334bf=
+a;=0D=0A  }=0D=0A=0D=0A  .ticket_card .ticket_custom_state_waiting_on_custo=
+mer {=0D=0A      background-color: #b24d00;=0D=0A      border-color: #b24d0=
+0;=0D=0A  }=0D=0A=0D=0A  .ticket_card .ticket_custom_state_resolved {=0D=0A=
+      background-color: #0f7134;=0D=0A      border-color: #0f7134;=0D=0A  }=
+=0D=0A=0D=0A  .ticket_card .ticket_state_inactive {=0D=0A      background-c=
+olor: #DADADA;=0D=0A      border-color: #DADADA;=0D=0A  }=0D=0A=0D=0A  .tic=
+ket_card .ticket_progress {=0D=0A      font-size: 13px;=0D=0A      line-hei=
+ght: 16px;=0D=0A  }=0D=0A=0D=0A  .ticket_card .ticket_state_label_inactive =
+{=0D=0A      color: #757575;=0D=0A  }=0D=0A=0D=0A  .ticket_card .ticket_sta=
+te_label_active {=0D=0A      font-weight: 700;=0D=0A  }=0D=0A=0D=0A  .ticke=
+t_card .ticket_state_label {=0D=0A      margin-bottom: 4px;=0D=0A  }=0D=0A=
+=0D=0A  .ticket_custom_state .label {=0D=0A      font-size: 16px;=0D=0A    =
+  font-style: normal;=0D=0A      font-weight: 700;=0D=0A      line-height: =
+30px;=0D=0A  }=0D=0A=0D=0A  .ticket_custom_state .submitted {=0D=0A      co=
+lor: #334bfa;=0D=0A  }=0D=0A=0D=0A  .ticket_custom_state .in_progress {=0D=
+=0A      color: #334bfa;=0D=0A  }=0D=0A=0D=0A  .ticket_custom_state .waitin=
+g_on_customer {=0D=0A      color: #b24d00;=0D=0A  }=0D=0A=0D=0A  .ticket_cu=
+stom_state .resolved {=0D=0A      color: #0f7134;=0D=0A  }=0D=0A=0D=0A  .ti=
+cket_card .attribute_name {=0D=0A      font-weight: 600;=0D=0A      word-wr=
+ap: break-word;=0D=0A  }=0D=0A=0D=0A  [dir=3D"rtl"] .ticket_card .ticket_st=
+ate_spacing {=0D=0A      padding-left: 8px;=0D=0A  }=0D=0A=0D=0A  [dir=3D"l=
+tr"] .ticket_card .ticket_state_spacing {=0D=0A      padding-right: 8px;=0D=
+=0A  }=0D=0A=0D=0A  [dir=3D"rtl"] .ticket_card .attribute_name {=0D=0A     =
+ padding: 8px 0 8px 16px;=0D=0A  }=0D=0A=0D=0A  [dir=3D"ltr"] .ticket_card =
+=2Eattribute_name {=0D=0A      padding: 8px 16px 8px 0;=0D=0A  }=0D=0A=0D=
+=0A  .ticket_card .attribute_value {=0D=0A      word-wrap: break-word;=0D=
+=0A      padding: 8px 0;=0D=0A  }=0D=0A=0D=0A  .ticket_card .ticket_descrip=
+tion {=0D=0A      padding-bottom: 24px;=0D=0A  }=0D=0A=0D=0A  .reply_in_mes=
+senger_card {=0D=0A    background: #F5F5F5;=0D=0A    border-radius: 8px;=0D=
+=0A    width: 100%;=0D=0A    max-width: 570px;=0D=0A    word-wrap: break-wo=
+rd;=0D=0A    padding: 16px;=0D=0A  }=0D=0A=0D=0A  .reply_in_messenger_card =
+=2Etitle {=0D=0A    font-size: 16px;=0D=0A    font-weight: 600;=0D=0A    li=
+ne-height: 24px;=0D=0A    word-wrap: break-word;=0D=0A  }=0D=0A=0D=0A  .rep=
+ly_in_messenger_card .body {=0D=0A    font-size: 14px;=0D=0A    font-weight=
+: 400;=0D=0A    line-height: 20px;=0D=0A    word-wrap: break-word;=0D=0A   =
+ padding-top: 8px;=0D=0A  }=0D=0A=0D=0A  .chat_notification_container {=0D=
+=0A    width: 100%;=0D=0A    max-width: 570px;=0D=0A    font-size: 14px;=0D=
+=0A    font-weight: 400;=0D=0A    line-height: 20px;=0D=0A    word-wrap: br=
+eak-word;=0D=0A  }=0D=0A=0D=0A  [dir=3D"rtl"] .chat_notification_container =
+=2Eadmin_avatar_wrapper {=0D=0A    padding-left: 16px;=0D=0A  }=0D=0A=0D=0A=
+  [dir=3D"rtl"] .chat_notification_container .user_avatar_wrapper {=0D=0A  =
+    padding-right: 16px;=0D=0A  }=0D=0A=0D=0A  [dir=3D"ltr"] .chat_notifica=
+tion_container .admin_avatar_wrapper {=0D=0A      padding-right: 16px;=0D=
+=0A  }=0D=0A=0D=0A  [dir=3D"ltr"] .chat_notification_container .user_avatar=
+_wrapper {=0D=0A      padding-left: 16px;=0D=0A  }=0D=0A=0D=0A  [dir=3D"ltr=
+"] .chat_notification_container .message_bubble {=0D=0A      margin-left: a=
+uto;=0D=0A  }=0D=0A=0D=0A  [dir=3D"rtl"] .chat_notification_container .mess=
+age_bubble {=0D=0A      margin-right: auto;=0D=0A  }=0D=0A=0D=0A  .chat_not=
+ification_container .user_avatar_wrapper .initials_avatar {=0D=0A      bord=
+er-radius: 100px;=0D=0A      color: white;=0D=0A      font-size: 12px;=0D=
+=0A      height: 28px;=0D=0A      line-height: 28px;=0D=0A      width: 28px=
+;=0D=0A      text-align: center;=0D=0A  }=0D=0A=0D=0A  .chat_notification_c=
+ontainer .comment_wrapper {=0D=0A    padding: 12px 16px;=0D=0A    border-ra=
+dius: 10px;=0D=0A    background: #F5F5F5;=0D=0A  }=0D=0A=0D=0A  .chat_notif=
+ication_container .comment_wrapper p {=0D=0A    margin: 0;=0D=0A  }=0D=0A=
+=0D=0A  .chat_notification_container .brand_logo img {=0D=0A      height: 2=
+6px !important;=0D=0A      max-height: 26px !important;=0D=0A      max-widt=
+h: 100%;=0D=0A  }=0D=0A=0D=0A  .chat_notification_container .comment_wrappe=
+r img {=0D=0A    max-width: 100% !important;=0D=0A  }=0D=0A=0D=0A  .collaps=
+ed_ticket_card {=0D=0A    border: 1px solid #E1E1E1;=0D=0A    border-radius=
+: 8px;=0D=0A    padding: 12px 20px;=0D=0A  }=0D=0A=0D=0A  .align_middle {=
+=0D=0A    vertical-align: middle;=0D=0A  }=0D=0A=0D=0A  @media (max-width: =
+768px) {=0D=0A    .ticket_card .app_logo {=0D=0A      padding: 18px !import=
+ant;=0D=0A    }=0D=0A=0D=0A    .ticket_card .body {=0D=0A      padding: 18p=
+x !important;=0D=0A    }=0D=0A=0D=0A    [dir=3D"rtl"] .ticket_card .ticket_=
+state_spacing {=0D=0A      padding-left: 2px !important;=0D=0A    }=0D=0A=
+=0D=0A    [dir=3D"ltr"] .ticket_card .ticket_state_spacing {=0D=0A      pad=
+ding-right: 2px !important;=0D=0A    }=0D=0A=0D=0A    .ticket_card .ticket_=
+state_spacing {=0D=0A      padding-right: 2px !important;=0D=0A    }=0D=0A=
+=0D=0A    .ticket_card .ticket_description {=0D=0A      padding-bottom: 16p=
+x !important;=0D=0A    }=0D=0A=0D=0A    .fin-reply-options table,=0D=0A    =
+=2Efin-reply-options tbody,=0D=0A    .fin-reply-options th,=0D=0A    .fin-r=
+eply-options td,=0D=0A    .fin-reply-options tr {=0D=0A      display: block=
+;=0D=0A    }=0D=0A=0D=0A    .fin-reply-options,=0D=0A    .fin-reply-options=
+ td {=0D=0A      width: 100%;=0D=0A    }=0D=0A=0D=0A    .fin-reply-button-w=
+rapper {=0D=0A      padding: 0 !important;=0D=0A    }=0D=0A=0D=0A    td .fi=
+n-reply-button {=0D=0A      margin: 4px 0 !important;=0D=0A    }=0D=0A  }=
+=0D=0A=0D=0A</style>=0D=0A=0D=0A<!-- Outlook.com -->=0D=0A<style type=3D"te=
+xt/css" data-premailer=3D"ignore">=0D=0A  .content-td blockquote + * {=0D=
+=0A    margin-top: 10px !important;=0D=0A  }=0D=0A=0D=0A  .ExternalClass .c=
+ontent-td h1 {=0D=0A    padding: 15px 0 5px 0 !important;=0D=0A  }=0D=0A=0D=
+=0A  .ExternalClass .content-td h2 {=0D=0A    padding: 0 0 5px 0 !important=
+;=0D=0A  }=0D=0A=0D=0A  .ExternalClass .content-td p {=0D=0A    padding: 10=
+px 0 !important;=0D=0A  }=0D=0A=0D=0A  .ExternalClass .content-td hr + * {=
+=0D=0A    padding-top: 20px !important;=0D=0A  }=0D=0A=0D=0A  .ExternalClas=
+s .content-td .intercom-container {=0D=0A    padding: 5px 0 !important;=0D=
+=0A  }=0D=0A=0D=0A  .ExternalClass .content-td ol ,=0D=0A  .ExternalClass .=
+content-td ul {=0D=0A    padding: 0 0 20px 40px !important;=0D=0A    margin=
+: 0 !important;=0D=0A  }=0D=0A=0D=0A  img {=0D=0A    max-width: 600px !impo=
+rtant;=0D=0A  }=0D=0A  @media (max-width: 600px) {=0D=0A    img {=0D=0A    =
+  max-width: 100% !important;=0D=0A    }=0D=0A  }=0D=0A</style>=0D=0A=0D=0A=
+=0D=0A<!-- Outlook fix -->=0D=0A=0D=0A<!--[if gte mso 9]>=0D=0A    <style t=
+ype=3D"text/css">=0D=0A      table {=0D=0A        border-collapse: collapse=
+ !important;=0D=0A      }=0D=0A      td {=0D=0A        border-collapse: col=
+lapse !important;=0D=0A      }=0D=0A    </style>=0D=0A<![endif]-->=0D=0A=0D=
+=0A</head>=0D=0A=0D=0A<body id=3D"admin_reply" dir=3D"ltr">=0D=0A<div style=
+=3D"color:transparent;visibility:hidden;opacity:0;font-size:0px;border:0;ma=
+x-height:1px;width:1px;margin:0px;padding:0px;border-width:0px!important;di=
+splay:none!important;line-height:0px!important;"><img border=3D"0" width=3D=
+"1" height=3D"1" src=3D"https://genki.intercom-mail.com/q/E2ViMpMx8qH5L8-pm=
+jGmHQ~~/AAAAARA~/WX7lHQQMQ5rFGsLCVm_4iQBRr-aMYXoWZdyLPU0ZvWH-Y8ych6lkbEoOp2=
+VXk6zNy1kP3wt2m1AQE-E0KIeTEw~~" alt=3D""/></div>=0D=0A=0D=0A  <table cellsp=
+acing=3D"0" border=3D"0" cellpadding=3D"0" align=3D"center" bgcolor=3D"tran=
+sparent" class=3D"main" style=3D"font-family: Helvetica, Arial, sans-serif;=
+ letter-spacing: 0; width: 100%; border-spacing: 0; border-collapse: separa=
+te; table-layout: fixed;">=0D=0A    <tbody>=0D=0A        <tr>=0D=0A  <td st=
+yle=3D"font-family: Helvetica, Arial, sans-serif; padding: 0;">=0D=0A    <t=
+able id=3D"chat_notification_email" class=3D"chat_notification_container" s=
+tyle=3D"border-spacing: 0; border-collapse: separate; table-layout: fixed; =
+width: 100%; max-width: 570px; font-size: 14px; font-weight: 400; line-heig=
+ht: 20px; word-wrap: break-word;">=0D=0A      <tbody>=0D=0A      <tr>=0D=0A=
+        <td style=3D"font-family: Helvetica, Arial, sans-serif; padding: 0;=
+">=0D=0A          =0D=0A        </td>=0D=0A      </tr>=0D=0A      <tr>=0D=
+=0A        <td style=3D"font-family: Helvetica, Arial, sans-serif; padding:=
+ 0;">=0D=0A            </td>=0D=0A</tr>=0D=0A<tr>=0D=0A    <td style=3D"fon=
+t-family: Helvetica, Arial, sans-serif; padding: 0;">=0D=0A      <table cla=
+ss=3D"" style=3D"border-spacing: 0; border-collapse: separate; table-layout=
+: fixed;">=0D=0A        <tbody>=0D=0A          <tr>=0D=0A            <td cl=
+ass=3D"admin_avatar_wrapper" style=3D"font-family: Helvetica, Arial, sans-s=
+erif; padding: 0 16px 0 0;">=0D=0A                <img width=3D"28" height=
+=3D"28" alt=3D"Ricardo" style=3D"border-radius: 100px;" src=3D"https://genk=
+i.intercom-mail.com/avatars/6670596/square_128/profile_pic-1690963508.jpg">=
+=0D=0A            </td>=0D=0A            <td class=3D"comment_wrapper" styl=
+e=3D"font-family: Helvetica, Arial, sans-serif; border-radius: 10px; backgr=
+ound-color: #F5F5F5; padding: 12px 16px;" bgcolor=3D"#F5F5F5">=0D=0A       =
+       <div>=0D=0A<p class=3D"no-margin" style=3D"margin: 0;">Hi there,<br>=
+<br>Just checking back in. If you would like to proceed with Genki Native, =
+you can use <b><a href=3D"https://join.genki.world/native" target=3D"_blank=
+" class=3D"intercom-content-link" style=3D"outline: none !important; border=
+-style: none;">this link</a></b> to sign up.<br><br>If you have any questio=
+ns before moving forward, reply here, and I will help.</p>=0D=0A<p class=3D=
+"no-margin" style=3D"margin: 0;"><br></p>=0D=0A<p class=3D"no-margin" style=
+=3D"margin: 0;">Stay healthy =F0=9F=8C=B1<br>Ricardo </p>=0D=0A</div>=0D=0A=
+            </td>=0D=0A          </tr>=0D=0A        <tr height=3D"8"></tr>=
+=0D=0A        </tbody>=0D=0A      </table>=0D=0A    </td>=0D=0A  </tr>=0D=
+=0A=0D=0A        =0D=0A      =0D=0A      <tr height=3D"8"></tr>=0D=0A=0D=0A=
+        <tr>=0D=0A            <td style=3D"font-family: Helvetica, Arial, s=
+ans-serif; padding: 0 0 16px;">=0D=0A              <table id=3D"collapsed_t=
+icket" class=3D"collapsed_ticket_card" style=3D"width: 100%; border-spacing=
+: 0; border-collapse: separate; table-layout: fixed; border-radius: 8px; pa=
+dding: 12px 20px; border: 1px solid #E1E1E1;">=0D=0A  <tbody>=0D=0A  <tr>=
+=0D=0A    <td class=3D"title" style=3D"font-family: Helvetica, Arial, sans-=
+serif; font-size: 18px; font-weight: 700; line-height: 24px; padding: 0;">=
+=0D=0A      #77139890: Start Your Genki Native=0D=0A      <span class=3D"al=
+ign_middle" style=3D"font-size: 24px; vertical-align: middle !important;">=
+=C2=B7</span>=0D=0A        <span class=3D"ticket_custom_state">=0D=0A      =
+    <span class=3D"label ticket_custom_state_label waiting_on_customer" sty=
+le=3D"font-size: 16px; font-style: normal; font-weight: 700; line-height: 3=
+0px; color: #b24d00;">Waiting for Your Questions</span>=0D=0A        </span=
+>=0D=0A        <a href=3D"https://genki.intercom-mail.com/ntfy/wyvKWJd4pMym=
+6ZUW9_3UagyjdnglZVrH" style=3D"outline: none !important; border-style: none=
+;">=0D=0A          <img width=3D"16" height=3D"16" class=3D"align_middle" s=
+rc=3D"https://genki.intercom-mail.com/assets/emails/notifications/user/new-=
+window-icon-16x16-at-2x-f0d3ea1356ba2a2ef2a7bf53bc477c29c0023369569970ae23a=
+c522128cb3e6d.png" style=3D"vertical-align: middle !important;">=0D=0A     =
+   </a>=0D=0A    </td>=0D=0A  </tr>=0D=0A  </tbody>=0D=0A</table>=0D=0A=0D=
+=0A            </td>=0D=0A        </tr>=0D=0A=0D=0A        <tr>=0D=0A      =
+    <td style=3D"font-family: Helvetica, Arial, sans-serif; padding: 0;">=
+=0D=0A            <table class=3D"reply_in_messenger_card" style=3D"border-=
+spacing: 0; border-collapse: separate; table-layout: fixed; background-colo=
+r: #F5F5F5; border-radius: 8px; width: 100%; max-width: 570px; word-wrap: b=
+reak-word; padding: 16px;" bgcolor=3D"#F5F5F5">=0D=0A  <tbody>=0D=0A  <tr>=
+=0D=0A    <td class=3D"title" style=3D"font-family: Helvetica, Arial, sans-=
+serif; font-size: 16px; font-weight: 600; line-height: 24px; word-wrap: bre=
+ak-word; padding: 0;">=0D=0A      We're here to help=0D=0A    </td>=0D=0A  =
+</tr>=0D=0A  <tr>=0D=0A    <td class=3D"body" style=3D"font-family: Helveti=
+ca, Arial, sans-serif; font-size: 14px; font-weight: 400; line-height: 20px=
+; word-wrap: break-word; padding: 8px 0 0;">=0D=0A      Reply directly to t=
+his email or through <a href=3D"https://genki.intercom-mail.com/ntfy/wyvKWJ=
+d4pMym6ZUW9_3UagyjdnglZVrH" style=3D"outline: none !important; border-style=
+: none;">our Messenger</a>=0D=0A    </td>=0D=0A  </tr>=0D=0A  </tbody>=0D=
+=0A</table>=0D=0A=0D=0A          </td>=0D=0A        </tr>=0D=0A=0D=0A=0D=0A=
+      =0D=0A      </tbody>=0D=0A    </table>=0D=0A  </td>=0D=0A</tr>=0D=0A=
+=0D=0A=0D=0A    </tbody>=0D=0A  </table>=0D=0A<img src=3D"https://genki.int=
+ercom-mail.com/via/o=3Fh=3De1fe950d653c668f7aa5b5107959158fd514a2f7-ao21ykn=
+r_215473145250350_39916719329" width=3D"1" height=3D"1" style=3D"display: b=
+lock;" alt=3D"intercom">=0D=0A=0D=0A<img border=3D"0" width=3D"1" height=3D=
+"1" alt=3D"" src=3D"https://genki.intercom-mail.com/q/jqYSc6IxlAuZCpjmwS6x7=
+w~~/AAAAARA~/3Ig-RgIndr0KG2btHlv2q3BnIBRgtESvLlWZsrX0OgJ8wZYjPSdxV6ufbcwqfq=
+ygvkYPsRQPnJPPPMF0ivRbcA~~">=0D=0A</body>=0D=0A</html>
+--_----HZAl62/77dYO2o3rYCIBcA===_DB/7D-32408-21B28996--
+
