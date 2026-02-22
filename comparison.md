@@ -191,3 +191,147 @@
 | ⚠️ **Genki Native premium price** | Cannot cost-compare without this |
 | ⚠️ **SafetyWing home country**: Does the health portion (VUMI) cover Israel stays fully, or does the "primary residence excluded" rule apply? | If primary residence is excluded in health portion too, home country coverage is zero |
 | ⚠️ **Optimum Global Diamond**: What is the minimum contract period? | Flexibility to switch |
+
+---
+
+---
+
+# What Extra Money Buys — Detailed Stepwise Analysis
+
+*All prices: age 35, WW excl. USA, ~$1,000 deductible. Optimum Global prices are annualized from email quotes, divided by 12.*
+
+---
+
+## Step 1 — Optimum Global tier ladder: what each upgrade buys relevant to your concerns
+
+Your concerns in order: (1) full outpatient for cancer, (2) full outpatient for catastrophic non-cancer chronic illness, (3) serious illness coverage, (4) no cap that could bankrupt you.
+
+| Tier | Monthly | Annual max | Cancer (in+out) | General outpatient | Chronic meds outpatient | Diagnostics outpatient | USA emergency | Verdict for your needs |
+|------|---------|------------|----------------|--------------------|------------------------|------------------------|---------------|------------------------|
+| **Emerald** | ~$154 | $1,000,000 | **In Full** | $500 total | Inside the $500 cap | $1,000 sub-limit | None | ❌ Outpatient is a joke. $500 covers maybe two specialist visits. |
+| **Sapphire** | ~$170 | $2,000,000 | **In Full** | **Zero** (no outpatient benefit) | Zero | $1,000 standalone | $50,000 | ❌ No outpatient at all except diagnostics. Worse than Emerald for outpatient. |
+| **Ruby** | ~$264 | $3,000,000 | **In Full** | $3,500 total (all outpatient combined, including diagnostics) | Inside the $3,500 cap | Inside the $3,500 cap | $75,000 | ⚠️ Cancer = fine. But $3,500 for everything else outpatient: one round of biologics for Crohn's or RA ($15k–$50k/yr) destroys this. Not adequate for serious chronic illness. |
+| **Jade** | ~$331 | $5,000,000 | **In Full** | $10,000 total | Inside the $10,000 cap | **In Full** (separate, unlimited) | $100,000 | ⚠️ Meaningfully better. Diagnostics (MRI, CT, PET, labs) are unlimited — good. But $10,000 total for drugs + specialist visits still runs out if you need expensive chronic medication. A year of MS or RA biologics is $20k–$80k outpatient. |
+| **Diamond** | ~$363 | $8,000,000 | **In Full** | **In Full** (no cap) | **In Full** (no cap) | **In Full** | **In Full** (45 days/trip) | ✅ The only Optimum Global tier that gives you genuine protection against catastrophic outpatient costs beyond cancer. |
+
+### What Diamond buys over Jade (~$32/month, ~$384/year)
+
+This is a narrow price gap for a critical difference:
+- **Outpatient from $10,000 cap → unlimited.** If you develop an expensive chronic condition (RA, Crohn's, MS, autoimmune), biologics alone are $15k–$80k/year outpatient. Jade cuts you off at $10k. Diamond pays in full.
+- **USA emergency**: Jade $100,000 vs Diamond In Full. A US hospital admission can easily exceed $100k for serious illness.
+- **Hospital cash**: $200 → $300/night (minor).
+- **Home nursing**: $10,000 → $15,000/26 weeks (minor but meaningful post-surgery).
+- **Congenital conditions**: $50,000 → $75,000 (minor, not your concern now).
+
+**Conclusion on Optimum Global sub-Diamond:** Jade is the only sub-Diamond tier worth considering at all, and only if you're confident you won't develop an expensive non-cancer chronic condition. For genuine catastrophe protection across both cancer and other serious chronic illness, Diamond is the only appropriate tier.
+
+---
+
+## Step 2 — Optimum Global Diamond (~$363/mo) vs Barmenia Plus (€185/mo) or Best (€245/mo)
+
+*This is the most important price comparison. Diamond costs roughly double Barmenia Plus.*
+
+### What Diamond has that Barmenia does not
+
+| Advantage | Diamond | Barmenia | Why it matters to you |
+|-----------|---------|----------|----------------------|
+| **Oncology specialty drug certainty** | **Confirmed In Full** in TOB — no ambiguity, zero open questions | ⚠️ Q15 open — must get written confirmation | If Q15 is answered "yes" by Christoph, this gap closes entirely. If "no", Barmenia has a serious cancer drug gap. |
+| **Emergency hospital payment guarantee** | AXA issues direct payment guarantee to hospital — you never carry the bill | Reimbursement process (less clear) ⚠️ | In a serious emergency in LatAm, not needing to front €50k+ is material. |
+| **USA emergency coverage** | **In Full** for trips up to 45 days | Emergency only, 6 weeks, no planned treatment | If you need a specialist in the US or get seriously ill there, Diamond covers fully. Barmenia covers only the acute emergency. |
+| **AXA emergency coordination** | AXA handles pre-auth and emergency logistics globally | DR-WALTER / Barmenia direct (strong German bureaucracy; less 24/7 hands-on) | In a medical crisis abroad, AXA's global emergency network is a practical advantage. |
+| **Specialty drug clarity** | Explicitly named in TOB as cancer treatment "In Full" | General "100% medication" with Q15 open | |
+
+### What Barmenia has that Diamond does not
+
+| Advantage | Barmenia Plus (€185) | Barmenia Best (€245) | Diamond | Why it matters to you |
+|-----------|----------------------|----------------------|---------|----------------------|
+| **Annual policy maximum** | **No Limit** | **No Limit** | $8,000,000 | In a multi-year cancer treatment, $8M could theoretically be approached. No Limit is strictly better. |
+| **Price** | **€185/mo** | **€245/mo** | ~$363/mo | Barmenia Plus saves ~$175–180/mo (~$2,100/year) vs Diamond. |
+| **Regulatory strength** | **German law, BaFin, PKV Ombudsman** | Same | UK/Labuan FSA | German regulation is among the strongest in the world for health insurance. Dispute resolution is free and accessible. |
+| **Air Doctor integration** | Direct billing at 20,000+ outpatient clinics worldwide | Same | Pay-and-claim only | Practical for routine outpatient — you don't front money at a clinic. |
+| **Psychotherapy (Best)** | Full outpatient (after 10 months) | Full outpatient | $2,000/yr outpatient | Minor difference. |
+
+### The $175/month question
+
+Paying Diamond over Barmenia Plus costs ~$175/mo more (~$2,100/year). Over 10 years that's ~$21,000 extra.
+
+**The only two things that justify the premium:**
+1. **Q15 is "no"** — Barmenia's medication doesn't cover oncology biologics/immunotherapy/targeted oral meds. In that scenario, Diamond is worth every cent more. If Q15 is "yes", this justification disappears.
+2. **You frequently need the USA at full coverage** — trips longer than 6 weeks, or planned specialist treatments in the US. Diamond covers In Full; Barmenia only covers acute emergencies.
+
+**Verdict:** Get Q15 answered in writing first. If Barmenia confirms specialty oncology drugs are covered at 100%, Barmenia Plus gives you equivalent cancer protection and better total policy max, at half the price. The $175/month difference is hard to justify otherwise.
+
+---
+
+## Step 3 — Barmenia Plus (€185/mo) vs Barmenia Best (€245/mo): what €60/month buys
+
+Cancer and serious illness coverage is **identical** between Plus and Best. The €60/month buys you:
+
+| Feature | Plus | Best |
+|---------|------|------|
+| Preventive care / checkups | None | **100%** (cancer screening, colonoscopy, Pap, cardiovascular) |
+| Vaccinations | None | **100%** (all vaccines) |
+| Dental cleaning | None | **2× per year** |
+| Dental prostheses / dentures | None | **50%** |
+| Vision aids | None | Up to €300 per 2 years |
+| Outpatient psychotherapy | 3 sessions only | **Full** (after 10 months) |
+| Outpatient rehabilitation | None | **Full** |
+| Extended prenatal care | None | First-trimester screening, amniocentesis |
+| Chief physician (inpatient) | No | Yes |
+| Hospital cash benefit | No | Yes |
+
+**For your concerns:** The €60 buys nothing relevant to cancer or catastrophic illness protection — that's identical. It buys comfort items (dental, vision, preventive, psych) and quality-of-life benefits. If your goal is purely catastrophic protection, Plus is sufficient. Best makes sense if you want routine care integrated into the same policy.
+
+---
+
+## Step 4 — Barmenia (€185–245/mo) vs Genki Native
+
+*Note: Genki Native price is not yet quoted. This is a qualitative comparison.*
+
+### What Genki Premium has that Barmenia does not
+
+| Advantage | Genki Premium | Barmenia | Why it matters to you |
+|-----------|--------------|----------|----------------------|
+| **Israel (home country) coverage** | **Full Country Coverage — unlimited days, no restriction** | 180 days/year (and Q17: Germany may also trigger this limit, splitting the 180 between two countries) | If you plan to spend extended time in Israel — a month here, a few months there — Genki Premium has zero restriction. Barmenia could lock you out after 180 days. |
+| **Direct hospital payment** | MCI Assist pays hospital directly in every hospitalization | Reimbursement process ⚠️ | Same practical advantage as Diamond/AXA. You don't front tens of thousands in a crisis. |
+| **No-limit annual max (Premium)** | **No Limit** | **No Limit** | Tied — both are unlimited on Premium/Best. |
+| **Specialty drug rule** | Covered if prescribed; generic equivalent rule applies | Q15 open | If Q15 is yes for Barmenia, Barmenia is actually cleaner here — no generic rule. |
+| **Contract flexibility** | Cancel monthly after 1 year; also cancelable if you settle permanently with local insurance | 12 months then monthly | Slightly more flexible exit path. |
+| **Age — no limit** | Explicitly no age limit, no end date | Same (no stated limit) | Tied. |
+
+### What Barmenia has that Genki does not
+
+| Advantage | Barmenia Plus/Best | Genki Native |
+|-----------|---------------------|--------------|
+| **Specialty drug coverage clarity** | If Q15 = yes: explicit 100%, no generic cap | Generic equivalent rule may limit expensive brand-name biologics |
+| **German regulation / BaFin** | Strongest consumer protection in EU | Liechtenstein FMA (solid but smaller regulator) |
+| **Air Doctor integration** | 20,000+ clinics, direct billing outpatient | Pay-and-claim (though telemedicine explicitly covered) |
+| **Waiting periods (mental health)** | 10 months | **6 months** (Genki is faster) |
+| **Dental coverage** | Best: cleanings, 50% dentures from month 10 | Premium: €2,000/yr dental from month 12 |
+
+### The generic drug issue for cancer (Genki)
+
+Genki's policy says: *"Medication is covered only up to the price of a generic equivalent if a generic is available."*
+
+For cancer: many cutting-edge oncology drugs (targeted therapies, immunotherapy, CAR-T) have **no generic available** — they are patented brand-name drugs. In those cases, the generic rule doesn't apply because there is no generic. However, for some older chemotherapy drugs where generics exist, Genki would only cover the generic price. In practice, for serious cancer requiring modern therapy, this rule is unlikely to hurt you significantly — but it is a real restriction that Optimum Global and (if Q15 = yes) Barmenia do not have.
+
+### Summary verdict: Barmenia vs Genki
+
+- **If you plan extended Israel stays**: Genki Premium wins clearly on home country coverage.
+- **If you want the strongest possible cancer drug certainty**: Optimum Global Diamond wins (or Barmenia if Q15 = yes).
+- **If you want the strongest regulatory protection**: Barmenia (BaFin).
+- **If you want direct hospital payment without a bill**: Genki (MCI Assist) or Diamond (AXA) — both handle this. Barmenia does not clearly.
+- **On price**: Cannot compare directly until Genki quotes Noam.
+
+---
+
+## The decision matrix: filtering by what you care about most
+
+| Priority | Recommended plan | Why |
+|----------|-----------------|-----|
+| Cancer treatment + specialty drugs, no ambiguity | **Optimum Global Diamond** | Explicitly confirmed In Full in TOB; covers cancer in/outpatient plus all cancer drugs with zero open questions |
+| Same protection, half the price (if Q15 = yes) | **Barmenia Plus** | €185/mo, No Limit, identical cancer treatment coverage — but requires written Q15 confirmation |
+| Unlimited Israel stays + no drug generic risk | **Genki Premium** | Full home country coverage; cancer explicitly named; but awaiting price quote |
+| Cheapest adequate cancer-specific coverage | **SafetyWing $161/mo** | Oncology carved out at 100% UCR in/outpatient outside $5k cap — adequate for cancer, inadequate for expensive non-cancer chronic illness |
+| Full protection for both cancer AND expensive chronic non-cancer illness | **Barmenia Plus or Diamond** | Both have no outpatient cap for chronic conditions (Barmenia explicitly, Diamond In Full). SafetyWing and Genki Basic both have limits that could be exceeded by non-cancer biologics. |
+
