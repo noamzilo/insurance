@@ -39,6 +39,8 @@ All three plans increase premiums as you age into the next bracket (35→44, 45�
 
 | | Barmenia Plus | Genki Premium | Optimum Global Diamond |
 |--|--|--|--|
+| **Your contract is with** | **Barmenia Krankenversicherung AG** — you join LAC e.V. which holds the group policy with Barmenia; your legal relationship and claims are directly with Barmenia | **Squarelife Insurance AG** (Liechtenstein) — Genki holds the group policy; your contract and claims are with Squarelife | **Optimum Global** (UK) — your contract is directly with Optimum Global |
+| **Who actually pays claims** | **Barmenia Krankenversicherung AG** (Germany) | **Squarelife Insurance AG** (Liechtenstein) | **Optimum Global** (UK) |
 | **Insurer** | **Barmenia Krankenversicherung AG** (Germany, BaFin regulated) | Squarelife (Liechtenstein) | Optimum Global (UK) |
 | **Backing** | Medicator AG (German insolvency protection fund) | — | AXA (reinsurer + emergency payment guarantees) |
 | **Broker / platform** | NOMADS.insure / DR-WALTER GmbH | Genki GmbH (German startup; policyholder & agent for Squarelife) | BrokerFish (Hans Benn; Labuan FSA) |
