@@ -39,14 +39,17 @@ All three plans increase premiums as you age into the next bracket (35→44, 45�
 
 | | Barmenia Plus | Genki Premium | Optimum Global Diamond |
 |--|--|--|--|
-| **Your contract is with** | **Barmenia Krankenversicherung AG** — you join LAC e.V. which holds the group policy with Barmenia; your legal relationship and claims are directly with Barmenia | **Squarelife Insurance AG** (Liechtenstein) — Genki holds the group policy; your contract and claims are with Squarelife | **Optimum Global** (UK) — your contract is directly with Optimum Global |
-| **Who actually pays claims** | **Barmenia Krankenversicherung AG** (Germany) | **Squarelife Insurance AG** (Liechtenstein) | **Optimum Global** (UK) |
-| **Insurer** | **Barmenia Krankenversicherung AG** (Germany, BaFin regulated) | Squarelife (Liechtenstein) | Optimum Global (UK) |
-| **Backing** | Medicator AG (German insolvency protection fund) | — | AXA (reinsurer + emergency payment guarantees) |
-| **Broker / platform** | NOMADS.insure / DR-WALTER GmbH | Genki GmbH (German startup; policyholder & agent for Squarelife) | BrokerFish (Hans Benn; Labuan FSA) |
+| **Your contract is with** | **Nobody directly.** DR-WALTER GmbH is the policyholder and holds the group contract with Barmenia. T&Cs state: *"rights and obligations arising from this contract exist exclusively between the policyholder and the insurer."* You join as an insured member under DR-WALTER's group policy, not as a direct contracting party. | **Nobody directly.** Genki is the policyholder and holds the group contract with Squarelife. Same structure as Barmenia — you are an insured member under Genki's group policy. | **Optimum Global Limited** (UK) — you are a direct individual policyholder. Risk is carried by **Optimum Global Insurance Company Limited** (Guernsey). Two distinct OG entities; UK entity is your counterparty, Guernsey entity carries the risk. |
+| **Who actually pays claims** | **Barmenia Krankenversicherung AG** (Germany), administered by DR-WALTER GmbH | **Squarelife Insurance AG** (Liechtenstein), administered by Genki | **Optimum Global** (UK / Guernsey) |
+| **Insurer** | **Barmenia Krankenversicherung AG** (Germany, BaFin regulated) | Squarelife (Liechtenstein) | Optimum Global Insurance Co. Ltd (Guernsey) |
+| **Backing** | Medicator AG (German insolvency protection fund) | — | **AXA** (reinsurer + emergency payment guarantees) |
+| **Broker / platform** | NOMADS.insure (Herrmann, Huebner & Partner; Estonian broker) / DR-WALTER GmbH (German policyholder & claims handler) | Genki GmbH (German startup; policyholder, agent & claims handler for Squarelife) | BrokerFish (Hans Benn; Labuan FSA licensed) |
+| **Claims handler** | **DR-WALTER GmbH** (same company handles claims for both COVRD.EE and Genki — single point of failure for two of the three products) | **DR-WALTER GmbH** (same as above — see claims section) | **Optimum Global** directly |
 | **Emergency assistance** | Not specified ⚠️ | **MCI Assist** (24/7; pays hospital directly, no bill to you) | **AXA** (24/7; issues direct payment guarantee to hospital) |
 | **Regulatory protection** | **BaFin (strongest in EU)** + free PKV Ombudsman for disputes | Liechtenstein FMA (EEA-passported) | UK FCA / Labuan FSA (broker) |
 | **Jurisdiction** | **German law** | Liechtenstein / German VVG applies | UK |
+| **Product classification** | ⚠️ **"International travel group health insurance"** — the document's own label. Travel-style classification may mean travel-style rules: different exclusion sets, stricter pre-existing condition treatment, and claims processes designed for trips rather than long-term illness. | Long-term expat / remote worker health insurance — explicitly positioned as permanent coverage | Long-term international health insurance — established product with stable insurer since ~2017 |
+| **Insurer / product stability** | ⚠️ COVRD.EE is a relatively new product from a small Estonian broker. Barmenia is a large, established insurer, but the distribution arrangement is young. | ⚠️ Genki has already changed insurers twice: Barmenia → Allianz → Squarelife (current). Product has been restructured. | **Optimum Global has been operating since the 1990s; moved to self-insure (with AXA reinsurance) around 2017. Stable structure.** |
 
 ---
 
@@ -140,7 +143,9 @@ All three plans increase premiums as you age into the next bracket (35→44, 45�
 | **Routine outpatient** | Pay and submit to DR-WALTER for reimbursement, or use Air Doctor for direct billing | Pay and submit to Squarelife for reimbursement | Pay and submit to Optimum Global for reimbursement (~2 weeks) |
 | **Hospitalization** | Reimbursement (process not documented ⚠️) | **MCI Assist pays hospital directly — you pay nothing** | **AXA issues payment guarantee to hospital — you pay nothing** |
 | **High-cost treatment (€2,000+)** | Not documented ⚠️ | Prior cost estimate required at least 5 days before. If missed: only 50% reimbursed. | Pre-authorization required |
-| **Broker assistance** | Christoph (NOMADS.insure) advocates for you in disputes | Genki support | Hans (BrokerFish) advocates for you; has 18+ years experience |
+| **Claims handler** | DR-WALTER GmbH | DR-WALTER GmbH (**same company as Barmenia/COVRD.EE**) | Optimum Global directly |
+| **Known claims track record** | No data point available | ⚠️ **Documented problem**: A Genki claim submitted September 2025 went unresolved for months despite repeated promises from DR-WALTER. Only resolved after Hans escalated directly to DR-WALTER's Managing Director (Reinhard Bellinghausen). DR-WALTER is the shared claims handler for both Genki and COVRD.EE — any DR-WALTER operational issues affect both products. | Hans reports ~2 weeks processing time, very few declined claims or requests for additional documentation in 18+ years. |
+| **Broker assistance** | Christoph (NOMADS.insure) advocates for you in disputes | Genki support (then DR-WALTER if needed) | **Hans (BrokerFish) advocates for you; has 18+ years experience and direct relationship with OG managing director** |
 
 ---
 
@@ -192,7 +197,7 @@ What the extra $146/month buys over Barmenia Plus:
 | **Renewability certainty** | Explicitly indefinite | Explicitly indefinite | Tied. |
 | **Single hospital room** | Standard | **Single room** | Comfort; not medically material. |
 
-**Verdict on +$146/month:** Justified primarily if (a) you plan significant time in Israel, or (b) Q15 comes back negative for Barmenia (meaning Barmenia doesn't cover oncology biologics). Otherwise hard to justify.
+**Verdict on +$146/month:** Justified primarily if (a) you plan significant time in Israel, or (b) Q15 comes back negative for Barmenia. However, the new stability / classification concerns (see decision tree) now narrow the gap in Genki's favour beyond just the Israel and Q15 questions — Genki is positioned as long-term health insurance, not travel insurance, even though it shares the same DR-WALTER claims handler with its own documented track record issue.
 
 ---
 
@@ -255,8 +260,20 @@ What the €60/month (€720/year) buys:
 | Renewability certainty | ✅ explicit | ✅ explicit | ⚠️ not stated |
 | Oncology drug certainty | ⚠️ Q15 open | Low risk (generic rule) | ✅ confirmed |
 | Regulatory protection | **BaFin (best)** | Liechtenstein | UK/Labuan |
+| You are a direct party | ⚠️ No — group member only | ⚠️ No — group member only | ✅ Yes — individual policy |
+| Product classification | ⚠️ "Travel group health insurance" | Long-term expat health | Long-term international health |
+| Insurer / product stability | ⚠️ New product, small broker | ⚠️ Insurer changed twice (Barmenia→Allianz→Squarelife) | ✅ Stable since ~2017; AXA-backed |
+| Claims track record | No data | ⚠️ Documented multi-month delay (Sep 2025); same DR-WALTER handler as Barmenia | ✅ ~2 weeks; very few declines |
 
 **The decision tree:**
 1. Get Q15 answered by Christoph in writing.
-   - If **yes** (Barmenia covers oncology biologics): Barmenia Plus at $200/mo is the clear value winner. Genki Premium ($346) is only better if you plan extended Israel stays. Diamond ($363) adds only USA planned treatment access for $163/mo more.
+   - If **yes** (Barmenia covers oncology biologics): Barmenia Plus at $200/mo is the clear value winner on price. But weigh the new risk factors below before deciding.
    - If **no** (Barmenia does not cover oncology biologics): Barmenia Plus is eliminated for cancer risk. Choose between Genki Premium ($346, generic rule caveat) and Diamond ($363, confirmed full coverage).
+
+2. **New risk factors to weigh for Barmenia Plus / COVRD.EE — from Hans's answers:**
+   - **"Travel insurance" classification**: COVRD.EE's own documents call it an *"international travel group health insurance policy."* This may mean travel-style rules (definitions, exclusions, pre-existing condition handling) rather than long-term health insurance rules. This is not yet confirmed to be a real limitation — but it is an unresolved flag worth probing with Christoph.
+   - **You are not a direct party to the contract**: The T&Cs are explicit that all rights/obligations exist between DR-WALTER and Barmenia only. In a dispute, you are dependent on DR-WALTER's willingness to act on your behalf — you have no direct legal standing against Barmenia.
+   - **DR-WALTER claims concentration risk**: DR-WALTER handles claims for both COVRD.EE and Genki. A documented Genki claim (September 2025) went unresolved for months and required escalation to DR-WALTER's MD. Both products share the same operational bottleneck.
+   - **Product youth**: COVRD.EE from a small Estonian broker (Herrmann, Huebner & Partner) is a newer distribution arrangement. Less tested at scale.
+
+3. **Barmenia Plus is still the price leader if Q15 is answered yes** — but at $200/mo vs $363/mo for Diamond, ask yourself: is the $163/mo saving worth the "travel insurance" label risk, the group contract structure, and the shared DR-WALTER claims bottleneck? Over a year that is ~$1,950 in savings. Over five years, ~$9,750.
