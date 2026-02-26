@@ -24,18 +24,34 @@ Expacare Choices = Core + Option 1 Cancer/Chronic Full + Option 2 Advanced Outpa
 
 ---
 
-## Renewability & Age Limits
+## Renewability, Continuity & Premium Protection
 
 **Note from Hans (Q16):** Even large companies like Allianz Care and Bupa have launched new products and migrated healthy customers to them, leaving sick customers on legacy "closed" plans where no new healthy lives join — causing claim ratios to worsen and premiums to spiral. This structural risk exists regardless of whether a contract says "guaranteed renewal." Hans has seen this with Allianz, Bupa, IMG, and a few others. He considers it an exception rather than the rule but notes there are never absolute lifetime guarantees.
 
 | | Barmenia Plus | Expacare Choices | Genki Premium | Optimum Global Diamond |
 |--|--|--|--|--|
-| **Renewability** | "This contract is not limited in time" — renews indefinitely | **"We will not cancel your plan because of your age or health record"** — explicit | "Does not end with a certain age or after a certain period" — renews indefinitely | Not stated in TOB or emails ⚠️ |
-| **Age limit to join** | None stated | **Under 65** (individual policy) | None — explicitly documented | None stated ⚠️ |
-| **What happens at age 65** | Nothing — policy continues | Can no longer join new policy; but existing policy explicitly continues — "will not cancel because of age" | Nothing — policy explicitly continues regardless of age | Unknown ⚠️ |
-| **Premium increases with age** | Yes — age brackets; 1-month advance notice required | Yes — age brackets published | Yes — age brackets; 1-month advance notice; can cancel if increase is age-triggered | Yes — not documented how |
+| **Renewability** | "This contract is not limited in time" — renews indefinitely | **"We will not cancel your plan because of your age or health record"** — explicit | "Does not end with a certain age or after a certain period" — renews indefinitely. Insurer can only cancel for fraud/obligations violation, or full product discontinuation for all customers. | ⚠️ **Either party can terminate at any renewal with 30 days notice** (Membership Guide §8). No restriction on reason. |
+| **Age limit to join** | None stated | **Under 65** (individual policy) | None — explicitly documented | None stated |
+| **What happens at age 65** | Nothing — policy continues | Can no longer join new policy; but existing policy explicitly continues — "will not cancel because of age" | Nothing — policy explicitly continues regardless of age | Unknown — no contractual protection |
+| **Premium increases with age** | Yes — age brackets; 1-month advance notice required | Yes — age brackets published | Yes — age brackets; 1-month advance notice; can cancel if increase is age-triggered | Yes — 30 days advance notice (§7a) |
 
-All four plans increase premiums as you age into the next bracket. None cut off existing members at any age (Expacare most explicitly guaranteed on this). The age-65 join limit on Expacare only matters if you are not yet a member — at 35, this is not relevant. For planning purposes, the renewability question is about policy language for existing members, which Expacare explicitly protects.
+### Contractual Continuity & Premium Protection
+
+**This is the single most important section for long-term catastrophic coverage.** Full policy wording review (not just TOB/brochures) reveals three fundamentally different contractual positions on whether an insurer can single you out after you become expensive:
+
+| | Barmenia Plus | Expacare Choices | Genki Premium | Optimum Global Diamond |
+|--|--|--|--|--|
+| **Can they single you out on premium?** | Not documented in available T&Cs | ⚠️ **YES** — "Insurers reserve the right to amend or alter premiums and terms on individual cases" (Membership Guide §2.3) | **NO** — premiums adjusted "for all customers" (Insurance Conditions §5.5). Age brackets only (§5.4). | ⚠️ **YES** — "We may vary the benefits, cover and/or premium" at renewal (Membership Guide §7a), no restriction on individual vs. pool |
+| **Can they refuse to renew you?** | Not documented | **NO for age/health** — "We will not cancel your plan because of your age or health record" (§2.4). But can discontinue the plan entirely. | **NO** — only for fraud/obligations violation, or full product discontinuation for everyone (§5.3). Cannot cancel because you received benefits. | ⚠️ **YES** — either party can terminate at any renewal date with 30 days notice (§8). No restriction on reason. |
+| **Can they change your terms individually?** | Not documented | ⚠️ **YES** — same §2.3 clause covers terms as well as premiums | **NO** — contract changes apply to everyone at yearly renewal. You can exit if you don't accept. | ⚠️ **YES** — §7a allows varying "benefits, cover and/or premium"; §4 allows changing terms or declining cover entirely for "material changes" in circumstances |
+| **Premium rating model** | Not documented | No community rating language. No age brackets, group rating, or pool-wide-only mechanism documented. | **Explicit pool-wide rating.** "Every year, the Insurer compares the expected insurance costs against the actual costs for all customers. If needed, the Insurer adjusts the prices for all customers." | No community rating language. No age brackets or group rating documented. |
+| **Governing insurance law** | German VVG (strong consumer protection) | UK (FCA-regulated, but no community rating mandate for IPMI) | **German VVG applies** (via Liechtenstein EEA passport + German operations). VVG provides significant statutory consumer protections for health insurance. | Guernsey law (lighter regulation) |
+
+**The Expacare contradiction:** Expacare promises "We will not cancel your plan because of your age or health record" — but in the same document reserves "the right to amend or alter premiums and terms on individual cases." They cannot kick you out, but they can raise YOUR premium specifically, potentially pricing you out. The no-cancellation promise protects against outright termination but not against unaffordable individual premium increases.
+
+**The OG gap:** OG's policy (§7a + §8) gives them unrestricted power to both vary your individual premium AND terminate your policy at any renewal for any reason with 30 days notice. There is no "will not cancel" clause. Hans's assurance that "Optimum Global or Expacare would not increase your premium or cancel your plan due to claims" is professional experience — the contract explicitly permits both.
+
+**The Genki protection:** Genki is the only insurer whose contract commits to pool-wide-only premium adjustment ("for all customers"). Combined with the cancellation protections (only for fraud or full product discontinuation), this is the strongest contractual continuity position. The trade-off: Genki is a group policy (you're not a direct contracting party) and their insurer has changed twice.
 
 ---
 
@@ -130,7 +146,7 @@ All four plans increase premiums as you age into the next bracket. None cut off 
 
 | | Barmenia Plus | Expacare Choices | Genki Premium | Optimum Global Diamond |
 |--|--|--|--|--|
-| **Adventure / extreme sports** | All sports covered; only professional (paid) sports excluded | ⚠️ **More restrictive than others.** §6.12 excludes: off-piste/winter sports (only on-piste skiing, skating and curling allowed), scuba below 10m, rock climbing/mountaineering, potholing, parachuting, hang gliding, motor racing, hunting (unless pre-approved in writing). Only professional sports are excluded on top of this list. | All sports covered; only professional (paid) sports excluded | Not stated in TOB ⚠️ |
+| **Adventure / extreme sports** | All sports covered; only professional (paid) sports excluded | ⚠️ **More restrictive than others.** §6.12 excludes: off-piste/winter sports (only on-piste skiing, skating and curling allowed), scuba below 10m, rock climbing/mountaineering, potholing, parachuting, hang gliding, motor racing, hunting (unless pre-approved in writing). Only professional sports are excluded on top of this list. | All sports covered; only professional (paid) sports excluded | Professional (paid) sports excluded. Also excluded: base jumping, cliff diving, free climbing, off-piste skiing without qualified instructor, scuba below 10m (30m with PADI qualification), activity above 5,000m altitude, canyoning, flying in unlicensed aircraft (Membership Guide exclusion 34). |
 | **Preventive care** | None | $1,275/year wellness (one exam per certificate period; **1-year wait**) | €250/year (cancer screening, blood tests, vaccines, colonoscopy, Pap) | $750/year (vaccines + wellbeing benefit, after 12 months) |
 | **Mental health** | Inpatient covered; outpatient limited to 3 sessions. 10-month wait for psychotherapy. | Inpatient: full refund (30 nights); Outpatient: $3,400/year (Advanced). Waiting period not stated in documents ⚠️ | Inpatient + outpatient (psychiatry, talk therapy, therapy apps). Requires prior approval. 6-month wait. | In Full inpatient + outpatient. 10-month wait. |
 | **Dental (emergency)** | Emergency + basic dental treatments | $2,550/year (with 20% co-pay); accidental dental: full refund | €2,000/year total; €200/year cleaning. 12-month wait for major work. No implants or orthodontics. | In Full inpatient; $1,500 outpatient accidental. Routine dental available as paid add-on ($1,000/yr, 20% co-pay). |
@@ -160,8 +176,8 @@ All four plans increase premiums as you age into the next bracket. None cut off 
 | | Barmenia Plus | Expacare Choices | Genki Premium | Optimum Global Diamond |
 |--|--|--|--|--|
 | **Monthly premium** | **~$200 (€185)** | **~$317** ($3,809/yr with $850 deductible + lifestyle discount) | **$346** | **~$363** |
-| **Minimum contract** | 12 months, then cancel monthly | Annual; pro-rated refund possible if no claims filed | 12 months, then cancel monthly | Not stated ⚠️ |
-| **Renewability** | Indefinite — "not limited in time" | **Explicit: "We will not cancel your plan because of your age or health record"** | Indefinite — "does not end with a certain age" | Not stated ⚠️ |
+| **Minimum contract** | 12 months, then cancel monthly | Annual; pro-rated refund possible if no claims filed | 12 months, then cancel monthly | Annual. Either party can terminate at renewal with 30 days notice (§8). Pro-rata refund at OG's discretion (§13). |
+| **Renewability** | Indefinite — "not limited in time" | **Explicit: "We will not cancel your plan because of your age or health record."** But can amend premiums/terms on individual cases. | Indefinite — "does not end with a certain age." Cannot be cancelled for claims. Pool-wide pricing only. | ⚠️ **Weak.** Auto-renewed if plan still available (§7a), but OG can vary premium/benefits/cover at renewal AND either party can terminate with 30 days notice (§8). No anti-cancellation clause. |
 | **Waiting periods** | Psychotherapy: 10 months. Dental prosthetics: 10 months. | Wellness: 1 year. Addiction rehabilitation: 1 year. Dental not stated explicitly. | Mental health: 6 months. Dental major: 12 months. Contacts/glasses: 6 months. | Psychiatric: 10 months. |
 | **Deductible** | €1,000/year (applies to all costs) | **$850/year** (applies to all claims) | €1,000/year (**does not apply to hospitalization**) | $1,000 inpatient only; outpatient nil |
 | **Pre-existing conditions** | Covered if disclosed; surcharges or exclusions possible at signup | **Full Medical Underwriting (FMU)** — detailed medical questionnaire required; insurer assesses history and may apply exclusions, premium surcharges, or decline coverage altogether | Covered if disclosed at signup; no re-underwriting at renewal | Covered subject to medical underwriting at application |
@@ -176,8 +192,9 @@ All four plans increase premiums as you age into the next bracket. None cut off 
 | **⚠️ Q15 — Oncology specialty drugs** | Must get written confirmation: does "Medication 100%" cover biologics, immunotherapy, targeted oral cancer drugs? This is the single blocking question. If yes → equivalent to Expacare/Diamond. If no → serious cancer drug gap. | ✅ Cancer treatment (full refund, outpatient) covers cancer drugs. ATMPs ($500k lifetime cap) for gene/cell therapies. Standard biologics/immunotherapy covered under cancer treatment line — **no separate cap.** ⚠️ **§6.20 risk**: "experimental treatment" is excluded using the UK as a guide — a cutting-edge drug not yet standard in UK practice could be refused. | Generic rule: no issue for modern drugs with no generic (most cancer drugs). Potential out-of-pocket cost only for drugs where a generic exists. | ✅ Confirmed in full — explicit TOB line, no ambiguity. |
 | **⚠️ Israel/Germany home country** | Does German citizenship trigger a second 180-day limit, splitting the allowance? | ⚠️ **Hard restriction for both countries.** Must confirm with Hans: does the >6-months rule apply to each passport country separately, or cumulatively? If cumulative, Israel + Germany together must be < 6 months/year total. | ✅ Both Israel and Germany get unlimited Full Country Coverage. No issue. | ⚠️ Not addressed. Paraguay address workaround confirmed by Hans. |
 | **Direct hospital payment** | ⚠️ Not documented — likely reimbursement | ✅ Healix/Expacare direct settlement | ✅ MCI Assist pays hospital directly | ✅ AXA payment guarantee |
-| **Minimum contract / exit** | ✅ 12 months then monthly | ✅ Annual; pro-rated refund if no claims | ✅ 12 months then monthly | ⚠️ Not stated |
-| **Renewability at older age** | ✅ No cutoff stated | ✅ **Explicit: "will not cancel because of age or health record"** | ✅ Explicitly no cutoff | ⚠️ Not stated |
+| **Minimum contract / exit** | ✅ 12 months then monthly | ✅ Annual; pro-rated refund if no claims | ✅ 12 months then monthly | ✅ Now documented: annual, either party can terminate at renewal with 30 days notice (§8). |
+| **Renewability at older age** | ✅ No cutoff stated | ✅ **Explicit: "will not cancel because of age or health record"** | ✅ Explicitly no cutoff | ⚠️ **No protection.** Policy auto-renews if plan still available (§7a), but OG can terminate at any renewal (§8) or vary premium/terms without restriction. |
+| **⚠️ Individual premium singling** | Not documented | ⚠️ **Contract permits it** — "amend or alter premiums and terms on individual cases" (§2.3) | ✅ **Contract prohibits it** — adjustments are "for all customers" only (§5.5) | ⚠️ **Contract permits it** — "may vary benefits, cover and/or premium" at renewal (§7a), no pool-wide restriction |
 | **Ongoing illness duration** | No time cap confirmed by Hans (Q18): treatment covered up to annual limit, each year it renews, as long as policy is active | Same structure — annual limit applies, no per-condition time cap stated | Same | Same |
 | **⚠️ Cancer pre-authorisation penalty** | Not documented | ⚠️ **§6.53: Cancer treatment requires pre-authorisation. If not obtained: only 80% paid.** In a fast-developing oncology situation, this is an operational risk. | Genki: 50% if €2,000+ cost estimate not submitted 5 days prior (waived if MCI Assist manages hospitalization) | Pre-authorisation required; emergencies waived |
 | **⚠️ Claims filing deadline** | Not stated | ⚠️ **§7: Claims must be submitted within 6 months of treatment date. After that, claim is not paid — no exceptions stated.** | Not stated | Not stated |
@@ -217,7 +234,8 @@ SafetyWing covers cancer treatment at 100% under its own benefit line. However, 
 |---------|-----------------|---------------|--------|
 | **Israel home country** | ⚠️ >6 months outside required | **Unlimited** | **High if you plan significant Israel stays.** This alone may eliminate Expacare for Noam. |
 | **Germany home country** | ⚠️ Same >6 months restriction (German passport = home country) | **Unlimited** | Same concern as Israel. |
-| **Renewability guarantee** | "Will not cancel because of age or health record" — explicit, individual contract | "Does not end with a certain age" — explicit, but group contract | Both strong. Expacare's is on an individual policy, which is stronger. |
+| **Renewability guarantee** | "Will not cancel because of age or health record" — explicit, individual contract | "Does not end with a certain age" — explicit, but group contract | Both protect against cancellation. Expacare's is on an individual policy. |
+| **Individual premium singling** | ⚠️ **Contract permits it** — "amend or alter premiums and terms on individual cases" | **✅ Contract prohibits it** — adjustments are "for all customers" only | **Genki is stronger on the pricing-out risk.** Expacare can't cancel you but can individually raise your premium. Genki can do neither. |
 | **Policy maximum** | $10,000,000 | **No Limit** | Genki is better — no ceiling at all. |
 | **Cancer drug certainty** | ✅ Covered under cancer module; ATMPs $500k cap | Generic rule (minimal risk for modern drugs) | Both acceptable; Expacare has a small ATMP caveat. |
 | **Claims handler** | **Expacare directly** (no DR-WALTER) | DR-WALTER (documented multi-month delay) | Expacare is clearly better on claims reliability. |
@@ -225,7 +243,7 @@ SafetyWing covers cancer treatment at 100% under its own benefit line. However, 
 | **You are a direct party** | ✅ Yes | ⚠️ No — group member | Expacare is better. |
 | **Product classification** | Long-term IPMI | Long-term expat health | Tied — both correctly classified. |
 
-**Verdict:** For just $29/month more, Genki Premium buys unlimited Israel and Germany coverage and no policy maximum. If you intend to spend substantial time in Israel or Germany, Genki Premium is the correct choice over Expacare. If you're confident you'll stay under 6 months/year in both passport countries, Expacare may be preferable on claims reliability, insurer stability, and individual contract structure.
+**Verdict:** For just $29/month more, Genki Premium buys unlimited Israel and Germany coverage, no policy maximum, and — critically — **the only contractual protection against individual premium singling.** Genki's "for all customers" pricing means they cannot raise your premium because you became expensive. Expacare's contract explicitly reserves this right. If long-term continuity after a catastrophic illness is the priority, Genki's contractual protections outweigh Expacare's advantages in insurer stability and claims handling. If you're confident you'll stay under 6 months/year in both passport countries and weigh insurer track record above contractual language, Expacare remains strong.
 
 ---
 
@@ -234,7 +252,8 @@ SafetyWing covers cancer treatment at 100% under its own benefit line. However, 
 | Benefit | Expacare Choices | Optimum Global Diamond | Impact |
 |---------|-----------------|------------------------|--------|
 | **Israel coverage** | ⚠️ >6 months outside required | Not documented; Paraguay workaround used | Both uncertain/restricted; neither is clean. |
-| **Renewability guarantee** | **"Will not cancel because of age or health record"** — explicit | Not stated ⚠️ | Expacare is clearly better on this. |
+| **Renewability guarantee** | **"Will not cancel because of age or health record"** — explicit | ⚠️ **No protection.** Either party can terminate at any renewal, 30 days notice, no restriction (§8). | **Expacare is categorically better.** OG can walk away; Expacare cannot cancel you for health. |
+| **Individual premium singling** | ⚠️ Contract permits it (§2.3) | ⚠️ Contract permits it (§7a) | Both can single you out. Neither offers pool-wide pricing protection. |
 | **Insurer backing** | **Lloyd's of London** | AXA (reinsurer) | Both strong; different flavors. |
 | **Policy maximum** | $10,000,000 | $8,000,000 | Expacare is slightly better. |
 | **USA planned treatment** | Emergency only, 6 weeks | **In Full, 45 days including planned treatment** | Diamond better if US access is important. |
@@ -243,7 +262,7 @@ SafetyWing covers cancer treatment at 100% under its own benefit line. However, 
 | **Emergency assistance** | Healix (British Foreign Services) | AXA (very large global network) | Both excellent. |
 | **Product age** | 40+ years | Stable since ~2017 | Expacare is longer established. |
 
-**Verdict:** At $46/month more, Diamond buys better USA planned treatment coverage and slightly better documented claims reliability. Expacare wins on explicit renewability guarantee and marginally higher policy max. At this price gap, the decision hinges on whether US access matters and how much weight you place on the explicit no-cancel guarantee.
+**Verdict:** At $46/month more, Diamond buys better USA planned treatment coverage and slightly better documented claims reliability. But Expacare is now clearly superior on continuity: it has an explicit no-cancellation guarantee for age/health (even if it can still individually adjust premiums), while OG has no such protection — either party can terminate at any renewal for any reason. Both can individually adjust premiums. If long-term continuity matters, Expacare is the better choice of these two.
 
 ---
 
@@ -258,10 +277,11 @@ Only $17/month difference. Diamond buys over Genki Premium:
 | **AXA emergency network** | MCI Assist (strong; direct hospital payment) | AXA (very large global network; direct hospital payment) | Marginal difference in practice for LatAm. |
 | **Policy maximum** | No Limit | $8,000,000 | Genki Premium is strictly better here — No Limit vs $8M cap. |
 | **Israel coverage** | Unlimited | Not documented ⚠️ | Genki Premium is strictly better. |
-| **Regulatory** | Liechtenstein FMA | UK FCA / Labuan FSA | Both weaker than Barmenia's BaFin. |
-| **Renewability** | Explicitly indefinite | Not documented ⚠️ | Genki is more certain. |
+| **Regulatory** | Liechtenstein FMA + German VVG | UK FCA / Guernsey | German VVG provides stronger statutory consumer protection for health insurance. |
+| **Renewability** | Explicitly indefinite; cannot cancel for claims | ⚠️ **Either party can terminate at any renewal, 30 days notice** (§8) | **Genki is categorically better.** |
+| **Individual premium singling** | **✅ Contract prohibits it** — "for all customers" only | ⚠️ **Contract permits it** — no restriction | **Genki is categorically better.** This is the decisive difference for catastrophic long-term coverage. |
 
-**Verdict on +$17/month:** For just $17/month more, Diamond buys complete oncology drug certainty (no generic rule) and full USA planned treatment coverage. Genki Premium wins on policy max and Israel coverage. At this price gap, Diamond makes sense if US access or drug certainty is important to you.
+**Verdict on +$17/month:** Diamond buys complete oncology drug certainty (no generic rule) and full USA planned treatment coverage. But Genki Premium wins on every long-term protection metric: pool-wide pricing (cannot single you out), cannot cancel for claims, unlimited Israel, no policy max. For someone buying insurance primarily for catastrophic long-term coverage, **Genki's contractual protections are worth more than Diamond's within-year benefit advantages.** Diamond makes sense only if US access is a hard requirement.
 
 ---
 
@@ -304,7 +324,8 @@ What the €60/month (€720/year) buys:
 | Israel stays | 180 days/yr | ⚠️ **>6 months outside required — hard eligibility rule** | **Unlimited** | ⚠️ unclear |
 | Germany stays | ⚠️ unclear | ⚠️ **Same >6 months outside rule (German passport = home country)** | **Unlimited** | ⚠️ not addressed |
 | Direct hospital payment | ⚠️ unclear | ✅ Healix direct settlement | ✅ MCI Assist | ✅ AXA |
-| Renewability certainty | ✅ explicit | **✅ most explicit: "will not cancel because of age or health record"** | ✅ explicit | ⚠️ not stated |
+| Renewability certainty | ✅ explicit | **✅ most explicit: "will not cancel because of age or health record"** | ✅ explicit; cannot cancel for claims | ⚠️ **Weak: either party can terminate at any renewal, 30 days notice, no restriction** |
+| Can they single you out on premium? | Not documented | ⚠️ **Yes — contract permits individual adjustment** | **✅ No — pool-wide only ("for all customers")** | ⚠️ **Yes — no restriction on individual vs. pool** |
 | Oncology drug certainty | ⚠️ Q15 open | ✅ cancer module; ATMPs capped | Low risk (generic rule) | ✅ confirmed |
 | Regulatory protection | **BaFin (best)** | **UK FCA** | Liechtenstein | UK/Labuan |
 | You are a direct party | ⚠️ No — group member only | **✅ Yes — individual policy** | ⚠️ No — group member only | ✅ Yes — individual policy |
@@ -314,26 +335,35 @@ What the €60/month (€720/year) buys:
 
 **The decision tree:**
 
-1. **Israel and Germany time test:**
-   - If you expect to spend substantial time in Israel (or Germany) — more than 6 months/year in either — **Expacare is eliminated** (hard eligibility requirement, not just a coverage limitation).
-   - If you will reliably stay under 6 months/year in both Israel and Germany, Expacare is viable and its individual contract / 40-year stability / explicit renewability guarantee are significant advantages.
+1. **Long-term continuity test (most important for catastrophic coverage):**
+   - **OG Diamond** has the weakest contractual continuity of all four plans. The policy permits individual premium adjustment, individual terms changes, and outright termination at any renewal with 30 days notice for any reason. If long-term continuity after becoming sick is your top priority, **OG is the riskiest choice contractually** despite Hans's experience that it doesn't happen.
+   - **Expacare** cannot cancel you for age or health, but CAN individually adjust your premium and terms — creating a "pricing out" risk. Stronger than OG, but not bulletproof.
+   - **Genki Premium** is the only plan that contractually commits to pool-wide-only pricing ("for all customers") and cannot cancel except for fraud or full product discontinuation. Strongest continuity protection. Trade-off: group policy (not a direct party), insurer changed twice.
+   - **Barmenia Plus** — continuity protections not documented in available T&Cs.
 
-2. **Get Q15 answered by Christoph in writing** (for Barmenia Plus):
+2. **Israel and Germany time test:**
+   - If you expect to spend substantial time in Israel (or Germany) — more than 6 months/year in either — **Expacare is eliminated** (hard eligibility requirement, not just a coverage limitation).
+   - If you will reliably stay under 6 months/year in both Israel and Germany, Expacare is viable and its individual contract / 40-year stability / no-cancellation guarantee are significant advantages.
+   - OG uses "Home Country" as declared on the application form (not passport-based like Expacare). Hans has confirmed Paraguay address workaround for Israel. This is an informal arrangement, not a contractual right — works until it doesn't.
+
+3. **Get Q15 answered by Christoph in writing** (for Barmenia Plus):
    - If **yes** (Barmenia covers oncology biologics): Barmenia Plus at $200/mo is the clear value winner on price. But weigh the risk factors below.
    - If **no** (Barmenia does not cover oncology biologics): Barmenia Plus is eliminated for cancer risk. Choose from Expacare, Genki Premium, or Diamond.
 
-3. **New risk factors to weigh for Barmenia Plus / COVRD.EE — from Hans's answers:**
-   - **"Travel insurance" classification**: COVRD.EE's own documents call it an *"international travel group health insurance policy."* This may mean travel-style rules (definitions, exclusions, pre-existing condition handling) rather than long-term health insurance rules. This is not yet confirmed to be a real limitation — but it is an unresolved flag worth probing with Christoph.
-   - **You are not a direct party to the contract**: The T&Cs are explicit that all rights/obligations exist between DR-WALTER and Barmenia only. In a dispute, you are dependent on DR-WALTER's willingness to act on your behalf — you have no direct legal standing against Barmenia.
-   - **DR-WALTER claims concentration risk**: DR-WALTER handles claims for both COVRD.EE and Genki. A documented Genki claim (September 2025) went unresolved for months and required escalation to DR-WALTER's MD. Both products share the same operational bottleneck.
-   - **Product youth**: COVRD.EE from a small Estonian broker (Herrmann, Huebner & Partner) is a newer distribution arrangement. Less tested at scale.
+4. **Risk factors for Barmenia Plus / COVRD.EE:**
+   - **"Travel insurance" classification**: COVRD.EE's own documents call it an *"international travel group health insurance policy."* This may mean travel-style rules rather than long-term health insurance rules.
+   - **You are not a direct party to the contract**: All rights/obligations exist between DR-WALTER and Barmenia only. No direct legal standing against Barmenia.
+   - **DR-WALTER claims concentration risk**: DR-WALTER handles claims for both COVRD.EE and Genki. A documented Genki claim (September 2025) went unresolved for months.
+   - **Product youth**: COVRD.EE from a small Estonian broker is a newer distribution arrangement.
 
-4. **Expacare Choices as a middle path** (if Israel/Germany time is not a concern):
+5. **Expacare Choices as a middle path** (if Israel/Germany time is not a concern):
    - At ~$317/month, it sits between Barmenia and Genki/Diamond.
-   - It gives you: the only explicit written guarantee against cancellation for age or health; a 40-year established insurer backed by Lloyd's; an individual policy (not a group membership); Healix emergency assistance; and a clean claims handler with no documented problems.
-   - Trade-offs vs Genki: home country restrictions (Israel/Germany); $10M cap vs no limit; $500k ATMP lifetime cap for gene/cell therapies.
-   - Trade-offs vs Diamond: no USA planned treatment; slightly more expensive when deductible is the same ($363 nil excess Diamond vs ~$373 nil excess Expacare).
+   - Strengths: explicit no-cancellation guarantee for age/health; 40-year Lloyd's-backed insurer; individual policy; Healix emergency assistance; clean claims handler.
+   - ⚠️ New concern: "amend or alter premiums and terms on individual cases" means they can price you out without formally cancelling you. The no-cancellation clause protects against termination but not against unaffordable individual premium increases.
+   - Trade-offs vs Genki: home country restrictions; $10M cap vs no limit; $500k ATMP lifetime cap; no pool-wide pricing protection.
+   - Trade-offs vs Diamond: no USA planned treatment; slightly more expensive at nil excess.
 
-5. **If you rule out Expacare (home country restriction) and Q15 is confirmed for Barmenia:**
-   - Barmenia Plus at $200/mo is the clear value winner on price. Ask yourself: is the $163/mo saving worth the "travel insurance" label risk, the group contract structure, and the shared DR-WALTER claims bottleneck? Over a year that is ~$1,950 in savings. Over five years, ~$9,750.
-   - If you value certainty and claims quality above cost, Genki Premium ($346) or Diamond ($363) are the cleaner choices — with Genki Premium winning on Israel coverage and policy max, Diamond winning on cancer drug certainty and USA access.
+6. **If long-term continuity is the deciding factor:**
+   - **Genki Premium** ($346/mo) offers the strongest contractual protection: pool-wide pricing, no individual singling, cancellation only for fraud or full product discontinuation, unlimited Israel/Germany, no policy max. Trade-offs: group policy structure, insurer has changed twice, DR-WALTER claims handler (documented problems).
+   - **Expacare** ($317/mo) offers the strongest insurer stability (40 years, Lloyd's) and an individual policy with no-cancellation guarantee, but permits individual premium adjustment — a meaningful gap for someone buying insurance specifically for the catastrophic long-term scenario.
+   - **OG Diamond** ($363/mo) offers the best within-year benefits (confirmed oncology drugs, USA access, AXA emergency network) but the weakest long-term contractual position of all four plans.
