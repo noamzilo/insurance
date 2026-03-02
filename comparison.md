@@ -8,6 +8,8 @@
 
 SafetyWing is **eliminated**: the $5,000/year hard cap on general outpatient means a serious non-cancer chronic condition (RA, MS, Crohn's, autoimmune disease requiring biologics) is effectively uncovered. Cancer itself has a separate benefit line, but everything else outpatient is capped at $5,000 — which one month of biologics can exhaust.
 
+**Regency for Expats Fully Comprehensive is eliminated**: the only relevant tier (all lower tiers have outpatient oncology and chronic condition caps that fail immediately). At ~$236/mo it sits between Barmenia and Expacare on price, but has a $10,000/year hard cap on outpatient chronic condition management, an oncology definition that covers only "chemotherapy and radiotherapy" (immunotherapy/targeted therapy/biologics not explicitly included), a $2,000,000 annual max, terminal illness explicitly excluded, and is governed exclusively by Nevis law with no FCA/BaFin/FOS recourse — the weakest regulatory position of all plans reviewed. See end of document.
+
 **The five relevant plans:**
 
 | Plan | Monthly | Annual max | Outpatient | Chronic outpatient |
@@ -55,7 +57,7 @@ This is the most direct available answer. It is an informal written assurance, n
 
 **The OG gap — partially clarified:** Hans's position is that OG §7a changes are pool-wide ("related to everyone on cover, not you as an individual"). Historical example: OG upgraded all policyholders on an old low-coverage plan to USD 1M/USD 500 outpatient. §8 termination is framed as a standard business-exit clause for when an insurer exits a market. However, the contract language still does not say "for all insured persons" — Genki's does explicitly. The pool-wide assurance for OG remains Hans's interpretation, not confirmed in the contract text.
 
-**The Genki protection:** Genki is the only insurer whose contract commits to pool-wide-only premium adjustment ("for all customers"). Combined with the cancellation protections (only for fraud or full product discontinuation), this is the strongest contractual continuity position. The trade-off: Genki is a group policy (you're not a direct contracting party) and their insurer has changed twice.
+**The Genki protection:** Genki is the only insurer whose contract commits to pool-wide-only premium adjustment ("for all customers"). Combined with the cancellation protections (only for fraud or full product discontinuation), this is the strongest *contractual* continuity position. The trade-off: Genki is a group policy (you're not a direct contracting party), their insurer has changed twice, and — critically — the cancellation clause is separate from the voiding clause. Squarelife can void the policy retroactively for alleged non-disclosure triggered by a large claim (§19 VVG / duty of disclosure breach), which is a parallel route out that bypasses the cancellation protections entirely. See Section 11 for real-world evidence of this pattern.
 
 ---
 
@@ -70,7 +72,7 @@ This is the most direct available answer. It is an informal written assurance, n
 | **Broker / platform** | NOMADS.insure / DR-WALTER GmbH | **BrokerFish (Hans Benn)** | Genki GmbH | BrokerFish (Hans Benn) | **BrokerFish (Hans Benn)** |
 | **Claims handler** | DR-WALTER GmbH (shared with Genki) | **Expacare directly** (own team) | DR-WALTER GmbH (shared with COVRD.EE) | Optimum Global directly | **Expatriate Group directly** (own team). Note: "ask more questions on submitted claims" per Hans. |
 | **Emergency assistance** | Not specified ⚠️ | **Healix** (24/7; British Foreign Services) | **MCI Assist** (24/7; pays hospital directly) | **AXA** (24/7; direct payment guarantee) | Own 24/7 emergency line. No named major provider (Healix/AXA/MCI). ⚠️ |
-| **Regulatory protection** | **BaFin (strongest in EU)** + PKV Ombudsman | **UK FCA** (Expacare Ltd, authorised & regulated) | Liechtenstein FMA (EEA-passported) | UK FCA / Labuan FSA (broker) | **UK FCA** (Strategic Insurance Services Ltd, FCA #307133). Non-EU: Mauritius Office of Ombudsperson for Financial Services. |
+| **Regulatory protection** | **BaFin (strongest in EU)** + PKV Ombudsman | **UK FCA** (Expacare Ltd, authorised & regulated) + **Financial Ombudsman Service (FOS)** binding up to £415,000, free, accessible regardless of where you live | ⚠️ **Liechtenstein FMA only** — small regulator (~40,000 person country), no FOS equivalent. No other insurer in this comparison uses FMA. German VVG applies as contract law but the supervisory body is Liechtenstein FMA. | UK FCA / Guernsey Financial Services Commission | **UK FCA** (Strategic Insurance Services Ltd, FCA #307133) + FOS access. Underwriter: Mauritius FSC (weaker). |
 | **Jurisdiction** | **German law** | UK | Liechtenstein / German VVG applies | UK | **English law** |
 | **Product classification** | ⚠️ "International travel group health insurance" | **IPMI** — long-term expat health | Long-term expat / remote worker health | Long-term international health insurance | **IPMI** — "International Private Medical Insurance" |
 | **Insurer / product stability** | ⚠️ Newer product, small Estonian broker. Barmenia established. | **40+ years; Lloyd's-backed.** Hans 10+ years. | ⚠️ Insurer changed twice (Barmenia→Allianz→Squarelife). | Stable since ~2017; AXA-backed. | Expatriate Group since 1997 (UK). ⚠️ **Underwriter is Guardrisk Mauritius** — significantly less established than Lloyd's or AXA. |
@@ -170,7 +172,7 @@ This is the most direct available answer. It is an informal written assurance, n
 | **Hospitalization** | Reimbursement ⚠️ | **Healix/Expacare direct settlement** | **MCI Assist pays directly** | **AXA payment guarantee** | ⚠️ Pre-authorization required 7 days in advance. No named GOP provider. Likely reimbursement. |
 | **High-cost treatment (>$1,000)** | Not documented ⚠️ | Pre-authorisation required | Prior cost estimate 5 days before (else 50% only) | Pre-authorization required | **Pre-authorization required 7 days in advance** for all inpatient and any claim >$1,000 |
 | **Claims handler** | DR-WALTER GmbH | **Expacare directly** (own in-house team) | DR-WALTER GmbH (same as COVRD.EE) | Optimum Global directly | **Expatriate Group directly** (own team) |
-| **Known claims track record** | No data | Hans 10+ years; no documented issues | ⚠️ Documented multi-month delay (Sep 2025); DR-WALTER bottleneck | ✅ ~2 weeks; very few declines (18+ years) | Hans and his wife personally use this plan. ⚠️ Hans notes: "They do ask more questions related to claims once submitted" — more scrutiny than others. No documented major failures. |
+| **Known claims track record** | No data | Hans 10+ years; no documented issues | ⚠️ **Serious pattern documented in Trustpilot reviews (see Section 11):** Squarelife voids policies retroactively after large claims citing non-disclosure (Genki Native, multiple cases). DR-WALTER delays of 2–4 months routine; approved claims not paid (Explorer). 12–15 hour GOP delays for emergency hospitalizations. No documented case of a large catastrophic illness claim being successfully paid through Genki Native. | ✅ ~2 weeks; very few declines (18+ years) | Hans and his wife personally use this plan. ⚠️ Hans notes: "They do ask more questions related to claims once submitted" — more scrutiny than others. No documented major failures. |
 | **Broker assistance** | Christoph (NOMADS.insure) | **Hans (BrokerFish); 10+ years with Expacare** | Genki support, then DR-WALTER | **Hans (BrokerFish); 18+ years; knows OG MD** | **Hans (BrokerFish)** |
 
 ---
@@ -206,6 +208,95 @@ This is the most direct available answer. It is an informal written assurance, n
 | **⚠️ Claims filing deadline** | Not stated | ⚠️ **§7: Claims must be submitted within 6 months of treatment date. After that, claim is not paid — no exceptions stated.** | Not stated | Not stated |
 
 ---
+
+## 11. Real-World Claims Evidence (Trustpilot Reviews — Genki)
+
+*Source: Trustpilot reviews for Genki, all star ratings, collected Feb 2026. Focus: cases relevant to catastrophic illness (serious inpatient, large claims, policy voiding). Routine small-claim reviews are omitted as not relevant to the stated purpose.*
+
+**Squarelife note:** Squarelife Insurance AG (Liechtenstein) is Genki Native's insurer. No other plan in this comparison uses Squarelife. All other insurers are regulated by BaFin (Barmenia), UK FCA/Lloyd's (Expacare), UK FCA/Guernsey (OG), or UK FCA/Mauritius (Expatriate Group).
+
+---
+
+### Retroactive Policy Voiding After Large Claims (Genki Native)
+
+**Martin, Nov 2025 (1★) — emergency surgery, Genki Native:**
+> "After a year+ abroad, I had to get checked and needed an emergency surgery with a follow-up surgery. Both got denied. Then, GENKI: 'Policy void from day 1. We keep your money.' They even blacklisted me in HIS."
+
+Genki's reply confirms: policy retroactively voided by Squarelife for duty of disclosure breach. Premiums retained. This is Genki Native, not Explorer.
+
+**Nat, Jan 2026 (1★) — cancer screening, Genki Native Premium:**
+> "I took out the premium policy in good faith... When I submitted my claim for all the tests I had undertaken... five days of total silence. They went straight from silence to accusing me of fraud... Policy was void from the start."
+
+Genki's reply: "medical information predating the start of cover was identified that had not been included in the questionnaire... such findings require reassessment under the insurer's underwriting rules, which can include termination of cover."
+
+**H Sohn, Aug 2025 (1★) — Genki Native Premium:**
+> "I had the Genki Native Premium plan, but my experience was far from premium. When I needed support, I was met with excessive bureaucracy, requests for nearly impossible documents from abroad, and pressure to accept exclusions or face cancellation."
+
+**Sergey Matveyev, Apr 2025 (1★) — Genki Native:**
+> "I was declined in reimbursement and my contract was closed. Reason: my past visits were 'too significant'. I have proven strictly with documents that I had single visits and short term treatment of infections."
+
+Genki's reply: "Squarelife has the right to reassess the medical information provided if new details emerge — **such as during a claim** — that contradict the original responses."
+
+**spaldino, Sep 2025 (2★) — Genki Native, existing customer mid-treatment:**
+> "I fell foul of the application question — 'In the last 6 weeks have you experienced any health issues/symptoms that are not medically clarified?' — and my insurance was cancelled... I suspect that as I am at the upper age band and was already undergoing treatment through Genki insurance, the underwriters were looking for ways to cancel me on the grounds of cost."
+
+Genki's reply confirms policy terminated following Squarelife's assessment of an undisclosed disclosure breach.
+
+**Pattern:** Squarelife triggers re-underwriting when a large or complex claim is submitted. Any item in your medical history that could be framed as incompletely disclosed becomes grounds for voiding the policy retroactively. This is structurally separate from the cancellation clause — it operates under §19 VVG (duty of disclosure), not the renewal/cancellation mechanism. The "cannot cancel for claims" contractual protection does not apply.
+
+---
+
+### Emergency Hospitalization Delays
+
+**TJ, Feb 2025 (1★) — two separate emergency hospitalizations:**
+> "On two separate occasions I waited in a hospital bed for 12–15 hours waiting just for Genki to approve my treatment... waiting with an open wound... MD Medicus/Dr Walter wanted to send me to a very low standard hospital obviously for cost purposes, and while I was extremely weak and felt like I was dying, I had to beg them to simply do their jobs."
+
+Genki's reply: "Waiting 12–15 hours is far from ideal and is not standard." Did not dispute the hospital redirection attempt.
+
+**Dmitry Vorotnikov, Jun 2025 (1★) — child needing biopsy under general anesthesia:**
+> "The hospital required confirmation from the insurance to proceed. Genki's customer support repeatedly lied to us. They claimed their partners were communicating with the hospital — but I was included in the email thread and saw with my own eyes that the hospital sent multiple unanswered requests. There were no responses for days, while my child's health deteriorated."
+
+**Alexei Dom, Jan 2026 (5★) — hospitalization in Bali, positive overall but:**
+> "The wait for approval was stressful. The hospital requested a Guarantee of Payment (GOP) and it took 7 full hours. Average approval time from Genki in Indonesia is 8–9 hours, but can be up to 24 hours."
+
+This is from a satisfied customer. The 7–24 hour GOP delay is documented even in positive reviews.
+
+---
+
+### DR-WALTER: Approved Claims Not Paid
+
+**Igor, Dec 2025 (1★) — 2 years on Explorer:**
+> "Both [claims] were officially approved — all documents accepted, I received emails confirming that the claims were approved and would be paid. The money never arrived. After that: weeks of complete silence. My main communication channel (the chat) was disabled after I mentioned escalation to regulators."
+
+**Alex (third-party witness), Dec 2025 (1★):**
+> "Two claims had been officially approved but never paid out. All this time he was bounced between generic scripted replies and 'please contact DR-WALTER directly'... When you ignore a paying customer for weeks and respond with nothing but templates, it is sadly not surprising that frustration spills over."
+
+---
+
+### What the Reviews Do and Do Not Show
+
+| Claim type | Evidence |
+|---|---|
+| Routine small outpatient (< €500) | Mostly paid, delays of 2–10 weeks |
+| Approved claims not paid | Documented (Explorer/DR-WALTER) |
+| Emergency hospitalization GOP delay | 7–24 hours documented even in positive reviews |
+| Large catastrophic illness claim paid (Genki Native) | **Zero documented cases** |
+| Genki Native policy voided after large claim | Multiple documented cases |
+| Pool-wide pricing (no individual singling) | Confirmed — no reviewer alleges individual targeting |
+
+The pool-wide pricing protection is real. The catastrophic illness claim payment is not validated by any real-world evidence.
+
+---
+
+### Regulatory Recourse Comparison
+
+| Scenario | Genki (Squarelife/FMA) | Expacare (Lloyd's/FCA) |
+|---|---|---|
+| Insurer denies large claim | Complain to Squarelife → Liechtenstein FMA. No FOS. | Complain to Expacare → UK Financial Ombudsman Service (FOS). Binding up to £415,000. Free. Accessible from anywhere. |
+| Insurer voids policy | §19 VVG challenge in Liechtenstein/German courts. Practical difficulty from Latin America. | Same FOS route. Lloyd's market also has internal claims obligations enforced by Lloyd's Council. |
+| Insurer goes insolvent | No documented Liechtenstein insurance guarantee fund. | Lloyd's Central Fund (guarantee of last resort for all Lloyd's policies). |
+
+The FOS is the reason UK FCA-regulated insurers behave differently on claims: a bad-faith denial creates a regulatory record and costs money. The Liechtenstein FMA provides no equivalent enforcement incentive.
 
 ---
 
@@ -251,6 +342,79 @@ SafetyWing covers cancer treatment at 100% under its own benefit line. However, 
 
 ---
 
+## Regency for Expats Fully Comprehensive (~$236/mo) — Eliminated
+
+**Provider:** Regency for Expats, a trading name of Regency Assurance. Regulated by the FSRC (Financial Services Regulatory Commission of Nevis — a small Caribbean offshore jurisdiction, not named in the brochure). Direct claims adjudication via an unnamed "independent claims adjudication company." No Healix, AXA, or MCI equivalent named.
+
+**Applicable law: Nevis.** Dispute resolution: online arbitration administered by an arbitration provider chosen by Regency for Expats. No FOS, no BaFin, no FCA equivalent. If Regency denies a large cancer claim, your recourse is arbitration in a jurisdiction with no established insurance regulatory enforcement, before an arbitrator Regency selects. This is the weakest regulatory position of all plans reviewed — weaker than even Squarelife/Liechtenstein FMA.
+
+**Tiers and why only Fully Comprehensive matters:**
+
+| Tier | Annual | Monthly | Problem |
+|------|--------|---------|---------|
+| Essential Local | $422 | ~$35 | Inpatient budget only; no outpatient |
+| Major Medical | $1,034 | ~$86 | No outpatient coverage at all |
+| Standard | $1,633 | ~$136 | GP/specialist/meds/imaging each capped at $750; zero chronic conditions, zero outpatient oncology |
+| Comprehensive | $2,275 | ~$190 | Inpatient oncology $20,000 (⚠️); outpatient oncology $20,000 (⚠️); chronic conditions $1,000 (⚠️ one prescription) |
+| **Fully Comprehensive** | **$2,829** | **~$236** | Only tier worth assessing |
+
+**Fully Comprehensive — Table of Benefits:**
+
+| Benefit | Fully Comprehensive |
+|---------|---------------------|
+| **Annual plan limit** | **US$2,000,000** |
+| Room & board | Full Cover (private room) |
+| Theatre fees, x-rays, labs, medicines, blood, appliances | Full Cover |
+| ICU | Full Cover |
+| Surgeon's fees (inc. pre/post-surgical) | Full Cover |
+| Anaesthetist's fees | Full Cover |
+| Professional fees (physician, specialist, radiologist, physio, pathologist) | Full Cover |
+| Rehabilitation | Full Cover, 45 Days |
+| Kidney Dialysis | Full Cover |
+| **Inpatient Oncology** | **Full Cover** |
+| Emergency Room | Full Cover |
+| **Organ Transplant** | **Full Cover** |
+| Hospital Cash Benefit | $200/night |
+| Outpatient Surgical | Full Cover |
+| Pre/post-hospitalization | Full Cover |
+| GP Consultation | Full Cover |
+| Specialist Consultation | Full Cover |
+| Prescribed Medication | Full Cover |
+| Imaging & Lab Tests | Full Cover |
+| **Outpatient Oncology** | **Full Cover** |
+| **Outpatient Chronic Conditions** | **⚠️ US$10,000/year** |
+| Physiotherapy | Full Cover, 10 Visits |
+| Alternative Therapies | Full Cover, 10 Visits |
+| Annual check-ups / Vaccinations | $500 each |
+| Eye test | $250, 1/year |
+| Emergency Dental | Full Cover |
+| Routine Dental (6-month wait) | $750 |
+| Major Dental (6-month wait) | $750 |
+| Evacuation & Repatriation | **Optional add-on, $100,000 cap** — not included by default |
+| Psychology Counselling | 10 Sessions (telephone only) |
+
+**Why eliminated:**
+
+| Issue | Detail | Impact |
+|-------|--------|--------|
+| **Chronic Conditions cap: $10,000/year** | Defined as "Routine drugs and dressings for the treatment of a chronic medical condition." Hard cap. | ⚠️ **Primary dealbreaker.** One month of RA biologics (Humira, Enbrel): $3,000–$8,000. MS disease-modifying drugs: $5,000–$8,000/month. The $10,000 cap can be exhausted in 1–3 months. Identical structural failure to Expatriate Primary+'s $20,000 cap, just a higher ceiling. |
+| **Oncology definition gap** | "Specialist consultation fees, diagnostics, surgery, radiotherapy and chemotherapy relating to cancer and its diagnosis." Immunotherapy, targeted oral therapies (e.g. Gleevec, Tagrisso), and biologics used as cancer treatment are **not mentioned**. | ⚠️ **Serious ambiguity.** Modern oncology is dominated by immunotherapy (Keytruda, Opdivo) and targeted therapies — not classical chemotherapy. Whether these fall under "Full Cover" oncology or are excluded as unlicensed/experimental (Exclusion 6) is not clear from the policy language. |
+| **Terminal illness explicitly excluded** | Exclusion 8: "Treatment for a terminal illness or any costs incurred from a hospice." | ⚠️ Advanced cancer that is no longer curable could be reclassified as terminal — voiding all ongoing treatment coverage at the moment it is most needed. |
+| **Experimental/unproven excluded** | Exclusion 6: "Treatment, tests or costs which we determine on general advice, is either experimental, unproven, novel, unlicensed or not medically necessary." No geographic qualifier. | Same risk as Expatriate Primary+. Any cutting-edge therapy not yet standard in the jurisdiction where Regency's medical advisors apply could be refused. |
+| **$2,000,000 annual max** | Same as Expacare if no claims, but Expacare is $10M and Genki/Barmenia have no limit. | Multi-year catastrophic illness (e.g. ongoing immunotherapy at $150,000/year) over 10+ years could approach this. |
+| **Renewability** | "We reserve the right to alter or discontinue the benefits, terms, conditions, definitions, exclusions, warranties, or premiums of your policy at each renewal date." Also: "We may at any time terminate a member's cover" for misconduct/misstatement. No explicit health-based protection against individual cancellation. | ⚠️ Full ability to reprice, change terms, or cancel at renewal. No "will not cancel for age/health" equivalent. Weaker than OG (which at least doesn't claim the right to change terms mid-year). |
+| **Pre-existing conditions** | Hard excluded: "Any claim relating directly or indirectly to any medical condition or related condition that existed prior to the date of entry." No moratorium mechanism (unlike Expatriate Primary+). No full medical underwriting transparency either. | Standard for this market, but no pathway to coverage unlike moratorium plans. |
+| **Home country / eligibility** | "Expatriate" is defined as "Any persons living or working outside their country of citizenship, for a period exceeding six months per period of cover." With Israeli + German dual citizenship, you may need to live outside both countries for the majority of the year to maintain eligibility. Not explicitly stated as a coverage exclusion but may affect policy eligibility. | ⚠️ Needs clarification. Similar structural concern as Expacare. |
+| **Regulatory protection** | **Nevis law + FSRC** — offshore Caribbean jurisdiction. Dispute resolution via online arbitration, arbitration provider chosen by Regency. No FOS. No BaFin. No FCA. No Lloyd's Central Fund. | ⚠️ **The weakest regulatory position of all plans reviewed.** If Regency denies a $500,000 cancer claim, your recourse is arbitration before a panel Regency selects, under Nevis law, with no independent insurance ombudsman and no established regulatory enforcement body as backstop. |
+| **Claims filing deadline** | "no later than 2 months after the event" — very tight (Expacare's 6-month window was already flagged as a concern for catastrophic illness where treatment runs continuously) | ⚠️ Tighter than any other plan reviewed. |
+| **Unknown insurer backing** | Regency Assurance, regulated by FSRC (Nevis). No reinsurer named. No Lloyd's, AXA, or equivalent financial backstop disclosed. | Unknown financial strength. |
+
+**One potential positive:** The Fully Comprehensive oncology benefit for both inpatient and outpatient is labeled "Full Cover" with no sub-limit — if the definition is interpreted broadly enough to include immunotherapy, it could match Expacare/OG on cancer treatment. But the policy language restricts oncology to "chemotherapy and radiotherapy," creating material ambiguity.
+
+**Why eliminated:** The $10,000/year chronic condition cap makes Regency Fully Comprehensive inadequate for the stated use case (non-cancer catastrophic chronic illness, biologics). The oncology definition ambiguity creates material cancer drug risk. Terminal illness is explicitly excluded. The Nevis governing law with arbitrator-choice dispute resolution means there is no independent enforcement mechanism if a large claim is denied. At ~$236/month, it is priced above Barmenia Plus (~$200/mo) while offering weaker regulatory protection and hard caps that the shortlisted plans do not have. Not recommended for any purpose within this comparison.
+
+---
+
 ## Barmenia Plus (~$200/mo) vs Expacare Choices (~$317/mo) — +$117/month
 
 | Benefit | Barmenia Plus | Expacare Choices | Impact |
@@ -278,12 +442,14 @@ SafetyWing covers cancer treatment at 100% under its own benefit line. However, 
 | **Individual premium singling** | ⚠️ **Contract permits it** — "amend or alter premiums and terms on individual cases" | **✅ Contract prohibits it** — adjustments are "for all customers" only | **Genki is stronger on the pricing-out risk.** Expacare can't cancel you but can individually raise your premium. Genki can do neither. |
 | **Policy maximum** | $10,000,000 | **No Limit** | Genki is better — no ceiling at all. |
 | **Cancer drug certainty** | ✅ Covered under cancer module; ATMPs $500k cap | Generic rule (minimal risk for modern drugs) | Both acceptable; Expacare has a small ATMP caveat. |
-| **Claims handler** | **Expacare directly** (no DR-WALTER) | DR-WALTER (documented multi-month delay) | Expacare is clearly better on claims reliability. |
+| **Claims handler** | **Expacare directly** (no DR-WALTER) | DR-WALTER (documented multi-month delay; approved claims not paid) | **Expacare is clearly better.** |
 | **Insurer stability** | 40+ years; Lloyd's | ⚠️ Changed insurers twice; Squarelife since 2021 | Expacare is more stable. |
 | **You are a direct party** | ✅ Yes | ⚠️ No — group member | Expacare is better. |
 | **Product classification** | Long-term IPMI | Long-term expat health | Tied — both correctly classified. |
+| **Regulatory / dispute recourse** | **UK FCA + FOS** — binding dispute resolution up to £415k, free, accessible from anywhere. Lloyd's Central Fund as insolvency backstop. | ⚠️ **Liechtenstein FMA only** — no FOS equivalent. No documented insolvency guarantee fund. | **Expacare is categorically better.** If Expacare denies a cancer claim, you have FOS. If Squarelife voids your policy, you have Liechtenstein FMA. |
+| **Large-claim real-world evidence** | ✅ No documented large-claim failures (Hans 10+ years) | ⚠️ **Multiple documented Genki Native policy voidings after large claims.** Zero documented cases of catastrophic illness successfully paid. | **Expacare is better on the only metric that matters for your use case.** |
 
-**Verdict:** For just $29/month more, Genki Premium buys unlimited Israel and Germany coverage, no policy maximum, and — critically — **the only contractual protection against individual premium singling.** Genki's "for all customers" pricing means they cannot raise your premium because you became expensive. Expacare's contract explicitly reserves this right. If long-term continuity after a catastrophic illness is the priority, Genki's contractual protections outweigh Expacare's advantages in insurer stability and claims handling. If you're confident you'll stay under 6 months/year in both passport countries and weigh insurer track record above contractual language, Expacare remains strong.
+**Verdict (updated after Trustpilot review analysis):** On contract language alone, Genki wins on pricing protection and Israel/Germany coverage. However, real-world evidence materially changes this assessment. Squarelife's documented pattern is to void Genki Native policies retroactively for alleged non-disclosure when a large claim is submitted — a parallel route that bypasses the cancellation clause entirely. There is no documented case of a large catastrophic illness claim being successfully paid through Genki Native. By contrast, the pool-wide pricing protection is irrelevant if the policy is voided at the point you actually need it. Expacare, with its own in-house Lloyd's-backed claims team, UK FCA/FOS regulatory backstop, and Hans's 10+ year track record of no documented large-claim failures, offers meaningfully stronger real-world protection for catastrophic illness — even though its contractual language on repricing is weaker. **The conclusion shifts to Expacare** unless Israel/Germany stays routinely exceed 6 months in a single country, in which case neither is clean and the decision requires separate analysis.
 
 ---
 
@@ -317,11 +483,11 @@ Only $17/month difference. Diamond buys over Genki Premium:
 | **AXA emergency network** | MCI Assist (strong; direct hospital payment) | AXA (very large global network; direct hospital payment) | Marginal difference in practice for LatAm. |
 | **Policy maximum** | No Limit | $8,000,000 | Genki Premium is strictly better here — No Limit vs $8M cap. |
 | **Israel coverage** | Unlimited | Not documented ⚠️ | Genki Premium is strictly better. |
-| **Regulatory** | Liechtenstein FMA + German VVG | UK FCA / Guernsey | German VVG provides stronger statutory consumer protection for health insurance. |
+| **Regulatory** | Liechtenstein FMA + German VVG | UK FCA / Guernsey | **OG is better here than it appears.** UK FCA regulated with FOS access (binding up to £415k). Liechtenstein FMA is a small regulator with no FOS equivalent — if Squarelife voids your policy after a cancer claim, your recourse is the FMA, not the FOS. German VVG is contract law, not regulator. |
 | **Renewability** | Explicitly indefinite; cannot cancel for claims | ⚠️ **Either party can terminate at any renewal, 30 days notice** (§8) | **Genki is categorically better.** |
 | **Individual premium singling** | **✅ Contract prohibits it** — "for all customers" only | ⚠️ **Contract permits it** — no restriction | **Genki is categorically better.** This is the decisive difference for catastrophic long-term coverage. |
 
-**Verdict on +$17/month:** Diamond buys complete oncology drug certainty (no generic rule) and full USA planned treatment coverage. But Genki Premium wins on every long-term protection metric: pool-wide pricing (cannot single you out), cannot cancel for claims, unlimited Israel, no policy max. For someone buying insurance primarily for catastrophic long-term coverage, **Genki's contractual protections are worth more than Diamond's within-year benefit advantages.** Diamond makes sense only if US access is a hard requirement.
+**Verdict on +$17/month (updated after Trustpilot review analysis):** Diamond buys complete oncology drug certainty, full USA planned treatment, and UK FCA/FOS regulatory backing. Genki's contractual advantages (pool-wide pricing, no cancellation) are real — but Squarelife's documented pattern of retroactive policy voiding when large claims are submitted substantially undermines them in practice. The regulatory difference is also now decisive: if OG behaves badly you have FOS recourse; if Squarelife voids your policy after a cancer claim you have Liechtenstein FMA recourse. The OG termination-at-renewal risk remains a genuine weakness, but for a catastrophic illness scenario the Squarelife voiding risk is more likely to be triggered and harder to contest. **Diamond is the stronger choice of these two** unless the OG termination clause is a hard dealbreaker.
 
 ---
 
@@ -368,18 +534,18 @@ What the €60/month (€720/year) buys:
 | Renewability certainty | ✅ explicit | **✅ "will not cancel because of age or health record"** | ✅ cannot cancel for claims; pool-wide pricing | ⚠️ Either party can terminate at renewal | ⚠️ "May cancel at next renewal date" — no restriction |
 | Can they single you out on premium? | Not documented | Contract permits it; Expacare confirms "not used as discretionary repricing" | **✅ No — "for all customers" (contract)** | ⚠️ Contract permits it (Hans: pool-wide in practice) | ⚠️ Contract permits it. **NCB creates de facto 20% pricing difference** between sick and healthy. |
 | Oncology drug certainty | ⚠️ Q15 open | ✅ cancer module; ATMPs capped | Low risk (generic rule) | ✅ confirmed | ✅ covered; "experimental/unproven" excluded (no geographic qualifier) |
-| Regulatory protection | **BaFin (best)** | **UK FCA** | Liechtenstein / German VVG | UK FCA / Guernsey | **UK FCA** / Mauritius |
+| Regulatory protection | **BaFin (best)** | **UK FCA + FOS** (binding dispute resolution up to £415k, free, regardless of residence) | ⚠️ Liechtenstein FMA only — no FOS equivalent. Squarelife is only insurer here not FCA/BaFin regulated. | UK FCA + FOS / Guernsey | **UK FCA + FOS** / Mauritius (weaker underwriter) |
 | You are a direct party | ⚠️ No | **✅ Yes** | ⚠️ No | ✅ Yes | **✅ Yes** |
 | Product classification | ⚠️ "Travel group health insurance" | ✅ Long-term IPMI | Long-term expat health | Long-term international health | IPMI |
 | Insurer backing | Barmenia (BaFin) | **Lloyd's of London** | Squarelife + Genki | AXA reinsurer | ⚠️ **Guardrisk Mauritius** |
-| Claims track record | No data | ✅ 10+ years; no documented issues | ⚠️ Multi-month delay (Sep 2025) | ✅ ~2 weeks; very few declines | Hans personally uses it. ⚠️ "More questions on submitted claims." |
+| Claims track record | No data (shares DR-WALTER with Genki) | ✅ 10+ years; no documented issues; own in-house team | ⚠️ **Squarelife voids policies after large claims (multiple Genki Native cases documented). DR-WALTER: approved claims not paid, 2–4 month delays, 12–15h GOP delays. Zero documented large catastrophic illness claims successfully paid.** | ✅ ~2 weeks; very few declines | Hans personally uses it. ⚠️ "More questions on submitted claims." |
 
 **The decision tree:**
 
 1. **Long-term continuity test (most important for catastrophic coverage):**
    - **OG Diamond** has the weakest contractual continuity of all four plans. The policy permits individual premium adjustment, individual terms changes, and outright termination at any renewal with 30 days notice for any reason. If long-term continuity after becoming sick is your top priority, **OG is the riskiest choice contractually** despite Hans's experience that it doesn't happen.
-   - **Expacare** cannot cancel you for age or health, but CAN individually adjust your premium and terms — creating a "pricing out" risk. Stronger than OG, but not bulletproof.
-   - **Genki Premium** is the only plan that contractually commits to pool-wide-only pricing ("for all customers") and cannot cancel except for fraud or full product discontinuation. Strongest continuity protection. Trade-off: group policy (not a direct party), insurer changed twice.
+   - **Expacare** cannot cancel you for age or health, but CAN individually adjust your premium and terms — creating a "pricing out" risk. Stronger than OG, but not bulletproof. In real-world evidence (Trustpilot, 10+ years via Hans), no documented case of Expacare individually singling out a sick customer.
+   - **Genki Premium** has the strongest contractual language (pool-wide pricing, no individual cancellation). However, Squarelife's documented real-world behavior undermines this: Squarelife voids policies retroactively for alleged non-disclosure triggered by large claim submissions — a mechanism separate from the cancellation clause. The contractual protections are strongest on paper; real-world large-claim behavior is the worst of all plans under review.
    - **Barmenia Plus** — continuity protections not documented in available T&Cs.
 
 2. **Israel and Germany time test:**
@@ -397,12 +563,12 @@ What the €60/month (€720/year) buys:
    - **DR-WALTER claims concentration risk**: DR-WALTER handles claims for both COVRD.EE and Genki. A documented Genki claim (September 2025) went unresolved for months.
    - **Product youth**: COVRD.EE from a small Estonian broker is a newer distribution arrangement.
 
-5. **Expacare Choices as a middle path** (if Israel/Germany time is not a concern):
-   - At ~$317/month, it sits between Barmenia and Genki/Diamond.
-   - Strengths: explicit no-cancellation guarantee for age/health; 40-year Lloyd's-backed insurer; individual policy; Healix emergency assistance; clean claims handler.
-   - ⚠️ New concern: "amend or alter premiums and terms on individual cases" means they can price you out without formally cancelling you. The no-cancellation clause protects against termination but not against unaffordable individual premium increases.
-   - Trade-offs vs Genki: home country restrictions; $10M cap vs no limit; $500k ATMP lifetime cap; no pool-wide pricing protection.
-   - Trade-offs vs Diamond: no USA planned treatment; slightly more expensive at nil excess.
+5. **Expacare Choices — now the primary recommendation** (if Israel/Germany stays are under 6 months per country):
+   - At ~$317/month, cheapest of the three serious options.
+   - Strengths: explicit no-cancellation guarantee for age/health; 40-year Lloyd's-backed insurer; individual policy; own in-house claims team (no DR-WALTER); Healix emergency assistance; UK FCA regulated with FOS access; Hans's 10+ year track record with no documented large-claim failures; no documented pattern of retroactive policy voiding.
+   - Contractual weakness: "amend or alter premiums and terms on individual cases" means they can in theory price you out without formally cancelling you. The informal assurance from senior Expacare staff ("not used as a discretionary repricing mechanism") is not contractually binding. In practice this risk appears low.
+   - Trade-offs vs Genki: home country restrictions; $10M cap vs no limit; $500k ATMP lifetime cap; weaker contractual pricing protection. But Genki's real-world large-claims behavior makes these contractual advantages largely theoretical.
+   - Trade-offs vs Diamond: no USA planned treatment; slightly more expensive vs Diamond at nil excess. But stronger continuity guarantee than OG (cannot cancel for health/age).
 
 6. **Expatriate Group Primary+ — assessed and eliminated:**
    - At ~$169/month it is the cheapest option. No health questions (moratorium underwriting).
@@ -414,5 +580,12 @@ What the €60/month (€720/year) buys:
    - **Expacare's "individual cases" clause** has been clarified informally by a senior Expacare representative: "not used as a discretionary repricing mechanism... compliance flexibility, not uncertainty for members." This does not eliminate the contractual gap but substantially reduces the practical concern. Hans recommends Expacare among the three within budget.
    - **OG §7a** is asserted by Hans to be pool-wide, not individual, with a concrete historical example. The contract text still does not say "for all insured persons" explicitly, but the practical position is similar to Expacare.
    - **Germany** is confirmed by Hans as a separate limit per country, not cumulative with Israel — this removes the compounding concern for Expacare.
-   - **Genki Premium** still has the strongest contractual language on all three dimensions (pool-wide pricing explicit in contract, no individual cancellation, German VVG backstop), but the Expacare practical gap has narrowed significantly based on the senior staff clarification.
+   - **Genki Premium** has the strongest contractual language on all three dimensions (pool-wide pricing explicit in contract, no individual cancellation, German VVG backstop). However, Trustpilot review analysis of real-world large-claim behavior reveals a consistent Squarelife pattern of retroactive policy voiding that bypasses these protections. Contractual language does not protect against the voiding mechanism.
    - **Hans's recommendation**: Expacare, "much more benefit rich and the deductible is annual. You could even remove the deductible and it is almost within budget."
+
+8. **Trustpilot review findings (Genki Native — real-world large-claim behavior):**
+   - **Squarelife retroactive policy voiding**: Multiple documented Genki Native cases where Squarelife voided a policy from day 1 after a large claim was submitted, citing non-disclosure in the original questionnaire. In each case Genki deflected to "Squarelife's decision, we cannot override." Premiums were not refunded in some cases; one user was blacklisted in HIS (industry-wide fraud database). This is the most dangerous failure mode for someone buying insurance specifically for catastrophic illness protection.
+   - **The voiding mechanism bypasses cancellation protections**: The "cannot cancel for claims" clause and "pool-wide pricing" clause operate at renewal. The voiding clause (§19 VVG duty of disclosure breach) is a separate legal mechanism that Squarelife can invoke when a large claim triggers a medical history review. A policy can be void from day 1 without any "cancellation" occurring.
+   - **DR-WALTER emergency hospitalization delays**: Multiple cases of 12–15 hour GOP delays for emergency surgery. In one case, MD Medicus/DR-WALTER tried to redirect the patient to a lower-standard hospital for cost reasons while the patient was acutely ill.
+   - **Zero large-claim success stories**: Across all Trustpilot reviews, there is not a single documented case of someone successfully receiving payment for a catastrophic illness (cancer, major surgery, chronic disease biologics) through Genki Native. All positive reviews describe routine small outpatient claims. This absence is not proof of failure, but it provides no real-world validation of the product's core promise.
+   - **Pool-wide pricing is real**: No reviewer alleges individual premium singling. Price increases described in reviews are pool-wide (all Explorer customers), consistent with the "for all customers" contract language. This protection appears genuine — but is irrelevant if the policy is voided before reaching renewal.
