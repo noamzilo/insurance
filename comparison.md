@@ -10,6 +10,8 @@ SafetyWing is **eliminated**: the $5,000/year hard cap on general outpatient mea
 
 **Regency for Expats Fully Comprehensive is eliminated**: the only relevant tier (all lower tiers have outpatient oncology and chronic condition caps that fail immediately). At ~$236/mo it sits between Barmenia and Expacare on price, but has a $10,000/year hard cap on outpatient chronic condition management, an oncology definition that covers only "chemotherapy and radiotherapy" (immunotherapy/targeted therapy/biologics not explicitly included), a $2,000,000 annual max, terminal illness explicitly excluded, and is governed exclusively by Nevis law with no FCA/BaFin/FOS recourse — the weakest regulatory position of all plans reviewed. See end of document.
 
+**⚠️ HCI / NIMBL Health (Mar 2026):** Received offer. Core 2 + Outpatient 3, nil deductible, ~$325/mo. Annual max $1m (Core 4 = $3m max). Organ transplant hard-capped at $250k lifetime and dialysis at $80k/year across ALL tiers. Underwriter not identified in brochure. "No medical exclusions" claim contradicts "subject to final underwriting" disclaimer. **On hold — see section at end of document.**
+
 **The five relevant plans:**
 
 | Plan | Monthly | Annual max | Outpatient | Chronic outpatient |
@@ -644,3 +646,93 @@ The Membership Guide does not contain an explicit governing law/jurisdiction cla
 | Genki/Squarelife | Liechtenstein FMA — small regulator, no FOS equivalent | Liechtenstein / German courts |
 | OG Diamond | UK FOS (FCA regulated) + Guernsey FSC | England & Wales / Guernsey |
 | Regency | Online arbitration, **Regency selects the arbitrator**, Nevis law | Nevis — essentially inaccessible |
+
+---
+
+## HCI / NIMBL Health — Assessment (Mar 2026)
+
+**Source:** Quote dated 9 Mar 2026 + NIMBL Health Brochure (HCI Group)
+
+### The Offer as Quoted
+
+| Item | Detail |
+|---|---|
+| Provider | Healthcare International (HCI Group), brand: NIMBL Health |
+| Contact | enquiries@healthcareinternational.com, +44 (0)20 7590 8800 (UK) |
+| Plan | Core 2 Inpatient + Outpatient 3 |
+| Coverage area | Worldwide excl. USA (quote shows WW incl. USA header — clarification needed) |
+| Annual max (inpatient + cancer) | **$1,000,000** |
+| Outpatient | **Full refund** (Outpatient 3, up to core cap) |
+| Deductibles | Nil (both inpatient and outpatient) |
+| Annual premium | **$3,904.26 (~$325/mo)** |
+| No dental, no evacuation included | Add-ons available |
+
+The user notes that Core 3 ($2m) and Core 4 ($3m) are also available — premiums for those tiers not quoted.
+
+---
+
+### Benefit Analysis (Core 2 as quoted; notes on Core 3/4 where different)
+
+**What's good:**
+- Outpatient 3 = Full refund (up to core cap) — no separate chronic condition sub-cap visible in the outpatient table. Biologics and expensive outpatient treatment would fall under general outpatient/prescription benefit, not a separate restricted line.
+- Cancer treatment: chemotherapy, radiotherapy, oncology, diagnostics, prescription drugs — all 100% up to the core cap. Explicit "Oncology" line covers more than "chemo and radiotherapy" alone.
+- No deductible on this configuration — every claim from dollar one.
+- Competitive pricing vs Expacare ($325/mo vs $317/mo for a nil-deductible comparison).
+
+**Hard limits that don't scale with the core tier (same across ALL Core 1–4):**
+
+| Benefit | Limit | Impact |
+|---|---|---|
+| **Organ transplant** | **$250k lifetime** | Liver/kidney/heart transplant in a Western country costs $300k–$1m+. This cap applies at Core 4 ($3m) too — it does not scale. Expacare: $3,400,000. OG Diamond: In Full. |
+| **Renal dialysis** | **$80k/year** | Dialysis in the US or UK runs $90k–$150k/year. This cap would leave a dialysis patient with significant out-of-pocket costs every year. Expacare: full refund (inpatient). OG: In Full. |
+| **Hospice/terminal care** | **$200k lifetime** | Hard lifetime cap. Advanced cancer requiring ongoing palliative care over months/years could exceed this. Expacare: covered under general benefits with no separate sub-limit. |
+
+**Annual maximum problem:**
+- Core 2 ($1m): **dealbreaker** for multi-year catastrophic illness. One year of modern immunotherapy ($150k–$300k/year) for 5+ years = $750k–$1.5m. One complex surgery + ICU stay can consume $500k alone.
+- Core 3 ($2m): better, but still capped. Genki/Barmenia have no limit; Expacare is $10m.
+- Core 4 ($3m): the maximum available. Still capped — a multi-decade catastrophic chronic condition (MS, RA, lupus nephritis requiring regular biologics) accumulates over years. And organ transplant stays at $250k regardless.
+
+---
+
+### Critical Missing Information
+
+**⚠️ No underwriter or insurer identified.** The brochure names HCI Group / NIMBL Health as the brand, and Healthcare International as the company. It does not state:
+- Who the underlying risk carrier / insurer is
+- What regulatory body authorises them
+- Whether they are FCA regulated (the UK number suggests possible UK presence)
+- What financial backing exists (Lloyd's? AXA? Own balance sheet?)
+
+This is a significant due diligence gap. Without knowing the underwriter, you cannot assess financial strength, regulatory recourse, or claims track record.
+
+**⚠️ "No medical exclusions" vs "subject to final underwriting" — direct contradiction.**
+The brochure states: *"No hidden limits, no maximum age limit once accepted, and **no medical exclusions – even chronic conditions are covered.**"*
+The quote footer states: *"All quotes are indicative and subject to final underwriting."*
+
+These cannot both be true simultaneously. If underwriting occurs, exclusions can be applied. If no exclusions are possible, underwriting is irrelevant. This needs to be clarified before any application — especially given the pending hemochromatosis investigation.
+
+---
+
+### Verdict: Interesting but Not Competitive for the Stated Use Case
+
+| Criterion | HCI NIMBL (Core 2 as quoted) | Why it fails |
+|---|---|---|
+| Annual max | $1,000,000 | Inadequate for multi-year catastrophic illness |
+| Organ transplant | $250k lifetime (all tiers) | Hard cap too low vs Expacare ($3.4m) / OG (In Full) |
+| Renal dialysis | $80k/year (all tiers) | Insufficient for US/EU dialysis costs |
+| Underwriter identity | **Unknown** | Cannot assess financial strength or regulatory recourse |
+| "No exclusions" claim | Contradicts underwriting disclaimer | Needs clarification — especially for hemochromatosis |
+| Price (nil deductible) | ~$325/mo | Between Expacare ($317 with $850 deductible) and Genki ($346) |
+
+**At Core 4 ($3m, price unknown):** The organ transplant and dialysis hard limits remain. $3m annual max is better but still capped. Price would be substantially higher than the Core 2 quote. Without knowing the price, it's hard to compare — but the structural caps mean Core 4 still can't match Expacare ($10m, $3.4m transplant) or Genki/Barmenia (No Limit).
+
+**The "no medical exclusions" angle:** If this claim is genuine and holds through underwriting (i.e. hemochromatosis and pre-existing conditions are truly covered from day one), this would be a meaningful differentiator. But given the direct contradiction with the underwriting disclaimer, and the unknown insurer identity, this cannot be relied upon without written confirmation.
+
+**Open questions before HCI can be seriously considered:**
+1. Who is the underwriter/risk carrier, and are they FCA-regulated?
+2. What is the premium for Core 3 ($2m) and Core 4 ($3m)?
+3. Does "no medical exclusions" actually mean pre-existing conditions are covered with no underwriting? Or is this marketing language?
+4. Is there a claims track record or Trustpilot / review data for HCI/NIMBL?
+5. What are the renewability terms — can they cancel for health/age/claims?
+
+**Preliminary status: ⚠️ On hold pending clarification.** Not eliminated, but cannot be shortlisted without answers to the above five questions, particularly underwriter identity and the no-exclusions claim.
+
