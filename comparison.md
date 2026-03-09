@@ -197,7 +197,7 @@ This is the most direct available answer. It is an informal written assurance, n
 
 | Question | Barmenia Plus | Expacare Choices | Genki Premium | Optimum Global Diamond |
 |----------|--------------|-----------------|---------------|------------------------|
-| **⚠️ Q15 — Oncology specialty drugs** | Must get written confirmation: does "Medication 100%" cover biologics, immunotherapy, targeted oral cancer drugs? This is the single blocking question. If yes → equivalent to Expacare/Diamond. If no → serious cancer drug gap. | ✅ Cancer treatment (full refund, outpatient) covers cancer drugs. ATMPs ($500k lifetime cap) for gene/cell therapies. Standard biologics/immunotherapy covered under cancer treatment line — **no separate cap.** ⚠️ **§6.20 risk**: "experimental treatment" is excluded using the UK as a guide — a cutting-edge drug not yet standard in UK practice could be refused. | Generic rule: no issue for modern drugs with no generic (most cancer drugs). Potential out-of-pocket cost only for drugs where a generic exists. | ✅ Confirmed in full — explicit TOB line, no ambiguity. |
+| **✅ Q15 — Oncology specialty drugs** | ✅ **Resolved (Hans, Mar 2026): "anything that's medically needed is covered."** Biologics, immunotherapy, targeted oral cancer drugs are covered. Note: this is Hans's verbal confirmation, not a written statement from Barmenia/COVRD.EE directly. Written confirmation from Christoph still advisable before signing. | ✅ Cancer treatment (full refund, outpatient) covers cancer drugs. ATMPs ($500k lifetime cap) for gene/cell therapies. Standard biologics/immunotherapy covered under cancer treatment line — **no separate cap.** ⚠️ **§6.20 risk**: "experimental treatment" is excluded using the UK as a guide — a cutting-edge drug not yet standard in UK practice could be refused. | Generic rule: no issue for modern drugs with no generic (most cancer drugs). Potential out-of-pocket cost only for drugs where a generic exists. | ✅ Confirmed in full — explicit TOB line, no ambiguity. |
 | **⚠️ Israel/Germany home country** | Does German citizenship trigger a second 180-day limit, splitting the allowance? | ⚠️ Rule is **per country, not cumulative** per Hans (27 Feb). Germany and Israel each have their own separate 6-month limit. Not yet verified against Expacare contract language. Practical implication: as long as you spend <6 months in Israel AND <6 months in Germany separately, both are fine. | ✅ Both Israel and Germany get unlimited Full Country Coverage. No issue. | Not a concern per Hans — OG uses declared address, not passport-based home country. |
 | **Direct hospital payment** | ⚠️ Not documented — likely reimbursement | ✅ Healix/Expacare direct settlement | ✅ MCI Assist pays hospital directly | ✅ AXA payment guarantee |
 | **Minimum contract / exit** | ✅ 12 months then monthly | ✅ Annual; pro-rated refund if no claims | ✅ 12 months then monthly | ✅ Now documented: annual, either party can terminate at renewal with 30 days notice (§8). |
@@ -524,8 +524,8 @@ What the €60/month (€720/year) buys:
 | | Barmenia Plus | Expacare Choices | Genki Premium | Optimum Global Diamond | Expatriate Group Primary+ |
 |--|--|--|--|--|--|
 | Monthly | ~$200 | **~$317** | $346 | ~$363 | **~$169** |
-| Cancer treatment | ✅ (⚠️ Q15 specialty drugs) | ✅ (full refund; ATMPs $500k cap) | ✅ (generic rule; low risk) | ✅ confirmed | ✅ (covered to $1.5M max; separate benefit line) |
-| Non-cancer catastrophic outpatient | ✅ No Limit (⚠️ Q15) | ✅ Full Refund | ✅ No Limit | ✅ In Full | ⚠️ **$20,000/year** chronic management cap — eliminated |
+| Cancer treatment | ✅ Hans confirmed (Mar 2026): “anything medically needed is covered” — verbal; written confirmation from Christoph advisable | ✅ (full refund; ATMPs $500k cap) | ✅ (generic rule; low risk) | ✅ confirmed | ✅ (covered to $1.5M max; separate benefit line) |
+| Non-cancer catastrophic outpatient | ✅ No Limit | ✅ Full Refund | ✅ No Limit | ✅ In Full | ⚠️ **$20,000/year** chronic management cap — eliminated |
 | Policy maximum | No Limit | $10,000,000 | No Limit | $8M | ⚠️ **$1,500,000** |
 | Organ transplant | No sub-limit stated | $3,400,000 | In Full | In Full | ⚠️ **$150,000 lifetime** |
 | Israel stays | 180 days/yr | ⚠️ Per Hans: per-country 6-month rule (separate, not cumulative) | **Unlimited** | ⚠️ Workaround only | ⚠️ Same as Expacare — "country for which you hold a passport" |
@@ -553,14 +553,14 @@ What the €60/month (€720/year) buys:
    - **OG**: Germany is not a concern — OG uses declared address as home country, not passport. The Paraguay workaround addresses Israel. Both are informal arrangements.
    - **Genki**: No restriction on either country.
 
-3. **Get Q15 answered by Christoph in writing** (for Barmenia Plus):
-   - If **yes** (Barmenia covers oncology biologics): Barmenia Plus at $200/mo is the clear value winner on price. But weigh the risk factors below.
-   - If **no** (Barmenia does not cover oncology biologics): Barmenia Plus is eliminated for cancer risk. Choose from Expacare, Genki Premium, or Diamond.
+3. **Q15 resolved (Hans, Mar 2026):** Hans confirmed verbally: “anything that’s medically needed is covered” — biologics, immunotherapy, targeted oral cancer drugs are in. Written confirmation from Christoph/Barmenia directly is still advisable before signing, as Hans’s verbal answer is not contractually binding on Barmenia.
+   - **With Q15 resolved:** Barmenia Plus at ~\/mo is now the clear value winner on price. Coverage on the key metrics is equivalent to Expacare/Diamond. The decision now turns entirely on the structural risk factors in point 4 below.
+
 
 4. **Risk factors for Barmenia Plus / COVRD.EE:**
-   - **"Travel insurance" classification**: COVRD.EE's own documents call it an *"international travel group health insurance policy."* This may mean travel-style rules rather than long-term health insurance rules.
-   - **You are not a direct party to the contract**: All rights/obligations exist between DR-WALTER and Barmenia only. No direct legal standing against Barmenia.
-   - **DR-WALTER claims concentration risk**: DR-WALTER handles claims for both COVRD.EE and Genki. A documented Genki claim (September 2025) went unresolved for months.
+   - **“Travel insurance” classification**: COVRD.EE’s own documents call it an *“international travel group health insurance policy.”* This may mean travel-style rules rather than long-term health insurance rules.
+   - **You are not a direct party to the contract**: All rights/obligations exist between DR-WALTER and Barmenia only. No direct legal standing against Barmenia. Disputes go back to DR-WALTER — the same entity that denied you. No FOS equivalent (BaFin ombudsman exists but is less accessible than UK FOS).
+   - **DR-WALTER IS the product** (confirmed in COVRD.EE document, Mar 2026): DR-WALTER GmbH is the **policyholder** and provides **contract and service management** for COVRD.EE — Barmenia is just the risk carrier. This is structurally identical to Genki Explorer, where DR-WALTER was also the operator. The documented Explorer failures (approved claims not paid for months, 12–15h GOP delays, hospital redirection to cheaper facilities, scripted deflection) are operational/organizational failures — same company, same address, same infrastructure. The Explorer/Native distinction is real for Genki’s own products (Native uses Squarelife/MCI Assist) but does not help Barmenia: with COVRD.EE, DR-WALTER created and operates the product itself.
    - **Product youth**: COVRD.EE from a small Estonian broker is a newer distribution arrangement.
 
 5. **Expacare Choices — now the primary recommendation** (if Israel/Germany stays are under 6 months per country):
@@ -586,6 +586,61 @@ What the €60/month (€720/year) buys:
 8. **Trustpilot review findings (Genki Native — real-world large-claim behavior):**
    - **Squarelife retroactive policy voiding**: Multiple documented Genki Native cases where Squarelife voided a policy from day 1 after a large claim was submitted, citing non-disclosure in the original questionnaire. In each case Genki deflected to "Squarelife's decision, we cannot override." Premiums were not refunded in some cases; one user was blacklisted in HIS (industry-wide fraud database). This is the most dangerous failure mode for someone buying insurance specifically for catastrophic illness protection.
    - **The voiding mechanism bypasses cancellation protections**: The "cannot cancel for claims" clause and "pool-wide pricing" clause operate at renewal. The voiding clause (§19 VVG duty of disclosure breach) is a separate legal mechanism that Squarelife can invoke when a large claim triggers a medical history review. A policy can be void from day 1 without any "cancellation" occurring.
-   - **DR-WALTER emergency hospitalization delays**: Multiple cases of 12–15 hour GOP delays for emergency surgery. In one case, MD Medicus/DR-WALTER tried to redirect the patient to a lower-standard hospital for cost reasons while the patient was acutely ill.
+   - **DR-WALTER emergency hospitalization delays (Genki Explorer-specific)**: Multiple cases of 12–15 hour GOP delays for emergency surgery under Genki Explorer (handled by DR-WALTER/MD Medicus). In one case, DR-WALTER tried to redirect the patient to a lower-standard hospital for cost purposes while the patient was acutely ill. **Important clarification**: These are Explorer issues, not Genki Native issues. Genki Native uses Squarelife + MCI Assist, not DR-WALTER. However, COVRD.EE/Barmenia uses the same DR-WALTER as Explorer — so the operational risk documented here applies to Barmenia Plus.
    - **Zero large-claim success stories**: Across all Trustpilot reviews, there is not a single documented case of someone successfully receiving payment for a catastrophic illness (cancer, major surgery, chronic disease biologics) through Genki Native. All positive reviews describe routine small outpatient claims. This absence is not proof of failure, but it provides no real-world validation of the product's core promise.
    - **Pool-wide pricing is real**: No reviewer alleges individual premium singling. Price increases described in reviews are pool-wide (all Explorer customers), consistent with the "for all customers" contract language. This protection appears genuine — but is irrelevant if the policy is voided before reaching renewal.
+
+---
+
+## 12. Pre-Existing Conditions & Underwriting (Mar 2026)
+
+### High Iron / Possible Hemochromatosis
+
+A pending investigation for elevated iron levels (possible hereditary hemochromatosis) introduces a pre-existing condition consideration at application time. Key facts about hemochromatosis for underwriting purposes:
+
+- It is a **blood disorder** (iron overload) and a **hereditary/genetic condition** (HFE gene mutation)
+- Managed by phlebotomy (periodic blood removal) — cheap and low-tech
+- The catastrophic risk is **organ damage** from accumulated iron: liver cirrhosis, heart failure, endocrine/pancreatic damage (diabetes), joint damage
+- If caught early at age 35 with no organ damage yet, life expectancy is essentially normal and management costs are low
+- **Outright rejection from any plan is very unlikely** at 35 with only elevated iron and no diagnosed organ damage
+
+### Impact by Insurer
+
+| Insurer | Underwriting type | Likely outcome |
+|---|---|---|
+| **Expacare** | Full Medical Underwriting (FMU) | Must disclose on application form (Question 5: Blood Disorders; Question 23: pending investigations). Exclusion for iron/hemochromatosis likely applied — not rejection. **Critical: push for narrow exclusion wording** ("hemochromatosis and its direct complications" vs. broad "all liver disease"). No premium loading likely for a 35-year-old with no organ damage. |
+| **Optimum Global** | FMU | Same as Expacare. Hereditary conditions clause adds additional exclusion ground. |
+| **Barmenia Plus / COVRD.EE** | Disclosed; surcharges/exclusions possible | Also does underwriting. Same exclusion risk as Expacare — does not differentiate Barmenia from Expacare on this dimension. |
+| **Expatriate Group** | Moratorium — no health questions | Condition auto-excluded for 2 years (within last-2-years window). After 2 claim-free years, could become coverable. Cheap to manage (phlebotomy), so the 2-year exclusion is less painful than it sounds. |
+| **Genki Native** | No medical underwriting | No exclusion applied at application. Risk: Squarelife may invoke §19 VVG retroactive voiding if a large iron-overload complication claim is submitted and pre-policy blood tests are identified in medical history. |
+
+### Strategic Timing Notes
+
+- **Get the investigation done before applying to FMU insurers (Expacare, OG, Barmenia).** If results are negative (not HHC), declare "investigated high iron, resolved/normal" and likely get a clean policy. If positive, you know exactly what exclusion you're negotiating.
+- **The exclusion wording matters more than the exclusion itself.** A narrow exclusion ("hemochromatosis and its direct sequelae") still covers liver disease from other causes, heart disease from other causes, etc. A broad exclusion ("all liver conditions," "all endocrine disorders") would gut catastrophic coverage. Ask to see the draft exclusion wording before confirming acceptance on any FMU policy.
+- **For Expatriate Group (moratorium):** timing doesn't matter — condition is auto-excluded for 2 years regardless. After 2 years claim-free, may become coverable.
+- **For Genki:** no timing issue at application. But be aware of the Squarelife voiding risk pattern if a large complication claim is ever submitted.
+
+---
+
+## 13. Dispute Resolution & Jurisdiction (Mar 2026)
+
+### Expacare
+
+The Membership Guide does not contain an explicit governing law/jurisdiction clause in the extracted text. The §8.6 arbitration clause covers only **medical opinion** disputes (two experts + umpire) — not legal/contractual disputes.
+
+**Practical dispute pathway:**
+
+1. **UK Financial Ombudsman Service (FOS)** — because Expacare Limited is UK FCA-regulated, they are legally required to offer FOS access. FOS is free, binding on Expacare up to **£415,000**, and accessible from anywhere in the world. Most realistic single-claim disputes (denied cancer claim, policy terms dispute) fall within this limit.
+2. **English courts (England and Wales)** — Expacare Limited is registered in England (Companies House No. 01524095). The underlying insurer is Lloyd's of London syndicates, which operate under English law. Court is expensive and slow from Latin America but is a real, independent judiciary.
+3. **Lloyd's Complaints** — Lloyd's has its own internal complaints process before FOS, adding another no-cost escalation step.
+
+### Comparative dispute recourse
+
+| Insurer | Pre-court mechanism | Court jurisdiction |
+|---|---|---|
+| **Expacare** | **UK FOS — free, binding £415k, accessible worldwide** | England & Wales |
+| Barmenia/COVRD.EE | BaFin + German insurance ombudsman | German courts |
+| Genki/Squarelife | Liechtenstein FMA — small regulator, no FOS equivalent | Liechtenstein / German courts |
+| OG Diamond | UK FOS (FCA regulated) + Guernsey FSC | England & Wales / Guernsey |
+| Regency | Online arbitration, **Regency selects the arbitrator**, Nevis law | Nevis — essentially inaccessible |
