@@ -12,7 +12,7 @@ SafetyWing is **eliminated**: the $5,000/year hard cap on general outpatient mea
 
 **⚠️ HCI / NIMBL Health (Mar 2026):** Received offer. Core 2 + Outpatient 3, nil deductible, ~$325/mo. Annual max $1m (Core 4 = $3m max). Organ transplant hard-capped at $250k lifetime and dialysis at $80k/year across ALL tiers. Underwriter not identified in brochure. "No medical exclusions" claim contradicts "subject to final underwriting" disclaimer. **On hold — see section at end of document.**
 
-**⚠️ William Russell Elite Silver (Mar 2026):** Received quote via Pacific Prime. ~$278/mo Zone 2 (Worldwide excl. USA) / ~$292/mo Zone 1 (Worldwide incl. Germany). Insurer: AWP Health & Life SA (Allianz group). Strongest unconditional renewability language of all plans reviewed — "regardless of your age or state of health, or the number or value of claims." Full cancer coverage (immunotherapy explicitly named). Full chronic condition coverage (monitoring & maintenance). Annual max $2,500,000. Palliative care $50k lifetime. Zone 2 is emergency-only in Germany/EEA — Zone 1 solves this. **Under assessment — see section at end of document.**
+**⚠️ William Russell Elite Silver (Mar 2026):** Received quote via Pacific Prime. ~$278/mo if paying annually (Zone 2, Worldwide excl. USA); $292/mo is the monthly instalment for the same Zone 2 plan. Zone 1 price (full Germany coverage) not yet quoted. Insurer: AWP Health & Life SA (Allianz group). Strongest unconditional renewability language of all plans reviewed — "regardless of your age or state of health, or the number or value of claims." Full cancer coverage (immunotherapy explicitly named). Full chronic condition coverage (monitoring & maintenance). Annual max $2,500,000. Palliative care $50k lifetime. Zone 2 is emergency-only in Germany/EEA — Zone 1 solves this. **Under assessment — see section at end of document.**
 
 **The five relevant plans:**
 
@@ -28,14 +28,14 @@ SafetyWing is **eliminated**: the $5,000/year hard cap on general outpatient mea
 
 | Plan | Monthly | Annual max | Outpatient | Chronic outpatient |
 |------|---------|------------|------------|---------------------|
-| **William Russell Elite Silver** (Pacific Prime) | **~$278** Zone 2 / **~$292** Zone 1 | $2,500,000 | **Full cover** (to annual limit) | **Full cover** (monitoring & maintenance, Silver plan) |
+| **William Russell Elite Silver** (Pacific Prime) | **~$278/yr** (annual) / **$292/mo** (monthly instalment, same Zone 2). Zone 1 price unknown — not quoted | $2,500,000 | **Full cover** (to annual limit) | **Full cover** (monitoring & maintenance, Silver plan) |
 
 Barmenia Best (€245/mo) adds nothing relevant for catastrophic illness — see end of document.
 Genki Basic ($248/mo) has a €1,000,000 annual cap — inadequate if a serious illness runs multi-year.
 Optimum Global sub-Diamond tiers have outpatient caps that cannot handle expensive chronic illness — see end of document.
 Expacare Choices = Core + Option 1 Cancer/Chronic Full + Option 2 Advanced Outpatient + Option 3 Dental/Wellness/Optical; Area 2 (worldwide excl. USA/Caribbean); $850 deductible; with lifestyle discount.
 Expatriate Group Primary+ = WW excl. USA, $500 excess per condition per year, moratorium underwriting. Underwriter: Guardrisk Insurance Company Mauritius Ltd PCC.
-William Russell Elite Silver = Zone 2 (Worldwide excl. USA, emergency-only in Germany/EEA) or Zone 1 (Worldwide, emergency-only in USA), $250 deductible, FMU. Insurer: AWP Health & Life SA (Allianz group). See assessment section at end of document.
+William Russell Elite Silver = Zone 2 (Worldwide excl. USA, emergency-only in Germany/EEA), $250 deductible, FMU. Insurer: AWP Health & Life SA (Allianz group). Zone 1 (full Germany) price not yet quoted. See assessment section at end of document.
 
 ---
 
@@ -663,7 +663,7 @@ The Membership Guide does not contain an explicit governing law/jurisdiction cla
 
 **Source:** Pacific Prime quote (Mar 2026) + WR Elite Policy Wording 2025 (full review)
 **Quote (Zone 2):** $3,333/year (~$278/month), Worldwide excl. USA, FMU, "Lifetime Discount"
-**Zone 1 estimate:** ~$3,501/year (~$292/month), Worldwide (emergency-only in USA up to $50k/45 days)
+**Zone 1:** Price not quoted. $292/month in the Pacific Prime quote is the monthly instalment for Zone 2, not Zone 1. Must request Zone 1 premium separately.
 **Broker:** Pacific Prime (Hanessa Dacayana; hanessa.dacayana@pacificprime.com; +1 332 456 7313)
 
 ### Provider Identity
@@ -730,9 +730,9 @@ The quoted premium ($3,333/year = ~$278/mo) is **Zone 2**: Worldwide excl. USA. 
 | Zone | Price | Germany | Israel | USA |
 |---|---|---|---|---|
 | **Zone 2 (quoted)** | ~$278/mo | ⚠️ Emergency-only, $100k/yr cap | ✅ Full cover | ❌ No cover |
-| **Zone 1 (~$292/mo)** | ~$292/mo | ✅ **Full cover** | ✅ Full cover | ⚠️ Emergency-only, $50k, 45-day trips |
+| **Zone 1 (price unknown)** | Not quoted — must request from Pacific Prime | ✅ **Full cover** | ✅ Full cover | ⚠️ Emergency-only, $50k, 45-day trips |
 
-**The Zone decision:** If Noam plans to receive any meaningful medical treatment in Germany — routine outpatient, specialist visits, or planned care — Zone 2 is inadequate. The $100k emergency-only cap on German care would fail immediately for a planned course of cancer treatment or biologics. Zone 1 at ~$292/month solves this completely and is still cheaper than Expacare ($317/mo), Genki ($346/mo), and OG Diamond ($363/mo).
+**The Zone decision:** If Noam plans to receive any meaningful medical treatment in Germany — routine outpatient, specialist visits, or planned care — Zone 2 is inadequate. The $100k emergency-only cap on German care would fail immediately for a planned course of cancer treatment or biologics. Zone 1 solves this, but the Zone 1 price has not been quoted. It must be requested from Pacific Prime before any comparison with Expacare ($317/mo) is valid.
 
 **Home country comparison vs Expacare:** Expacare treats "any country for which you hold a passport" as home country, subject to >6 months rule per country. WR has no such rule — you may return to your country of nationality and continue renewing "provided local laws permit." There is no 6-month restriction on Germany or Israel stays. The Germany restriction under Zone 2 is a coverage zone limitation (not a home country eligibility issue), solved by upgrading to Zone 1.
 
@@ -759,7 +759,7 @@ No geographic qualifier — applies globally. However:
 | **Organ transplant** | ✅ Full cover, no sub-limit |
 | **Kidney dialysis** | ✅ Full cover |
 | **Insurer strength** | AWP/Allianz — one of the world's largest insurance groups. |
-| **Price (Zone 1)** | ~$292/month — cheaper than Expacare ($317/mo), Genki ($346/mo), OG Diamond ($363/mo) |
+| **Price (Zone 1)** | Unknown — not quoted. Must be requested from Pacific Prime before price comparison is possible. |
 | **Germany/Israel coverage (Zone 1)** | Full cover in both countries; no 6-month cap |
 | **Regulatory** | French ACPR (top-tier) + UK FOS accessible + Belgian Ombudsman |
 
@@ -792,7 +792,7 @@ No geographic qualifier — applies globally. However:
 
 **Zone 2 ($278/mo):** Not recommended for Noam. Emergency-only in Germany makes it inadequate for dual-citizenship use. Good only if German stays are purely tourism with zero planned treatment.
 
-**Zone 1 (~$292/mo):** A serious competitor to Expacare ($317/mo). The $25/month saving buys:
+**Zone 1 (price unknown):** Could be a serious competitor to Expacare ($317/mo) — but the Zone 1 price has not been quoted and must be requested first. If Zone 1 comes in around $300–310/mo, it buys:
 - Stronger renewability language (WR's is unconditional vs Expacare's retain-individual-adjustment-right)
 - No Germany/Israel home country cap (vs Expacare's 6-month per-country rule)
 - Same catastrophic coverage profile (cancer, chronic conditions, transplant, dialysis — all full)
@@ -804,7 +804,7 @@ Expacare keeps:
 - 40-year specific track record with Hans's 10+ year documented history
 - Slightly cleaner UK FCA/FOS recourse chain
 
-**Status: ⚠️ Under assessment. Confirm Zone 1 premium and open questions 3–6 above. If Zone 1 is ~$292/mo and catastrophic claims track record is satisfactory, this plan competes directly with Expacare and may be superior on the renewability dimension that matters most for long-term catastrophic coverage.**
+**Status: ⚠️ Under assessment. Zone 1 premium is the critical unknown — $292/mo in the Pacific Prime quote is the monthly instalment for Zone 2, not a Zone 1 price. Request Zone 1 premium as the first step. If Zone 1 is materially cheaper than Expacare and catastrophic claims track record is satisfactory, this plan could be superior on the renewability dimension.**
 
 ---
 
