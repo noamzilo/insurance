@@ -12,6 +12,8 @@ SafetyWing is **eliminated**: the $5,000/year hard cap on general outpatient mea
 
 **⚠️ HCI / NIMBL Health (Mar 2026):** Received offer. Core 2 + Outpatient 3, nil deductible, ~$325/mo. Annual max $1m (Core 4 = $3m max). Organ transplant hard-capped at $250k lifetime and dialysis at $80k/year across ALL tiers. Underwriter not identified in brochure. "No medical exclusions" claim contradicts "subject to final underwriting" disclaimer. **On hold — see section at end of document.**
 
+**⚠️ William Russell Elite Silver (Mar 2026):** Received quote via Pacific Prime. ~$278/mo Zone 2 (Worldwide excl. USA) / ~$292/mo Zone 1 (Worldwide incl. Germany). Insurer: AWP Health & Life SA (Allianz group). Strongest unconditional renewability language of all plans reviewed — "regardless of your age or state of health, or the number or value of claims." Full cancer coverage (immunotherapy explicitly named). Full chronic condition coverage (monitoring & maintenance). Annual max $2,500,000. Palliative care $50k lifetime. Zone 2 is emergency-only in Germany/EEA — Zone 1 solves this. **Under assessment — see section at end of document.**
+
 **The five relevant plans:**
 
 | Plan | Monthly | Annual max | Outpatient | Chronic outpatient |
@@ -22,11 +24,18 @@ SafetyWing is **eliminated**: the $5,000/year hard cap on general outpatient mea
 | **Optimum Global Diamond** (BrokerFish) | ~$363 | $8,000,000 | **In Full** | In Full |
 | **Expatriate Group Primary+** (BrokerFish) | **~$169** | $1,500,000 | Full (consultations/meds/imaging/cancer) | ⚠️ **$20,000/year** (chronic management only) |
 
+**Under assessment:**
+
+| Plan | Monthly | Annual max | Outpatient | Chronic outpatient |
+|------|---------|------------|------------|---------------------|
+| **William Russell Elite Silver** (Pacific Prime) | **~$278** Zone 2 / **~$292** Zone 1 | $2,500,000 | **Full cover** (to annual limit) | **Full cover** (monitoring & maintenance, Silver plan) |
+
 Barmenia Best (€245/mo) adds nothing relevant for catastrophic illness — see end of document.
 Genki Basic ($248/mo) has a €1,000,000 annual cap — inadequate if a serious illness runs multi-year.
 Optimum Global sub-Diamond tiers have outpatient caps that cannot handle expensive chronic illness — see end of document.
 Expacare Choices = Core + Option 1 Cancer/Chronic Full + Option 2 Advanced Outpatient + Option 3 Dental/Wellness/Optical; Area 2 (worldwide excl. USA/Caribbean); $850 deductible; with lifestyle discount.
 Expatriate Group Primary+ = WW excl. USA, $500 excess per condition per year, moratorium underwriting. Underwriter: Guardrisk Insurance Company Mauritius Ltd PCC.
+William Russell Elite Silver = Zone 2 (Worldwide excl. USA, emergency-only in Germany/EEA) or Zone 1 (Worldwide, emergency-only in USA), $250 deductible, FMU. Insurer: AWP Health & Life SA (Allianz group). See assessment section at end of document.
 
 ---
 
@@ -34,24 +43,24 @@ Expatriate Group Primary+ = WW excl. USA, $500 excess per condition per year, mo
 
 **Note from Hans (Q16):** Even large companies like Allianz Care and Bupa have launched new products and migrated healthy customers to them, leaving sick customers on legacy "closed" plans where no new healthy lives join — causing claim ratios to worsen and premiums to spiral. This structural risk exists regardless of whether a contract says "guaranteed renewal." Hans has seen this with Allianz, Bupa, IMG, and a few others. He considers it an exception rather than the rule but notes there are never absolute lifetime guarantees.
 
-| | Barmenia Plus | Expacare Choices | Genki Premium | Optimum Global Diamond | Expatriate Group Primary+ |
-|--|--|--|--|--|--|
-| **Renewability** | "This contract is not limited in time" — renews indefinitely | **"We will not cancel your plan because of your age or health record"** — explicit | "Does not end with a certain age or after a certain period" — renews indefinitely. Insurer can only cancel for fraud/obligations violation, or full product discontinuation for all customers. | ⚠️ **Either party can terminate at any renewal with 30 days notice** (Membership Guide §8). No restriction on reason. | ⚠️ "We may cancel Your Policy with effect from the next renewal date by giving written notice" — no restriction on reason (§5 General Conditions) |
-| **Age limit to join** | None stated | **Under 65** (individual policy) | None — explicitly documented | None stated | **Under 65** at Effective Date. Can renew indefinitely beyond 65. |
-| **What happens at age 65** | Nothing — policy continues | Can no longer join; existing policy explicitly continues | Nothing — explicitly continues | Unknown | Can no longer join; existing policy can renew indefinitely "provided there is no break in cover" |
-| **Premium increases with age** | Yes — age brackets; 1-month advance notice required | Yes — age brackets published | Yes — age brackets; 1-month advance notice; can cancel if increase is age-triggered | Yes — 30 days advance notice (§7a) | Yes — age brackets. Also: NCB mechanism means sick people effectively pay up to 20% more |
+| | Barmenia Plus | Expacare Choices | Genki Premium | Optimum Global Diamond | Expatriate Group Primary+ | William Russell Elite Silver |
+|--|--|--|--|--|--|--|
+| **Renewability** | "This contract is not limited in time" — renews indefinitely | **"We will not cancel your plan because of your age or health record"** — explicit | "Does not end with a certain age or after a certain period" — renews indefinitely. Insurer can only cancel for fraud/obligations violation, or full product discontinuation for all customers. | ⚠️ **Either party can terminate at any renewal with 30 days notice** (Membership Guide §8). No restriction on reason. | ⚠️ "We may cancel Your Policy with effect from the next renewal date by giving written notice" — no restriction on reason (§5 General Conditions) | **✅ "You may continue to renew your policy each year regardless of your age or state of health, or the number or value of claims you have made."** Only cancellable for non-payment, fraud, or compliance/legal bar on covering country of residence. Most unconditional language of all plans reviewed. |
+| **Age limit to join** | None stated | **Under 65** (individual policy) | None — explicitly documented | None stated | **Under 65** at Effective Date. Can renew indefinitely beyond 65. | Under 76 (FMU); under 40 (Moratorium). Renews indefinitely beyond those ages. |
+| **What happens at age 65** | Nothing — policy continues | Can no longer join; existing policy explicitly continues | Nothing — explicitly continues | Unknown | Can no longer join; existing policy can renew indefinitely "provided there is no break in cover" | Nothing — policy continues indefinitely. |
+| **Premium increases with age** | Yes — age brackets; 1-month advance notice required | Yes — age brackets published | Yes — age brackets; 1-month advance notice; can cancel if increase is age-triggered | Yes — 30 days advance notice (§7a) | Yes — age brackets. Also: NCB mechanism means sick people effectively pay up to 20% more | Yes — age brackets + general annual changes. No NCB or individual claims-based pricing mechanism found. |
 
 ### Contractual Continuity & Premium Protection
 
 **This is the single most important section for long-term catastrophic coverage.** Full policy wording review (not just TOB/brochures) reveals three fundamentally different contractual positions on whether an insurer can single you out after you become expensive:
 
-| | Barmenia Plus | Expacare Choices | Genki Premium | Optimum Global Diamond | Expatriate Group Primary+ |
-|--|--|--|--|--|--|
-| **Can they single you out on premium?** | Not documented in available T&Cs | Contract says YES (§2.3), but senior Expacare confirmed informally: "not used as a discretionary repricing mechanism." **Practical risk low; contractual gap remains.** | **NO** — premiums adjusted "for all customers" (§5.5). Age brackets only (§5.4). | Hans says pool-wide. Contract says "We may vary... premium" (§7a) without explicit pool-wide restriction. | ⚠️ "We reserve the right to amend the Policy and premiums" at renewal (no restriction). **Plus: NCB mechanism creates de-facto individual pricing — sick people lose 20% discount.** |
-| **Can they refuse to renew you?** | Not documented | **NO for age/health** — "We will not cancel your plan because of your age or health record" (§2.4). | **NO** — only for fraud/obligations or full product discontinuation for everyone (§5.3). | ⚠️ **YES** — either party can terminate at any renewal, 30 days notice, no restriction (§8). | ⚠️ **YES** — "We may cancel Your Policy with effect from the next renewal date" — no restriction stated. |
-| **Can they change your terms individually?** | Not documented | ⚠️ **YES** — same §2.3 covers terms as well as premiums | **NO** — contract changes apply to everyone at yearly renewal. | ⚠️ **YES** — §4 allows amending cover/premium for "material changes" | ⚠️ **YES** — "Where any material change affects Your risk... We have the right to impose an amendment to cover, premium or withdraw cover altogether." |
-| **Premium rating model** | Not documented | No community rating language. No pool-wide mechanism documented. | **Explicit pool-wide rating.** "Adjusts the prices for all customers." | No community rating language. | No community rating language. NCB acts as individual pricing mechanism (sick = no discount). |
-| **Governing insurance law** | German VVG (strong) | UK FCA | **German VVG applies** (via Liechtenstein EEA + German operations) | Guernsey law (lighter) | **English law**, UK FCA (Strategic Insurance Services Ltd, FCA #307133). Underwriter: Guardrisk Insurance Mauritius (weaker backing than Lloyd's/AXA). |
+| | Barmenia Plus | Expacare Choices | Genki Premium | Optimum Global Diamond | Expatriate Group Primary+ | William Russell Elite Silver |
+|--|--|--|--|--|--|--|
+| **Can they single you out on premium?** | Not documented in available T&Cs | Contract says YES (§2.3), but senior Expacare confirmed informally: "not used as a discretionary repricing mechanism." **Practical risk low; contractual gap remains.** | **NO** — premiums adjusted "for all customers" (§5.5). Age brackets only (§5.4). | Hans says pool-wide. Contract says "We may vary... premium" (§7a) without explicit pool-wide restriction. | ⚠️ "We reserve the right to amend the Policy and premiums" at renewal (no restriction). **Plus: NCB mechanism creates de-facto individual pricing — sick people lose 20% discount.** | Not explicitly prohibited; no individual pricing mechanism found. Premium factors are age, plan, zone, country of residence + general annual changes. No "all customers" explicit language but no individual claims-based clause either. Stronger than Expacare in practice (no §2.3 equivalent). |
+| **Can they refuse to renew you?** | Not documented | **NO for age/health** — "We will not cancel your plan because of your age or health record" (§2.4). | **NO** — only for fraud/obligations or full product discontinuation for everyone (§5.3). | ⚠️ **YES** — either party can terminate at any renewal, 30 days notice, no restriction (§8). | ⚠️ **YES** — "We may cancel Your Policy with effect from the next renewal date" — no restriction stated. | **✅ Explicitly NO** — "regardless of your age or state of health, or the number or value of claims." Can only cancel for non-payment, fraud, abusive behavior, or compliance bar on covering country. Stronger than Expacare. |
+| **Can they change your terms individually?** | Not documented | ⚠️ **YES** — same §2.3 covers terms as well as premiums | **NO** — contract changes apply to everyone at yearly renewal. | ⚠️ **YES** — §4 allows amending cover/premium for "material changes" | ⚠️ **YES** — "Where any material change affects Your risk... We have the right to impose an amendment to cover, premium or withdraw cover altogether." | Not found — no "material underwriting factors" individual repricing clause. Cancellation section only permits cancellation for non-payment/fraud/abusive behavior. Not documented as pool-wide either. |
+| **Premium rating model** | Not documented | No community rating language. No pool-wide mechanism documented. | **Explicit pool-wide rating.** "Adjusts the prices for all customers." | No community rating language. | No community rating language. NCB acts as individual pricing mechanism (sick = no discount). | Not explicitly pool-wide; not explicitly individual. Premium factors are structural (age, zone, plan) — no claims-based loading mechanism found. |
+| **Governing insurance law** | German VVG (strong) | UK FCA | **German VVG applies** (via Liechtenstein EEA + German operations) | Guernsey law (lighter) | **English law**, UK FCA (Strategic Insurance Services Ltd, FCA #307133). Underwriter: Guardrisk Insurance Mauritius (weaker backing than Lloyd's/AXA). | French law (AWP Health & Life SA, ACPR). UK FOS accessible (William Russell Europe SRL). Belgian Ombudsman (WR Europe). French Insurance Mediator. ICC Paris arbitration. |
 
 **The Expacare contradiction — now clarified:** Expacare promises "We will not cancel your plan because of your age or health record" — but in the same document reserves "the right to amend or alter premiums and terms on individual cases." When challenged on this directly, a senior Expacare representative stated (via Hans, 27 Feb 2026): *"In practice, it is rarely exercised on policies mid-term and is not used as a discretionary repricing mechanism. Any changes would only occur in clearly defined circumstances (e.g. regulatory requirements or material underwriting factors)... The intention is to ensure compliance flexibility, not to introduce uncertainty for members."*
 
@@ -541,6 +550,7 @@ What the €60/month (€720/year) buys:
 | Product classification | ⚠️ "Travel group health insurance" | ✅ Long-term IPMI | Long-term expat health | Long-term international health | IPMI |
 | Insurer backing | Barmenia (BaFin) | **Lloyd's of London** | Squarelife + Genki | AXA reinsurer | ⚠️ **Guardrisk Mauritius** |
 | Claims track record | No data (shares DR-WALTER with Genki) | ✅ 10+ years; no documented issues; own in-house team | ⚠️ **Squarelife voids policies after large claims (multiple Genki Native cases documented). DR-WALTER: approved claims not paid, 2–4 month delays, 12–15h GOP delays. Zero documented large catastrophic illness claims successfully paid.** | ✅ ~2 weeks; very few declines | Hans personally uses it. ⚠️ "More questions on submitted claims." |
+| **William Russell Elite Silver** (~$278 Z2 / ~$292 Z1) | **✅ Strongest renewability of all** — "regardless of age, health, or claims." No individual pricing mechanism. | AWP/Allianz: $2,500,000 annual max | ✅ Full (to $2.5M limit) | ✅ Full (monitoring & maintenance) | ✅ Full incl. immunotherapy (explicit) | ✅ No sub-limit | ✅ Full | ⚠️ **$50k lifetime** | ✅ Israel (Z2 full); ⚠️ Germany emergency-only Z2 ($100k); Z1 = Germany full cover | ⚠️ "Where possible" direct settlement; no named GOP | ✅ Explicit no-cancel-for-health/claims | Not documented (no individual mechanism found) | ✅ Explicit | French ACPR + UK FOS accessible + Belgian Ombudsman | ✅ Yes (individual certificate via WRA) | International IPMI (AWP/Allianz) | AWP Health & Life SA (Allianz group, ACPR France) — very strong | No documented major failures; Feefo Platinum 2024; Pacific Prime broker |
 
 **The decision tree:**
 
@@ -646,6 +656,155 @@ The Membership Guide does not contain an explicit governing law/jurisdiction cla
 | Genki/Squarelife | Liechtenstein FMA — small regulator, no FOS equivalent | Liechtenstein / German courts |
 | OG Diamond | UK FOS (FCA regulated) + Guernsey FSC | England & Wales / Guernsey |
 | Regency | Online arbitration, **Regency selects the arbitrator**, Nevis law | Nevis — essentially inaccessible |
+
+---
+
+## William Russell Elite Silver (~$278–$292/mo) — Assessment (Mar 2026)
+
+**Source:** Pacific Prime quote (Mar 2026) + WR Elite Policy Wording 2025 (full review)
+**Quote (Zone 2):** $3,333/year (~$278/month), Worldwide excl. USA, FMU, "Lifetime Discount"
+**Zone 1 estimate:** ~$3,501/year (~$292/month), Worldwide (emergency-only in USA up to $50k/45 days)
+**Broker:** Pacific Prime (Hanessa Dacayana; hanessa.dacayana@pacificprime.com; +1 332 456 7313)
+
+### Provider Identity
+
+| Item | Detail |
+|---|---|
+| **Insurer** | **AWP Health & Life SA** (Allianz group), France. Regulated by French ACPR (Autorité de Contrôle Prudentiel et de Résolution). |
+| **Administrator** | William Russell Europe SRL (Belgium, FSMA-registered as mandated underwriter, acting on behalf of AWP). |
+| **Policy structure** | William Russell Association for Health, Financial Protection and Well-Being (WRA) master policy. You receive an individual certificate of insurance. You are the policyholder. Direct legal standing as individual. |
+| **Emergency assistance** | CEGA Group (+44 1243 621 155, 24/7) |
+| **Claims handler** | William Russell directly (own team) |
+| **Broker** | Pacific Prime — world's largest international health insurance intermediary; 300,000+ clients; 18+ years |
+| **Regulatory** | French ACPR (insurer AWP) + **UK FOS accessible** (for complaints on WR Europe SRL) + Belgian Ombudsman (des assurances) + French Insurance Mediator (AWP). ICC Paris arbitration for disputes. |
+| **Governing law** | French law (AWP/Allianz). |
+| **Insurer stability** | AWP Health & Life SA is part of Allianz group — one of the world's largest insurers. Very strong financial backing. |
+
+---
+
+### Benefits — Silver Plan, Zone 2 ($3,333/year)
+
+| Benefit | Silver Plan |
+|---|---|
+| **Annual limit** | **US$2,500,000** |
+| **Outpatient (GP, specialist, labs, imaging, prescriptions)** | **Full cover** up to annual limit — no separate outpatient cap |
+| **Chronic condition (acute flare-ups)** | **Full cover** |
+| **Chronic condition (monitoring & maintenance — regular consultations, tests, medications)** | **Full cover** — this is the Silver plan's key differentiator from Bronze/SilverLite |
+| **Cancer treatment (chemo, radio, immunotherapy, consultations, tests, scans, drugs)** | **Full cover** — immunotherapy, targeted therapies, and chemotherapy are **explicitly named** in the TOB |
+| **Cancer genome tests** | Full cover |
+| **Organ transplant + related treatment + anti-rejection drugs** | **Full cover** — no sub-limit |
+| **Kidney dialysis** (inpatient, daypatient, outpatient) | **Full cover** |
+| **Palliative / hospice care** | ⚠️ **$50,000 lifetime limit** (applies across all "lifetime care" benefits) |
+| **Mental health** | $75,000 lifetime limit; 10 OP sessions/year; **12-month waiting period** |
+| **Rehabilitation after hospitalization** | Up to $4,000/year |
+| **Home nursing** | Up to $10,000/condition/year |
+| **Hereditary / congenital conditions** | ⚠️ **$80,000 lifetime cap** — AND completely excluded if any symptoms, abnormal test results, or prior diagnosis existed before entry. Critical for hemochromatosis (pending elevated iron investigation — see Section 12). |
+| **Preventive health checks** | $400/year (blood tests, cancer screening, cardiac risk); $300/year vaccinations — 6-month waiting period |
+| **Hospital cash benefit** | $200/night, up to 60 nights |
+| **Deductible** | $250/year (all claims) |
+| **Pre-auth requirement** | Required 5 days in advance for inpatient/daypatient. Emergency: contact within 24 hours of admission. 80% reimbursement if not obtained. |
+| **Claims deadline** | 6 months from treatment date (absolute bar: 12 months). Same as Expacare. |
+
+---
+
+### Renewability — The Key Strength
+
+**"You may continue to renew your policy each year regardless of your age or state of health, or the number or value of claims you have made."**
+
+WR can only cancel for: non-payment of premium, fraud or misrepresentation, abusive behavior toward staff, or if local law prevents offering cover in the member's country of residence. There is no equivalent of OG's "either party can terminate at renewal" (§8), Expacare's "amend premiums/terms on individual cases" (§2.3), or Expatriate Group's no-restriction cancellation right.
+
+No individual claims-based premium loading mechanism was found in the policy wording. Premium factors at renewal are: age, plan, zone, country of residence, and general annual price changes — all structural, not claims-based. No NCB mechanism exists.
+
+**This is the strongest contractual renewal protection of all plans reviewed** — even stronger than Expacare, which explicitly cannot cancel for age/health but retains the right to adjust premiums on individual cases.
+
+---
+
+### Coverage Zones — Critical Issue for Dual Citizenship
+
+The quoted premium ($3,333/year = ~$278/mo) is **Zone 2**: Worldwide excl. USA. Under Zone 2, the following countries get **emergency-only treatment** (capped at $100,000/year):
+
+> United Kingdom, **all EEA countries (including Germany)**, Andorra, Channel Islands, Gibraltar, Greenland, Monaco, San Marino, Switzerland, UAE, Singapore, Thailand (certain hospitals), China, Hong Kong, Macau, Taiwan, Japan, Australia, New Zealand, Canada, Caribbean.
+
+**Israel is not in the Zone 2 restricted list** — Israel gets full cover under Zone 2.
+
+| Zone | Price | Germany | Israel | USA |
+|---|---|---|---|---|
+| **Zone 2 (quoted)** | ~$278/mo | ⚠️ Emergency-only, $100k/yr cap | ✅ Full cover | ❌ No cover |
+| **Zone 1 (~$292/mo)** | ~$292/mo | ✅ **Full cover** | ✅ Full cover | ⚠️ Emergency-only, $50k, 45-day trips |
+
+**The Zone decision:** If Noam plans to receive any meaningful medical treatment in Germany — routine outpatient, specialist visits, or planned care — Zone 2 is inadequate. The $100k emergency-only cap on German care would fail immediately for a planned course of cancer treatment or biologics. Zone 1 at ~$292/month solves this completely and is still cheaper than Expacare ($317/mo), Genki ($346/mo), and OG Diamond ($363/mo).
+
+**Home country comparison vs Expacare:** Expacare treats "any country for which you hold a passport" as home country, subject to >6 months rule per country. WR has no such rule — you may return to your country of nationality and continue renewing "provided local laws permit." There is no 6-month restriction on Germany or Israel stays. The Germany restriction under Zone 2 is a coverage zone limitation (not a home country eligibility issue), solved by upgrading to Zone 1.
+
+---
+
+### Experimental Treatment Exclusion
+
+> "You are not covered for treatment or medicine which in our reasonable opinion is experimental or unproven based on generally accepted current clinical evidence and generally accepted medical practice."
+
+No geographic qualifier — applies globally. However:
+- The phrase "generally accepted current clinical evidence and generally accepted medical practice" is broader and less jurisdiction-specific than Expacare's §6.20 (which uses UK practice as a guide)
+- Immunotherapy (Keytruda, Opdivo), targeted oral therapies (Tagrisso, Gleevec), and most modern biologics are now standard-of-care globally — this exclusion should not apply to them
+- Risk is primarily at the frontier of experimental treatments — gene therapy, novel ATMPs, first-in-class drugs in Phase II trials. Same risk category as other plans.
+
+---
+
+### Why This Plan Deserves Serious Consideration
+
+| Criterion | Assessment |
+|---|---|
+| **Renewability** | **Strongest of all plans reviewed.** "Regardless of age, state of health, or claims." No individual singling mechanism found. Better than Expacare (which retains individual premium adjustment right) and far better than OG (terminable at any renewal). |
+| **Cancer incl. immunotherapy** | ✅ Explicitly named in TOB — chemotherapy, radiotherapy, immunotherapy, consultations, tests, scans, drugs. No generic rule. |
+| **Chronic conditions** | ✅ Full cover — both acute flare-ups AND monitoring/maintenance (Silver plan). Biologics for RA/MS/Crohn's covered without a separate chronic cap. |
+| **Organ transplant** | ✅ Full cover, no sub-limit |
+| **Kidney dialysis** | ✅ Full cover |
+| **Insurer strength** | AWP/Allianz — one of the world's largest insurance groups. |
+| **Price (Zone 1)** | ~$292/month — cheaper than Expacare ($317/mo), Genki ($346/mo), OG Diamond ($363/mo) |
+| **Germany/Israel coverage (Zone 1)** | Full cover in both countries; no 6-month cap |
+| **Regulatory** | French ACPR (top-tier) + UK FOS accessible + Belgian Ombudsman |
+
+### Key Weaknesses vs Shortlisted Plans
+
+| Criterion | Assessment |
+|---|---|
+| **Annual limit** | $2,500,000 — lower than Expacare ($10M), Genki/Barmenia (No Limit), OG ($8M). A multi-decade condition running at $150k–$300k/year accumulates risk over 10+ years. |
+| **Palliative care** | ⚠️ $50,000 lifetime — very low. Advanced cancer requiring extended palliative care over months/years could exhaust this. Expacare has no separate palliative sub-limit. |
+| **Hereditary conditions** | ⚠️ $80,000 lifetime AND excluded if any prior symptoms/test results. For hemochromatosis: pending elevated iron investigation will likely result in either a specific exclusion (FMU) or no coverage at all for the $80k hereditary benefit. Must disclose the pending investigation. |
+| **No named GOP provider** | "Where possible we will settle directly" — no Healix/AXA/MCI equivalent named. Cashless access available as add-on. GOP delays possible. |
+| **Claims track record** | No documented catastrophic illness claims history available for review. Feefo Platinum Trusted Service Award 2024 indicates strong general customer satisfaction — but that reflects routine claims, not major cancer/chronic illness scenarios. |
+| **French law / ICC Paris arbitration** | Disputes governed by French law; ICC Paris arbitration. UK FOS accessible for WR Europe SRL service complaints, but not necessarily for AWP claim decisions. Slightly more complex than a pure UK Expacare policy. |
+| **Zone 2 Germany restriction** | Emergency-only in Germany — solved by Zone 1 upgrade but must be accounted for in price comparison. |
+
+---
+
+### Open Questions Before Serious Consideration
+
+1. **Zone 1 exact premium** — confirm $3,501/year (~$292/mo) via Pacific Prime.
+2. **Hemochromatosis handling** — will elevated iron/pending investigation result in a specific hereditary condition exclusion, a pre-existing condition exclusion, or something broader? Get investigation done first; then push for narrow exclusion wording if positive.
+3. **Catastrophic claims track record** — can Pacific Prime provide evidence of large claims (cancer, transplants, extended biologics) successfully paid through William Russell?
+4. **"Lifetime Discount" nature** — is the locked-in percentage guaranteed for life at the same rate, or can it be amended at renewal?
+5. **Cashless access (GOP) availability** — what is the premium for the cashless access add-on and which hospital networks does it cover in LatAm?
+6. **UK FOS scope** — does it cover AWP Health & Life SA claim decisions, or only William Russell Europe SRL service complaints?
+
+---
+
+### Preliminary Verdict: Strong Contender at Zone 1 (~$292/mo)
+
+**Zone 2 ($278/mo):** Not recommended for Noam. Emergency-only in Germany makes it inadequate for dual-citizenship use. Good only if German stays are purely tourism with zero planned treatment.
+
+**Zone 1 (~$292/mo):** A serious competitor to Expacare ($317/mo). The $25/month saving buys:
+- Stronger renewability language (WR's is unconditional vs Expacare's retain-individual-adjustment-right)
+- No Germany/Israel home country cap (vs Expacare's 6-month per-country rule)
+- Same catastrophic coverage profile (cancer, chronic conditions, transplant, dialysis — all full)
+- Stronger insurer backing (Allianz group vs Lloyd's syndicates — different, both strong)
+
+Expacare keeps:
+- Higher annual limit ($10M vs $2.5M)
+- No palliative care sub-limit (WR: $50k lifetime)
+- 40-year specific track record with Hans's 10+ year documented history
+- Slightly cleaner UK FCA/FOS recourse chain
+
+**Status: ⚠️ Under assessment. Confirm Zone 1 premium and open questions 3–6 above. If Zone 1 is ~$292/mo and catastrophic claims track record is satisfactory, this plan competes directly with Expacare and may be superior on the renewability dimension that matters most for long-term catastrophic coverage.**
 
 ---
 
