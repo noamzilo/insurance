@@ -19,7 +19,7 @@ SafetyWing is **eliminated**: the $5,000/year hard cap on general outpatient mea
 | Plan | Monthly | Annual max | Outpatient | Chronic outpatient |
 |------|---------|------------|------------|---------------------|
 | **Barmenia Plus** (NOMADS.insure) | ~$200 (€185) | **No Limit** | **No Limit** | No Limit (⚠️ Q15) |
-| **Expacare Choices** (BrokerFish) | **~$317** ($850 deductible + lifestyle discount) | $10,000,000 | **Full Refund** | Full Refund (via cancer/chronic module) |
+| **Expacare Choices** (BrokerFish) | **~$291** ($850 deductible, no dental add-on) | $10,000,000 | **Full Refund** | Full Refund (via cancer/chronic module) |
 | **Genki Native Premium** | **$346** | **No Limit** | **No Limit** | No Limit (generic rule) |
 | **Optimum Global Diamond** (BrokerFish) | ~$363 | $8,000,000 | **In Full** | In Full |
 | **Expatriate Group Primary+** (BrokerFish) | **~$169** | $1,500,000 | Full (consultations/meds/imaging/cancer) | ⚠️ **$20,000/year** (chronic management only) |
@@ -33,7 +33,7 @@ SafetyWing is **eliminated**: the $5,000/year hard cap on general outpatient mea
 Barmenia Best (€245/mo) adds nothing relevant for catastrophic illness — see end of document.
 Genki Basic ($248/mo) has a €1,000,000 annual cap — inadequate if a serious illness runs multi-year.
 Optimum Global sub-Diamond tiers have outpatient caps that cannot handle expensive chronic illness — see end of document.
-Expacare Choices = Core + Option 1 Cancer/Chronic Full + Option 2 Advanced Outpatient + Option 3 Dental/Wellness/Optical; Area 2 (worldwide excl. USA/Caribbean); $850 deductible; with lifestyle discount.
+Expacare Choices = Core + Option 1 Cancer/Chronic Full + Option 2 Advanced Outpatient; Area 2 (worldwide excl. USA/Caribbean); $850 deductible. No dental/wellness/optical add-on. $4,104/yr base → $3,488/yr after 15% deductible discount.
 Expatriate Group Primary+ = WW excl. USA, $500 excess per condition per year, moratorium underwriting. Underwriter: Guardrisk Insurance Company Mauritius Ltd PCC.
 William Russell Elite Silver = Zone 2 (Worldwide excl. USA, emergency-only in Germany/EEA), $250 deductible, FMU. Insurer: AWP Health & Life SA (Allianz group). Zone 1 (full Germany) price not yet quoted. See assessment section at end of document.
 
@@ -194,7 +194,7 @@ This is the most direct available answer. It is an informal written assurance, n
 |--|--|--|--|--|
 | | Barmenia Plus | Expacare Choices | Genki Premium | Optimum Global Diamond | Expatriate Group Primary+ |
 |--|--|--|--|--|--|
-| **Monthly premium** | **~$200 (€185)** | **~$317** ($3,809/yr with $850 deductible + lifestyle discount) | **$346** | **~$363** | **~$169** ($2,032/yr, $500 excess/condition/year) |
+| **Monthly premium** | **~$200 (€185)** | **~$291** ($3,488/yr; $4,104 base, 15% off with $850 deductible) | **$346** | **~$363** | **~$169** ($2,032/yr, $500 excess/condition/year) |
 | **Minimum contract** | 12 months, then monthly | Annual; pro-rated refund if no claims | 12 months, then monthly | Annual; 30-day termination notice at renewal | **Annual; not cancellable mid-year** after 14-day cooling off (unless permanently returned to home country, no claims, refund per scale) |
 | **Renewability** | Indefinite | **"Will not cancel because of age or health record."** Can amend premiums/terms on individual cases. | Indefinite; cannot cancel for claims; pool-wide pricing | ⚠️ Either party can terminate at renewal, 30 days notice, no restriction | ⚠️ "We may cancel Your Policy with effect from the next renewal date" — no restriction stated. Indefinite beyond 65 "provided no break in cover." |
 | **Waiting periods** | Psychotherapy: 10 months. Dental: 10 months. | Wellness: 1 year. Addiction: 1 year. | Mental health: 6 months. Dental major: 12 months. | Psychiatric: 10 months. | Psychiatric outpatient: **12 months.** Maternity: 12 months. Pre-existing conditions excluded until **24 months symptom/treatment-free.** |
@@ -426,7 +426,7 @@ SafetyWing covers cancer treatment at 100% under its own benefit line. However, 
 
 ---
 
-## Barmenia Plus (~$200/mo) vs Expacare Choices (~$317/mo) — +$117/month
+## Barmenia Plus (~$200/mo) vs Expacare Choices (~$291/mo) — +$91/month
 
 | Benefit | Barmenia Plus | Expacare Choices | Impact |
 |---------|--------------|-----------------|--------|
@@ -439,11 +439,11 @@ SafetyWing covers cancer treatment at 100% under its own benefit line. However, 
 | **Product classification** | ⚠️ "Travel group health insurance" | Long-term IPMI | Expacare is better structured for long-term serious illness. |
 | **Policy maximum** | No Limit | $10,000,000 | Barmenia is strictly better here for multi-decade catastrophic scenarios. |
 
-**Verdict on +$117/month for Expacare over Barmenia:** Justified if: (a) Q15 is not confirmed in writing for Barmenia, (b) you want an individual policy with direct legal standing, (c) you want 40+ year Lloyd's-backed stability. Major caveat: if you plan to spend significant time in Israel, **Expacare may be incompatible** — the >6 months outside rule is a hard product eligibility requirement, not a coverage limitation.
+**Verdict on +$91/month for Expacare over Barmenia:** Justified if: (a) Q15 is not confirmed in writing for Barmenia, (b) you want an individual policy with direct legal standing, (c) you want 40+ year Lloyd's-backed stability. Major caveat: if you plan to spend significant time in Israel, **Expacare may be incompatible** — the >6 months outside rule is a hard product eligibility requirement, not a coverage limitation.
 
 ---
 
-## Expacare Choices (~$317/mo) vs Genki Premium ($346/mo) — +$29/month for Genki
+## Expacare Choices (~$291/mo) vs Genki Premium ($346/mo) — +$55/month for Genki
 
 | Benefit | Expacare Choices | Genki Premium | Impact |
 |---------|-----------------|---------------|--------|
@@ -464,7 +464,7 @@ SafetyWing covers cancer treatment at 100% under its own benefit line. However, 
 
 ---
 
-## Expacare Choices (~$317/mo) vs Optimum Global Diamond (~$363/mo) — +$46/month for Diamond
+## Expacare Choices (~$291/mo) vs Optimum Global Diamond (~$363/mo) — +$72/month for Diamond
 
 | Benefit | Expacare Choices | Optimum Global Diamond | Impact |
 |---------|-----------------|------------------------|--------|
@@ -479,7 +479,7 @@ SafetyWing covers cancer treatment at 100% under its own benefit line. However, 
 | **Emergency assistance** | Healix (British Foreign Services) | AXA (very large global network) | Both excellent. |
 | **Product age** | 40+ years | Stable since ~2017 | Expacare is longer established. |
 
-**Verdict:** At $46/month more, Diamond buys better USA planned treatment coverage and slightly better documented claims reliability. But Expacare is now clearly superior on continuity: it has an explicit no-cancellation guarantee for age/health (even if it can still individually adjust premiums), while OG has no such protection — either party can terminate at any renewal for any reason. Both can individually adjust premiums. If long-term continuity matters, Expacare is the better choice of these two.
+**Verdict:** At $72/month more, Diamond buys better USA planned treatment coverage and slightly better documented claims reliability. But Expacare is now clearly superior on continuity: it has an explicit no-cancellation guarantee for age/health (even if it can still individually adjust premiums), while OG has no such protection — either party can terminate at any renewal for any reason. Both can individually adjust premiums. If long-term continuity matters, Expacare is the better choice of these two.
 
 ---
 
@@ -534,7 +534,7 @@ What the €60/month (€720/year) buys:
 
 | | Barmenia Plus | Expacare Choices | Genki Premium | Optimum Global Diamond | Expatriate Group Primary+ |
 |--|--|--|--|--|--|
-| Monthly | ~$200 | **~$317** | $346 | ~$363 | **~$169** |
+| Monthly | ~$200 | **~$291** | $346 | ~$363 | **~$169** |
 | Cancer treatment | ✅ Hans confirmed (Mar 2026): “anything medically needed is covered” — verbal; written confirmation from Christoph advisable | ✅ (full refund; ATMPs $500k cap) | ✅ (generic rule; low risk) | ✅ confirmed | ✅ (covered to $1.5M max; separate benefit line) |
 | Non-cancer catastrophic outpatient | ✅ No Limit | ✅ Full Refund | ✅ No Limit | ✅ In Full | ⚠️ **$20,000/year** chronic management cap — eliminated |
 | Policy maximum | No Limit | $10,000,000 | No Limit | $8M | ⚠️ **$1,500,000** |
@@ -576,7 +576,7 @@ What the €60/month (€720/year) buys:
    - **Product youth**: COVRD.EE from a small Estonian broker is a newer distribution arrangement.
 
 5. **Expacare Choices — now the primary recommendation** (if Israel/Germany stays are under 6 months per country):
-   - At ~$317/month, cheapest of the three serious options.
+   - At ~$291/month, cheapest of the three serious options.
    - Strengths: explicit no-cancellation guarantee for age/health; 40-year Lloyd's-backed insurer; individual policy; own in-house claims team (no DR-WALTER); Healix emergency assistance; UK FCA regulated with FOS access; Hans's 10+ year track record with no documented large-claim failures; no documented pattern of retroactive policy voiding.
    - Contractual weakness: "amend or alter premiums and terms on individual cases" means they can in theory price you out without formally cancelling you. The informal assurance from senior Expacare staff ("not used as a discretionary repricing mechanism") is not contractually binding. In practice this risk appears low.
    - Trade-offs vs Genki: home country restrictions; $10M cap vs no limit; $500k ATMP lifetime cap; weaker contractual pricing protection. But Genki's real-world large-claims behavior makes these contractual advantages largely theoretical.
@@ -732,7 +732,7 @@ The quoted premium ($3,333/year = ~$278/mo) is **Zone 2**: Worldwide excl. USA. 
 | **Zone 2 (quoted)** | ~$278/mo | ⚠️ Emergency-only, $100k/yr cap | ✅ Full cover | ❌ No cover |
 | **Zone 1 (price unknown)** | Not quoted — must request from Pacific Prime | ✅ **Full cover** | ✅ Full cover | ⚠️ Emergency-only, $50k, 45-day trips |
 
-**The Zone decision:** If Noam plans to receive any meaningful medical treatment in Germany — routine outpatient, specialist visits, or planned care — Zone 2 is inadequate. The $100k emergency-only cap on German care would fail immediately for a planned course of cancer treatment or biologics. Zone 1 solves this, but the Zone 1 price has not been quoted. It must be requested from Pacific Prime before any comparison with Expacare ($317/mo) is valid.
+**The Zone decision:** If Noam plans to receive any meaningful medical treatment in Germany — routine outpatient, specialist visits, or planned care — Zone 2 is inadequate. The $100k emergency-only cap on German care would fail immediately for a planned course of cancer treatment or biologics. Zone 1 solves this, but the Zone 1 price has not been quoted. It must be requested from Pacific Prime before any comparison with Expacare ($291/mo) is valid.
 
 **Home country comparison vs Expacare:** Expacare treats "any country for which you hold a passport" as home country, subject to >6 months rule per country. WR has no such rule — you may return to your country of nationality and continue renewing "provided local laws permit." There is no 6-month restriction on Germany or Israel stays. The Germany restriction under Zone 2 is a coverage zone limitation (not a home country eligibility issue), solved by upgrading to Zone 1.
 
@@ -792,7 +792,7 @@ No geographic qualifier — applies globally. However:
 
 **Zone 2 ($278/mo):** Not recommended for Noam. Emergency-only in Germany makes it inadequate for dual-citizenship use. Good only if German stays are purely tourism with zero planned treatment.
 
-**Zone 1 (price unknown):** Could be a serious competitor to Expacare ($317/mo) — but the Zone 1 price has not been quoted and must be requested first. If Zone 1 comes in around $300–310/mo, it buys:
+**Zone 1 (price unknown):** Could be a serious competitor to Expacare ($291/mo) — but the Zone 1 price has not been quoted and must be requested first. If Zone 1 comes in around $280–300/mo, it buys:
 - Stronger renewability language (WR's is unconditional vs Expacare's retain-individual-adjustment-right)
 - No Germany/Israel home country cap (vs Expacare's 6-month per-country rule)
 - Same catastrophic coverage profile (cancer, chronic conditions, transplant, dialysis — all full)
@@ -836,7 +836,7 @@ The user notes that Core 3 ($2m) and Core 4 ($3m) are also available — premium
 - Outpatient 3 = Full refund (up to core cap) — no separate chronic condition sub-cap visible in the outpatient table. Biologics and expensive outpatient treatment would fall under general outpatient/prescription benefit, not a separate restricted line.
 - Cancer treatment: chemotherapy, radiotherapy, oncology, diagnostics, prescription drugs — all 100% up to the core cap. Explicit "Oncology" line covers more than "chemo and radiotherapy" alone.
 - No deductible on this configuration — every claim from dollar one.
-- Competitive pricing vs Expacare ($325/mo vs $317/mo for a nil-deductible comparison).
+- Competitive pricing vs Expacare ($325/mo vs ~$291/mo Expacare with $850 deductible, or ~$342/mo Expacare nil deductible).
 
 **Hard limits that don't scale with the core tier (same across ALL Core 1–4):**
 
@@ -880,7 +880,7 @@ These cannot both be true simultaneously. If underwriting occurs, exclusions can
 | Renal dialysis | $80k/year (all tiers) | Insufficient for US/EU dialysis costs |
 | Underwriter identity | **Unknown** | Cannot assess financial strength or regulatory recourse |
 | "No exclusions" claim | Contradicts underwriting disclaimer | Needs clarification — especially for hemochromatosis |
-| Price (nil deductible) | ~$325/mo | Between Expacare ($317 with $850 deductible) and Genki ($346) |
+| Price (nil deductible) | ~$325/mo | Between Expacare (~$291 with $850 deductible, ~$342 nil deductible) and Genki ($346) |
 
 **At Core 4 ($3m, price unknown):** The organ transplant and dialysis hard limits remain. $3m annual max is better but still capped. Price would be substantially higher than the Core 2 quote. Without knowing the price, it's hard to compare — but the structural caps mean Core 4 still can't match Expacare ($10m, $3.4m transplant) or Genki/Barmenia (No Limit).
 
